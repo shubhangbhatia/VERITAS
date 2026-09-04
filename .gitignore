@@ -1,0 +1,38 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+client/node_modules/
+server/node_modules/
+dist/
+client/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+ml/venv/
+ml/__pycache__/
+*.egg-info/
+.eggs/
+
+# ML Models (large files — store separately)
+ml/models/*.pkl
+ml/models/*.joblib
+
+# Data (may contain PII)
+ml/data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

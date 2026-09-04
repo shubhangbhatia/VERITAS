@@ -1,0 +1,901 @@
+id,name,age,address,zip_code,phone,email,pan_prefix,account_age_months,address_history_count,shared_phone_count,shared_email_count,payment_smoothness,age_address_mismatch,ring_id,is_fraud
+00d2e1a8-c8b9-4c84-ab7a-eb22c740549d,Bhavya Nazareth,66,"458 Mall Chowk, Bhalswa Jahangir Pur, 545059",545059,8016582029,fariq704@outlook.com,ABUJJ,68,3,1,169,1.5479,0.25,0,0
+616ebc2e-97b8-4f4e-a63d-d156a6f0c441,Urvi Nagi,39,"848 Wadhwa Circle, Rewa, 549052",549052,6055800027,janaki886@yahoo.com,SBEMW,19,3,1,181,0.7287,0.6042,0,0
+b8877817-d2d9-4064-9cda-3b37bfd11459,Inaya Lad,41,"473 Raval Street, Hospet, 727264",727264,6827718129,yauvani970@rediffmail.com,DKLEP,111,2,1,158,1.8678,0.25,0,0
+b9e54092-ef73-4785-91c1-ef208456570b,Saumya Deshmukh,31,"679 Ratti Zila, Jehanabad, 842833",842833,8090254257,utkarsh215@gmail.com,KDHBE,68,1,1,172,0.7275,0.1667,0,0
+8d5845ea-66ca-4556-86fb-d96bacf26b33,Wridesh Yadav,42,"723 Chandra Circle, Ozhukarai, 607662",607662,6289517187,saksham25@yahoo.com,KREMZ,107,2,1,181,1.0448,0.25,0,0
+02f44ad4-8252-46b0-9cca-c355b18a63fc,Vanya Sankaran,57,"776 Sahni Road, Jamshedpur, 469704",469704,7388856225,thomas580@outlook.com,KYWPK,19,2,1,169,1.9594,0.3042,0,0
+91b413a7-708a-4250-84de-9975addbd5c4,Tanveer Wali,49,"881 Bhakta Nagar, Parbhani, 373136",373136,8249363123,vrinda38@yahoo.com,UIMZK,64,3,1,181,2.2924,0.375,0,0
+5fc81458-cf3c-44b8-a7d8-0e9c626a17de,Harinakshi Shankar,66,"609 Goswami Circle, Patna, 773113",773113,8290965610,ladli110@hotmail.com,FTORF,115,5,1,169,1.1231,0.4167,0,0
+1f4e735d-da17-4463-ae2e-7b97a09f27d5,Yashasvi Sunder,61,"205 Sarin Path, Alappuzha, 562121",562121,7715518844,ojasvi881@yahoo.com,SYQUN,48,4,1,181,0.567,0.3333,0,0
+ca24e600-41b3-4ee4-b1e0-f32c0293db77,Nandini Arya,52,"775 Balakrishnan Circle, Chinsurah, 761454",761454,6193802620,pranav866@outlook.com,UETWH,95,2,1,169,0.3824,0.2,0,0
+343e352b-f485-4569-b236-f56afe79b43b,Dipta Dhaliwal,23,"793 Kulkarni Nagar, Jalandhar, 174185",174185,8691545226,chandresh820@outlook.com,QEZSY,30,1,1,169,2.0314,0.25,0,0
+40075017-f321-4007-92eb-e7ebb509df09,Faris Sheth,63,"524 Sachar Zila, Malda, 477327",477327,7273524103,aditya601@outlook.com,LRLGE,61,5,1,169,1.3151,0.4167,0,0
+6f53a233-3ffd-4b0c-958c-dafb88f658df,Karan Mukhopadhyay,31,"722 Ramaswamy Nagar, Vijayawada, 803760",803760,7206953541,panini708@yahoo.com,ZXREX,54,2,1,181,2.0269,0.3333,0,0
+bb6eef4f-2475-4824-ac8f-294a370fc5eb,Yahvi Samra,53,"916 Sinha Nagar, Siliguri, 741001",741001,9012770632,chaaya913@hotmail.com,EYHRG,112,3,1,169,1.1181,0.3,0,0
+5e7b3eb4-dd63-45b5-830c-2710d44c4e07,Sachi Halder,52,"101 Nadig Zila, Ichalkaranji, 421238",421238,8143468239,lucky825@hotmail.com,WHXWV,115,4,1,169,0.6613,0.4,0,0
+c3e14b10-ff75-45c2-99d9-0ad8efa1cd46,Patrick Mane,65,"391 Nazareth Street, Ulhasnagar, 496090",496090,6309810796,dhriti299@rediffmail.com,KXGMG,41,1,1,158,2.4563,0.0833,0,0
+a43ee34f-952a-4afc-b8cf-76b9bfe60076,Girish Varughese,28,"505 Solanki, Madhyamgram, 360261",360261,7316373516,faras57@rediffmail.com,DXLPN,17,1,1,158,2.4205,0.3958,0,0
+c25e48a1-e7c9-41dc-9221-663d375d546f,Hemani Kashyap,33,"767 Nori Chowk, Mysore, 521847",521847,8704120092,inaya525@yahoo.com,AVRWO,72,1,1,181,2.1249,0.1667,0,0
+48fcec75-4a2c-43e5-bf09-3c0df0e2f6a3,Udarsh Patil,58,"292 Saxena Zila, Gangtok, 646260",646260,6501716445,manan781@hotmail.com,KOIPK,12,4,1,169,1.8322,0.65,0,0
+063433d7-33c8-454a-a764-a99c694a26ca,Champak Sha,23,"45 Kar Marg, Nizamabad, 865654",865654,6515319520,elijah370@rediffmail.com,IQVRZ,61,1,1,158,1.3528,0.25,0,0
+7fa525b7-378b-4f78-9fdb-1bca4fcde04a,Falak Baria,27,"512 Jaggi Zila, Nagercoil, 877195",877195,6052812735,vrishti581@hotmail.com,ULFRJ,43,1,1,169,0.5964,0.25,0,0
+50213bb8-8886-45b9-84be-a97bf1d995cb,Pranit Rao,68,"503 Rajagopalan Ganj, Adoni, 671529",671529,7220125608,chakradev202@yahoo.com,ABTMV,26,2,1,181,1.8092,0.1667,0,0
+1c095aab-e291-49bd-a787-f2a371b7272f,Teerth Mohanty,47,"792 Mukherjee Nagar, Bidhannagar, 695871",695871,6203818769,azad739@yahoo.com,BEWUG,49,2,1,181,0.4117,0.25,0,0
+d7e6ef69-f57f-4f44-97d5-8c240f58bc9f,Pallavi Mukherjee,25,"221 Ramakrishnan Circle, Davanagere, 225270",225270,8106794975,ayush810@outlook.com,MSPTN,51,2,1,169,1.3141,0.5,0,0
+5ca32fb8-94b2-435e-80f8-8e1766a149d5,Pahal More,62,"1 Kata Zila, Bhind, 377469",377469,9258784448,nandini264@hotmail.com,HOILZ,90,4,1,169,2.3805,0.3333,0,0
+a90011e5-5c34-4920-aa36-e58328d391bd,Chaitanya Mital,26,"956 Minhas Street, Jamnagar, 846938",846938,8308948706,bina666@gmail.com,WIVKD,28,2,1,172,1.4402,0.5,0,0
+903726a7-b5af-4176-b253-6637f2d33e6c,Qasim Naik,28,"304 Dash Circle, Etawah, 409352",409352,6824008427,bakhshi115@gmail.com,OMLEB,118,1,1,172,2.3703,0.25,0,0
+49852c35-fee5-4163-85ec-53ab5182ee19,Laban Subramaniam,34,"770 Sami Circle, Ghaziabad, 573696",573696,9609873126,saanvi512@outlook.com,GUZEL,85,1,1,169,1.1567,0.1667,0,0
+c12f0190-338e-4fd4-9395-421c78d38205,Forum Patel,27,"85 Mukhopadhyay Marg, Phusro, 538028",538028,9120072024,oeshi873@hotmail.com,RXSRC,24,1,1,169,0.6635,0.25,0,0
+4c356492-7b76-49b4-bd0c-d7ec78e4182c,Urvi Ram,55,"477 Bir Ganj, Raiganj, 771151",771151,9025298670,chaman507@outlook.com,KBLTD,118,1,1,169,2.0757,0.1,0,0
+498d9ef1-a606-4fca-8c14-a522556f7ef8,Peter Suri,26,"4 Khalsa Street, Anantapuram, 680671",680671,8546015851,henry871@outlook.com,THFOZ,81,1,1,169,1.7536,0.25,0,0
+9adf47c4-b214-4909-ab71-d342d0a17bed,Brijesh Jain,60,"828 Baral, Amritsar, 608949",608949,9987313797,jasmit711@gmail.com,VJOHK,76,1,1,172,1.1404,0.0833,0,0
+780ddfb6-f24e-4af6-8026-42d781d5f3b7,Max Goswami,47,"528 Bhardwaj Circle, Haldia, 119782",119782,7973748969,pahal754@gmail.com,NJDDR,44,3,1,172,0.9606,0.375,0,0
+386ac261-4f09-4eb5-acc1-cea6707743df,Ayush Sundaram,60,"789 Nayar Zila, Shimla, 614515",614515,9367747226,kiaan305@gmail.com,NIMEX,47,3,1,172,1.1434,0.25,0,0
+c17814a9-bf6d-49c9-b9f3-afaa223495a3,Triveni Shere,52,"225 Chand Ganj, Khammam, 612322",612322,8566084706,gaurang573@gmail.com,BPFPA,17,1,1,172,1.844,0.2458,0,0
+8f0ac52b-60ab-440d-a9a7-9f187193a845,Urishilla Yohannan,32,"84 Pillai Street, Kanpur, 764522",764522,6073228360,chatresh707@rediffmail.com,WOSVM,87,1,1,158,0.8234,0.1667,0,0
+87f3c138-fdca-4b13-bbdf-6783e943cd0c,Forum Suresh,36,"280 Zacharia Ganj, Surat, 498670",498670,8627298069,wriddhish587@gmail.com,CLWEG,74,1,1,172,1.0202,0.1667,0,0
+d6760062-9297-4144-86a4-1291a0941167,Warda Tripathi,64,"26 Bir, Ghaziabad, 716713",716713,8822850116,isaac540@rediffmail.com,ASSIA,104,4,1,158,2.2833,0.3333,0,0
+af7a32b4-c42c-46cd-90ed-babef3e9363f,Girik Nagar,56,"150 Memon Path, Bahraich, 132359",132359,9056730306,ria286@hotmail.com,QCBKH,31,4,1,169,1.8669,0.4,0,0
+ed306dd8-a556-4f27-afd6-7f479869daf9,Chatura Korpal,52,"918 Ghose Zila, Durg, 224460",224460,7673037183,forum494@outlook.com,RIIQB,35,2,1,169,2.3623,0.2,0,0
+08b8b1ed-9a9f-4a40-8320-730e1c6b7ed7,Upasna Saxena,50,"317 Kumar Ganj, Ludhiana, 794735",794735,9746886239,januja151@hotmail.com,BMJYS,41,2,1,169,1.435,0.2,0,0
+b3c55412-3e6b-4c2e-bc2a-2849822684f0,Faras Lata,55,"569 Borra, Jalgaon, 691803",691803,8512405682,falguni594@rediffmail.com,KPWTS,50,3,1,158,0.9919,0.3,0,0
+0150fcd2-8d4f-4a86-a8da-b18717780c29,Chandran Sethi,43,"780 Buch Street, Tirupati, 443571",443571,6997683890,manan248@gmail.com,QXITT,34,3,1,172,1.6635,0.375,0,0
+57655539-5bc1-4346-9764-73b847347618,Kai Khare,60,"408 Rau Ganj, Darbhanga, 218022",218022,7217672019,fiyaz799@gmail.com,DJCXB,26,2,1,172,1.6585,0.1667,0,0
+009a3208-e5c4-4029-8648-799601d38ee2,Meghana Som,67,"62 Setty Chowk, Madhyamgram, 745083",745083,8076597595,watika301@hotmail.com,BNDLM,83,3,1,169,1.98,0.25,0,0
+269a7e13-b48f-4c05-ab3d-207b7158817e,Ijaya Singhal,36,"768 Zacharia Circle, Uluberia, 755613",755613,9230817214,aishani257@outlook.com,HFQYE,85,2,1,169,0.3357,0.3333,0,0
+155c280b-76bc-4c2c-a7d5-5e8f95f049e0,Charvi Bali,62,"572 Mahajan Road, Asansol, 731650",731650,8801413811,william752@yahoo.com,NENGQ,19,3,1,181,0.6936,0.3542,0,0
+67a97476-4cef-420b-beed-d1d75f8ca23a,Gaurangi Kar,41,"190 Dayal Ganj, Kottayam, 192336",192336,7285072517,sanya573@outlook.com,SXRVS,51,1,1,169,1.9787,0.125,0,0
+49fc4840-7a2b-46c4-ad40-70a7a28d04be,Ladli Buch,27,"4 Dalal, Katni, 671617",671617,7206496935,jai505@rediffmail.com,REHGH,78,1,1,158,1.3671,0.25,0,0
+02349b71-7276-4a14-9be5-afa6f9af6a1f,Gabriel Minhas,56,"490 Vyas Road, Sambhal, 871357",871357,8223322280,odika659@gmail.com,THZIZ,45,4,1,172,2.1877,0.4,0,0
+b7deada9-dfcb-4dff-8f8d-346c53d77921,Chavvi Goyal,63,"199 Shetty Road, Bharatpur, 280436",280436,8897861031,chaman234@gmail.com,BAGBC,60,4,1,172,0.7982,0.3333,0,0
+744874f1-4e97-4c8e-ae20-aa5805d617c8,Udyati Gaba,24,"203 Nadig Ganj, Arrah, 368423",368423,7583230241,vedant31@yahoo.com,JUCYH,15,1,1,181,0.8283,0.4375,0,0
+bc73f186-c5fe-4ea3-a940-3c4f4c8764a9,Brinda Oak,63,"406 Dey Chowk, Malda, 161708",161708,8096085874,bachittar598@hotmail.com,QTOZU,64,4,1,169,1.4699,0.3333,0,0
+ef185ab5-e976-459b-956c-00d22758dcbe,Kala Karan,40,"316 Nazareth Street, Miryalaguda, 320781",320781,9674266299,vihaan98@yahoo.com,FMWZB,56,2,1,181,2.4122,0.25,0,0
+e04fdaf7-f1b5-4e9d-bb19-eda353f060ce,Wyatt Dubey,41,"613 Chopra, Alappuzha, 435196",435196,9013290227,varenya554@hotmail.com,KPFRI,63,1,1,169,1.5546,0.125,0,0
+7cc02ef8-f31b-46c6-8eb8-0f3ee5f29947,Kamala Sagar,68,"635 Nigam Marg, Sultan Pur Majra, 428593",428593,6863878294,riya340@outlook.com,QCNBV,35,1,1,169,0.5855,0.0833,0,0
+041dd069-b58f-4f1e-a5db-48509382c36e,Diya Dutt,59,"103 Kanda Circle, Karawal Nagar, 646334",646334,6396522395,rishi835@hotmail.com,XASYO,41,2,1,169,1.5388,0.2,0,0
+1d285ec4-157b-4541-9cf7-3ec154ebc940,Rayaan Parmer,39,"281 Master Street, Mumbai, 327016",327016,9112849718,ria367@rediffmail.com,WOPXE,30,1,1,158,2.3823,0.1667,0,0
+0754fae3-deae-466c-a36d-b39fb0b61bda,Widisha Som,59,"547 Shankar Circle, Sambalpur, 658515",658515,9734257540,indali670@rediffmail.com,ATUBX,19,4,1,158,1.7775,0.5042,0,0
+431006b5-bde7-456b-bfe8-fcd91f4c29d1,Jackson Barad,53,"915 Bhagat Circle, Berhampur, 267877",267877,7164175823,sathvik807@gmail.com,TFNIN,12,3,1,172,0.5264,0.55,0,0
+90eb48c1-d264-48a7-9363-7356371873b5,Hemangini Soni,34,"544 Ravel Marg, Loni, 363842",363842,9451712368,yauvani384@gmail.com,UANLR,28,2,1,172,1.7791,0.3333,0,0
+e304d8c2-2d1a-4350-9822-afe46b83b6a6,Eshana Chatterjee,66,"797 Ganesh Chowk, Khora , 747764",747764,9501111783,tamanna33@rediffmail.com,OOHTU,113,1,1,158,0.6984,0.0833,0,0
+42a3b18b-4b0c-4bfc-8460-44b53e9900bf,Urishilla Pandey,57,"919 Datta Chowk, Narasaraopet, 819255",819255,7983584461,ekantika510@outlook.com,TWFVH,30,2,1,169,2.3722,0.2,0,0
+ad6d4c03-f867-451d-b868-54fc2267d3af,Alka Grover,51,"864 Chad Circle, Ratlam, 129591",129591,7002156321,harrison205@hotmail.com,VNARB,75,1,1,169,2.2433,0.1,0,0
+b02ab87b-bef3-4e81-b599-e72bd6490adf,Raksha Sarin,28,"129 Mital Ganj, Proddatur, 192703",192703,7073564757,chatura723@gmail.com,IVYBU,48,2,1,172,0.457,0.5,0,0
+ac530882-df24-4e7b-8958-ff371d1c08a3,Banjeet Om,54,"228 Biswas Zila, Tumkur, 638920",638920,9780856271,aashi725@rediffmail.com,LRAFP,47,4,1,158,1.016,0.4,0,0
+345da55d-6e29-4b93-a97a-b3e3c84c5867,Adweta Kala,45,"317 Dhar Street, Durg, 178881",178881,7103142175,rishi134@rediffmail.com,TUMDR,24,2,1,158,0.9123,0.25,0,0
+6c39ff1b-1d1e-4b1a-bb5e-586cb4682378,Nisha Mallick,38,"530 Bansal Chowk, Lucknow, 578272",578272,8596905150,maanas172@outlook.com,MIXEJ,16,1,1,169,0.658,0.3333,0,0
+f5dc234a-644e-445b-a912-cb266221caed,Yachana Sur,34,"38 Ratti Road, Patiala, 842856",842856,7884318848,dhruv358@yahoo.com,AXOGV,50,1,1,181,0.9687,0.1667,0,0
+6de19c27-865a-443e-bc9e-12536539e6c0,Reyansh Agrawal,24,"970 Chatterjee Nagar, Anantapuram, 437414",437414,9422971252,indira781@rediffmail.com,XZKLD,26,1,1,158,1.4607,0.25,0,0
+1eb4a626-1d9b-4e33-96a0-bb73c4e8b964,Odika Butala,40,"191 Chatterjee Ganj, Meerut, 563114",563114,6656094565,udyati223@hotmail.com,LPMPB,27,1,1,169,1.3809,0.125,0,0
+09ab341c-0a9e-4ac6-aa3d-12d6f1a8ff4f,Bhavika Sandhu,53,"790 Oza Nagar, Karawal Nagar, 292080",292080,6499825080,vivaan58@hotmail.com,KJNVR,112,3,1,169,1.2544,0.3,0,0
+d6f3471a-0468-4522-b2eb-1b2f3c1baa86,Joshua Nanda,33,"266 Mand Road, Gurgaon, 215470",215470,9320865237,yashodhara483@outlook.com,DLRKF,67,2,1,169,0.3075,0.3333,0,0
+d480e27b-ec34-4049-b378-5636d585615b,Nidhi Wagle,35,"799 Kadakia, Miryalaguda, 223642",223642,8764925158,anthony214@outlook.com,LKGPC,32,2,1,169,1.2296,0.3333,0,0
+1c5c11ae-bc71-453f-9dab-c70dfd18c69f,Ekalinga Sunder,56,"392 Salvi Chowk, Jammu, 900578",900578,9598564205,osha621@yahoo.com,AVHVM,113,1,1,181,1.0864,0.1,0,0
+a4f6ebfe-8f3d-4bac-9cee-eb504651fece,Theodore Purohit,48,"254 Konda Marg, Gulbarga, 399454",399454,7441491699,jack613@yahoo.com,TGSWH,96,4,1,181,1.292,0.5,0,0
+ffa3c804-10c1-47eb-9a2b-906c02f240fa,Nihal Peri,60,"192 Koshy Nagar, Bhiwandi, 390316",390316,7348170580,darsh185@hotmail.com,WKECN,74,1,1,169,1.3522,0.0833,0,0
+54abb0f9-200d-46ad-9a81-ed3e01c42750,Bimala Kota,54,"724 Kalita Path, Thiruvananthapuram, 202506",202506,8380032963,arin699@yahoo.com,GDVTH,98,1,1,181,0.7369,0.1,0,0
+6dd2b891-b6af-4563-b65a-685b3bb27625,Faqid Garg,32,"940 Vaidya Ganj, Bilaspur, 893466",893466,8905151864,veer268@rediffmail.com,WIPDJ,58,2,1,158,2.4289,0.3333,0,0
+d9728a49-2450-4cf0-8c78-4faac5a3d8f0,Sudiksha Sodhi,45,"108 Contractor Nagar, Nandyal, 316783",316783,7584868999,eshana211@outlook.com,UTBZP,55,1,1,169,0.9384,0.125,0,0
+ad0481be-da9a-4c7e-8258-99c959fb264d,Faraj Rama,33,"130 Vig Circle, Kanpur, 381276",381276,8793897015,chakradhar391@gmail.com,DZQWJ,22,1,1,172,2.4566,0.2083,0,0
+43240d41-4f70-4ed5-9450-70b6c9177051,Nidhi Chada,24,"612 Narayanan, Singrauli, 602094",602094,8158328182,pushti435@rediffmail.com,NCFFI,31,2,1,158,1.0938,0.5,0,0
+c11e27bb-5b4c-47c8-9457-25733dd26596,Girish Mahajan,51,"771 Puri Path, Jhansi, 402345",402345,9574949022,liam544@hotmail.com,AWOSH,102,4,1,169,1.8748,0.4,0,0
+c16ce003-e748-4c59-80ea-a5fa7be0d19d,Sachi Kala,61,"114 Khare Ganj, Bongaigaon, 116798",116798,7246095396,chaitanya201@gmail.com,NJYOU,70,1,1,172,1.4168,0.0833,0,0
+98aae72d-e2cd-40c4-9144-a6735eb77330,Forum Taneja,48,"742 Sawhney Zila, Tirunelveli, 684419",684419,9433853247,tejas990@yahoo.com,XRJGG,30,2,1,181,2.3883,0.25,0,0
+5510de4c-4de0-4eb9-bda0-9e7f1f90c504,Lipika Chauhan,51,"998 Naik Circle, Rourkela, 626254",626254,7421838545,yashica826@hotmail.com,BRLHJ,82,3,1,169,1.7349,0.3,0,0
+05b6d2d3-8863-4a23-92c6-a9ff4398e095,Shivani Anne,28,"892 Mane Path, Sonipat, 716620",716620,6843579786,oliver686@yahoo.com,AQYIQ,12,2,1,181,2.2216,0.75,0,0
+4d4245c2-70af-46f2-9823-859efb1d51d9,Vincent Nazareth,54,"963 Ahuja, Chandrapur, 133369",133369,7611398986,nathan561@gmail.com,WNBMN,112,3,1,172,1.2702,0.3,0,0
+846a6e9a-c791-48ad-b40a-287b42bfc6be,Rachita Baria,23,"942 Thakkar Zila, Ahmedabad, 684888",684888,7107522459,waida265@yahoo.com,GHOOF,110,1,1,181,0.4698,0.25,0,0
+b543b696-bd6d-4492-94aa-a345444aaf53,Kalpit Bhattacharyya,60,"735 Dani Street, Begusarai, 375837",375837,6797796120,yashawini583@outlook.com,OBJWD,41,3,1,169,1.8004,0.25,0,0
+1cc6f062-6db6-4a75-a2f0-3d007c251efe,Vasana Rajagopalan,23,"828 Gour Road, Mahbubnagar, 356095",356095,7173505831,harish804@rediffmail.com,QTQPC,73,1,1,158,0.4335,0.25,0,0
+e97c5db0-0d88-4826-bd92-1b52a8a97bc9,Ikshita Singhal,68,"461 Dani Ganj, Khora , 502469",502469,9060652740,triveni848@yahoo.com,FSHJI,57,3,1,181,2.04,0.25,0,0
+783e52b1-43af-400d-bbfc-99a6b5049ff2,Vedika Verma,32,"747 Chander, Indore, 653090",653090,8510740913,leela112@gmail.com,ZMNKP,38,1,1,172,1.8107,0.1667,0,0
+be4209a1-3374-472b-925c-5d5f1ec8fdf2,Xavier Tailor,58,"332 Chana Street, Guna, 275921",275921,9426033620,yashvi915@yahoo.com,LJEGZ,83,4,1,181,2.2578,0.4,0,0
+74bf8db5-5e49-445c-9cb8-38b7cb548751,Kabir Saraf,43,"891 Joshi Zila, Fatehpur, 243311",243311,7274897917,jonathan458@outlook.com,TGHQT,106,1,1,169,1.3764,0.125,0,0
+b70acd71-f343-47bc-ac00-bb8c52830a55,Ayush Bal,67,"450 Kumer Street, Silchar, 393578",393578,8683414651,balvan659@gmail.com,BGCOC,70,2,1,172,0.9289,0.1667,0,0
+93a5a85a-fefc-446b-8009-60b09f3e959b,Ubika Kar,61,"510 Dutta Chowk, Satara, 594844",594844,7647102767,chameli485@yahoo.com,IDWIZ,93,1,1,181,1.0598,0.0833,0,0
+88bfe930-5ecc-4ca4-a67e-0777b3fd27ba,Kalpit Bhakta,42,"529 Mukherjee, Siwan, 354804",354804,8165182755,radha233@rediffmail.com,GYRXM,64,2,1,158,0.7393,0.25,0,0
+8d07fee0-0608-4ee1-a3af-d7d5546b0063,Unni Chada,56,"486 Chowdhury Nagar, Gulbarga, 670046",670046,9111457683,chakradev938@yahoo.com,DEORL,25,4,1,181,2.4923,0.4,0,0
+689608c8-25a4-4ef9-93cc-7a6432a7a50c,Elijah Baria,29,"40 Bobal Ganj, Chennai, 667306",667306,7176417268,anay53@rediffmail.com,ACSJC,114,1,1,158,1.604,0.25,0,0
+dc6e534c-b11c-47d9-923a-5b2f71030118,Victor Nadkarni,32,"759 Krishnamurthy Path, Kulti, 611652",611652,6559835411,rachana664@outlook.com,IMEJG,38,2,1,169,1.8563,0.3333,0,0
+4332cacc-4a8f-4404-8b59-c74e26ace1fa,Henry Sandal,49,"747 Kumer Road, Bhubaneswar, 387823",387823,6436371892,inaya203@rediffmail.com,QDDKH,43,2,1,158,0.7228,0.25,0,0
+a74c1542-84f8-4f0e-ab1c-cffc6310313b,Nitara Handa,43,"869 Salvi Nagar, Haldia, 839529",839529,8806601382,manan756@hotmail.com,CLHFN,119,3,1,169,0.6805,0.375,0,0
+ad97eda1-06f0-41fd-99d5-31c6746cf07d,Naveen Bajwa,29,"326 Memon Nagar, Begusarai, 167786",167786,9063048913,dalbir791@rediffmail.com,QDOLW,46,1,1,158,1.401,0.25,0,0
+1d8e6df8-28e2-42a7-aa08-15b9200835be,Gauri Minhas,45,"316 Mitra Chowk, Bangalore, 560989",560989,6341192553,oliver626@mailbox99.co,CCCRY,13,1,11,17,0.0482,0.3542,3,1
+6773a123-c900-4d92-a905-c962e6772ea2,Faras Seth,59,"884 Kale Street, Nashik, 238248",238248,9292518812,triya335@yahoo.com,STWKK,81,2,1,181,1.2746,0.2,0,0
+55747fbb-c241-45a6-bbf3-51dc9d9a4162,Yashasvi Grover,27,"362 Dalal Nagar, Bhubaneswar, 658263",658263,8091122528,vansha844@rediffmail.com,FZTJI,57,1,1,158,1.1564,0.25,0,0
+4e249a8c-2179-4683-8300-7607e15e4707,Aarav Mukherjee,27,"633 Sood Chowk, Bidar, 416216",416216,7347228200,neha689@hotmail.com,WIMZO,25,2,1,169,0.8993,0.5,0,0
+2173a9c9-ce78-4e8f-becd-40646d199627,Rajeshri Sarraf,24,"741 Sachdeva Road, Imphal, 354587",354587,7930493665,nakul223@rediffmail.com,AEQRH,69,1,1,158,1.4462,0.25,0,0
+47008ed9-b4f9-4f1d-b024-55f3329ff55e,Krisha Ghosh,32,"521 Chadha Marg, Shahjahanpur, 728658",728658,6260127961,rushil75@hotmail.com,FCAJZ,24,1,1,169,1.6507,0.1667,0,0
+30385f71-dda4-4f61-8c26-5d18232f850b,Daniel Chadha,29,"266 Jain Road, Mumbai, 400980",400980,7732185133,finn751@syntheticid.net,BBBQX,4,3,11,16,0.025,1.0,2,1
+e38db056-7ffa-413e-868b-17e34e033802,Ira Bava,63,"188 Hora Marg, Bharatpur, 346247",346247,6261685071,ishanvi70@hotmail.com,YQTBD,116,5,1,169,1.118,0.4167,0,0
+794bb815-f0a0-4f38-9446-2e2d0bfe4a04,Jonathan Kade,65,"877 Kalita Zila, Shimoga, 255212",255212,8276774625,atharv637@gmail.com,KCESC,66,2,1,172,1.1195,0.1667,0,0
+d9130361-2e2e-4dc3-aa16-e986fd5602bf,Pratyush Bal,56,"585 Gera, Thane, 380609",380609,8449014954,shivansh877@yahoo.com,LAAAJ,49,3,1,181,1.703,0.3,0,0
+220e8e09-11b0-4e55-92f6-c399f3d177e4,Ridhi Bawa,53,"235 Shenoy Circle, Tezpur, 768841",768841,8201362608,harshil813@hotmail.com,RFVMJ,97,3,1,169,0.4392,0.3,0,0
+3c1d3549-2e79-4172-86d1-fad8ea106e99,Jatin Bera,54,"57 Saraf Nagar, Asansol, 595146",595146,7384979162,parth661@gmail.com,EVRET,68,4,1,172,1.5027,0.4,0,0
+b97155a9-731b-4438-9d5a-8324486daf8f,Indali Palla,33,"471 Vasa Zila, Raiganj, 696842",696842,6292334511,falak25@gmail.com,OQXVB,48,1,1,172,0.8374,0.1667,0,0
+6649803f-2580-4bc1-8e53-e6cfd786fed5,Frado Apte,38,"647 Mandal Zila, Bangalore, 560052",560052,6341143838,samar736@mailbox99.co,CCCRY,6,2,11,17,0.0103,0.7083,3,1
+69daa09a-b8b5-486a-8f32-60d5f850b62d,Odika Gera,57,"571 Banik Ganj, Tadipatri, 348826",348826,8351751830,anvi284@outlook.com,RPWET,64,4,1,169,1.8935,0.4,0,0
+32d80ecb-3f56-4fa7-8c52-30ad5b7498c6,Isha Saini,35,"505 Prasad Ganj, Bangalore, 560610",560610,6341165920,ekapad660@mailbox99.co,CCCRY,12,2,11,17,0.1358,0.5833,3,1
+8da53bd8-b59e-41d2-a372-2b81eb6dbcec,Yatin More,55,"967 Sachar Nagar, Raipur, 888072",888072,6811556260,fiyaz412@gmail.com,RQXBQ,113,3,1,172,1.8694,0.3,0,0
+ca4d7684-e8d5-430a-b94d-f082b0fcc186,Xalak Narang,32,"401 Srinivasan Marg, Ujjain, 486479",486479,8450090255,owen838@rediffmail.com,AXICI,76,1,1,158,1.0862,0.1667,0,0
+6fe48c39-4a03-42f6-a9bb-6a31285b38cf,Onkar Dora,55,"493 Pillay Road, Raichur, 153435",153435,7136502491,ekaja415@yahoo.com,ABUMP,27,3,1,181,1.1171,0.3,0,0
+c47a5926-f2ed-409a-bf77-d164c92c9167,Nilima Wable,34,"744 Johal Street, Amaravati, 381640",381640,6209117911,rohan155@hotmail.com,GECVX,80,1,1,169,0.7575,0.1667,0,0
+c6f0b593-00d1-4d37-b791-3f9062deb392,Hiral Salvi,33,"927 Mahajan Marg, Alappuzha, 706383",706383,9283391218,gagan521@gmail.com,KVYOZ,46,1,1,172,1.4376,0.1667,0,0
+87e9e340-c778-4203-9cd1-78de986caab4,Yutika Hegde,34,"511 Dhar Circle, Kozhikode, 415877",415877,9016873395,chandran59@gmail.com,HPVRH,109,1,1,172,0.318,0.1667,0,0
+7d1da0ec-4795-42c8-8937-fdd64eec42cb,Pranit Ray,66,"709 Chauhan, Jalna, 755232",755232,8876329092,bhavya744@outlook.com,PCVHK,115,4,1,169,1.527,0.3333,0,0
+e8fb8138-4a38-435d-bf2f-2bacbf2f7a5f,Omisha Dada,33,"803 Goyal Ganj, Warangal, 836352",836352,8953322273,tarak726@rediffmail.com,ENPAJ,85,2,1,158,1.3421,0.3333,0,0
+392ac7a8-ef5a-4467-9c49-2c37e4b292a2,Arya Narang,28,"174 Kulkarni Street, Vijayawada, 386421",386421,8511274747,libni675@yahoo.com,YZMJH,70,2,1,181,1.1999,0.5,0,0
+9e87eb8e-7d48-45c0-989a-1fdb1be33feb,Ayush Bhattacharyya,42,"907 Kibe, Aizawl, 111157",111157,8331541006,manan458@outlook.com,ZWMJO,33,3,1,169,0.5231,0.375,0,0
+ed94f3e3-6b24-4833-9eb2-151d09e8eee8,Dalbir Mammen,28,"680 Agarwal Chowk, Aligarh, 688589",688589,9834527346,deepa423@outlook.com,JMMIM,120,1,1,169,1.1554,0.25,0,0
+8ec973d2-76b6-4682-ab7c-5b0de0c74634,Yashoda Amble,32,"24 Ratta Nagar, Hyderabad, 897292",897292,8014374830,amol636@yahoo.com,XOZCR,38,1,1,181,1.3997,0.1667,0,0
+c0532a83-cdf5-413f-b896-a77b482599a4,Ayushman Baria,58,"474 Radhakrishnan Ganj, Ulhasnagar, 394901",394901,9546926329,naveen760@outlook.com,LXEOK,74,4,1,169,2.3805,0.4,0,0
+b282a4c8-6c46-461b-bbd7-2c1b0a3fb9b4,Matthew Pradhan,63,"141 Singhal Nagar, Kharagpur, 812047",812047,7779010432,anusha571@rediffmail.com,NCHHB,54,2,1,158,1.2236,0.1667,0,0
+1614e352-77b9-47b9-9e71-efa624a82697,Deepa Shankar,62,"484 Dutt Nagar, Jamshedpur, 174879",174879,8059625719,dalaja475@outlook.com,APDYD,84,1,1,169,2.2386,0.0833,0,0
+4376070b-0ba6-4013-ac39-f0911485bc65,Riya Ray,59,"775 Nayak, Sultan Pur Majra, 782657",782657,9784271147,ijaya519@yahoo.com,QDCBB,87,3,1,181,1.7918,0.3,0,0
+6e3aab11-c66c-4ade-b797-a693dd5c4a5f,Kritika Kant,36,"651 Bajaj, Darbhanga, 522949",522949,8364538044,widisha782@yahoo.com,BBITQ,32,2,1,181,2.0989,0.3333,0,0
+12f02937-35ac-4130-9b8d-52b5793ccb92,Hritik Sangha,24,"735 Bath Path, New Delhi, 110222",110222,9876540507,krisha843@fraudmail.in,AAAPF,4,2,12,18,0.133,0.9167,1,1
+a24d2501-3ce0-4807-b3ba-c084992ed989,Deepa Palla,39,"301 Amble Road, Tirupati, 886353",886353,8375137651,gautam370@rediffmail.com,NXQPL,36,3,1,158,1.2215,0.5,0,0
+d4eb1f48-bb57-4b3f-9a87-728abd0c4d82,Jhalak Sahni,33,"626 Tella Road, Haridwar, 281998",281998,9950145561,tara786@outlook.com,VBMDW,32,2,1,169,1.0243,0.3333,0,0
+e2c46983-f0c4-4b88-89eb-99e74825d855,Waida Choudhry,66,"639 Bansal Chowk, Bally, 534278",534278,9653269097,aadhya877@yahoo.com,SHYOA,89,4,1,181,0.3833,0.3333,0,0
+16c7c242-efa7-4d31-bc26-a475c2c0d15a,Radha Kar,28,"969 Dayal Road, Nandyal, 408908",408908,9007661771,imaran930@gmail.com,IDDQP,69,1,1,172,1.8667,0.25,0,0
+7e262f06-32d9-40ab-aa32-e032e632c0a0,Aarini Modi,49,"158 Oza Street, Kota, 441670",441670,8143776936,mason450@yahoo.com,HPEEI,63,4,1,181,1.1291,0.5,0,0
+5ab26a9a-0a5c-47a2-b6dd-6c2819c11ea2,Dhriti Dua,60,"6 Kadakia Chowk, Anantapur, 490489",490489,8652809242,brijesh525@outlook.com,YWDIN,102,1,1,169,0.612,0.0833,0,0
+e35cfb16-7a78-42f0-99db-38f07c8fe1f8,Sneha Venkataraman,23,"179 Vohra Ganj, Sasaram, 841348",841348,7893595382,tanish683@rediffmail.com,TVZVX,94,1,1,158,2.412,0.25,0,0
+5e4dcb0e-e0ed-4298-a61e-3032884bdf73,Anya Dua,48,"486 Kakar Zila, Nagpur, 855567",855567,6431038569,vanya361@hotmail.com,MRNOL,99,2,1,169,1.548,0.25,0,0
+141d0fdd-0154-4fd1-a976-1ed22526972f,Xavier Prabhakar,39,"386 Pandit Path, Bangalore, 560568",560568,6341162959,anmol859@mailbox99.co,CCCRY,17,2,11,17,0.0232,0.4792,3,1
+347b398d-9b13-4b1b-88db-3577c62d7b3b,Zehaan Gopal,55,"444 Menon Zila, Khora , 779375",779375,9289002877,nidhi900@yahoo.com,BMGZB,100,1,1,181,0.79,0.1,0,0
+b597c809-ea6a-4bd5-8fe2-91a938be7325,Faris Master,22,"575 Balan Road, Bhatpara, 577515",577515,6971112125,ojasvi615@gmail.com,TUFJC,51,1,1,172,1.8934,0.25,0,0
+9de2203b-d771-4c06-ba3d-f84debc23fde,Omisha Varughese,36,"604 Som Circle, Khammam, 657361",657361,7242102499,sachi953@hotmail.com,LMHKH,45,3,1,169,1.488,0.5,0,0
+7a8b5e94-e272-4737-8036-2be4b65b9448,Anusha Rao,52,"411 Sood Nagar, Agra, 744719",744719,6229413186,nidra630@rediffmail.com,UFNLL,26,1,1,158,2.1924,0.1,0,0
+07d7b9d7-4b82-4651-9a2b-26974215fec7,Zayyan Sarraf,30,"372 Pradhan Ganj, Bikaner, 886114",886114,8512939130,daksh293@hotmail.com,VOOWV,79,1,1,169,1.5077,0.1667,0,0
+b8d5f0bc-dabc-46f0-b0c8-637fb9f64ab5,Lohit Ranganathan,65,"333 Acharya, Morbi, 234686",234686,6102258030,ganga704@hotmail.com,LPAMH,103,2,1,169,0.4818,0.1667,0,0
+b63bb6d0-88b7-4169-bcfa-dd03e5a096b1,Alka Char,39,"608 Kala Marg, Kishanganj, 270028",270028,8983922501,janya326@yahoo.com,ULEAD,85,2,1,181,2.2425,0.3333,0,0
+b6244f36-a230-4b06-8f83-7a7574202036,Qadim Srinivas,46,"96 Sundaram Road, Chittoor, 757577",757577,9112166365,ranbir76@hotmail.com,IPFTC,71,3,1,169,1.3001,0.375,0,0
+d139baeb-da99-4455-9d7d-09f9a5789c63,Girish Kaur,35,"852 Peri Path, Bareilly, 242167",242167,8342661797,yochana606@outlook.com,NYWKA,68,2,1,169,2.4305,0.3333,0,0
+21ef2301-a89a-41dc-8249-5217bdc01dd6,Varenya Bali,47,"528 Malhotra Chowk, Silchar, 347815",347815,9147321046,hemang894@rediffmail.com,KZXVY,28,2,1,158,1.8865,0.25,0,0
+3200a706-03d0-4b5b-8bf2-501ad3430807,Nitesh Narang,22,"648 Prabhu Marg, Kanpur, 185955",185955,8269450053,pranit758@hotmail.com,EZNZU,95,1,1,169,2.0171,0.25,0,0
+ad07f442-ecf2-414a-aa18-119e25970af8,Faqid Parsa,64,"598 Acharya Street, Mahbubnagar, 284089",284089,9137150416,tanvi392@rediffmail.com,YCIAL,86,2,1,158,1.857,0.1667,0,0
+1be130dc-fa2a-4b1f-9468-6a4a01e93389,Yashvi Sankaran,25,"175 Narain Street, Gulbarga, 251896",251896,7091307562,rachit432@yahoo.com,KUXWT,86,2,1,181,0.437,0.5,0,0
+515e978a-e2b2-4add-b1e5-a99ae5536028,Eesha Char,53,"460 Bhasin Road, Kamarhati, 394602",394602,7757383959,ishwar883@outlook.com,DHSYV,91,3,1,169,1.7808,0.3,0,0
+e6c902e7-80d6-496b-af56-70572c00b29a,Brijesh Roy,51,"806 Mody Chowk, Raurkela Industrial Township, 869996",869996,8862872031,dalbir624@hotmail.com,VDXJH,94,3,1,169,0.3525,0.3,0,0
+5d52c196-4f4f-4d47-b24c-362e81c56645,Dev Dhillon,31,"577 Chatterjee Street, Thrissur, 252136",252136,8835505429,nidra394@gmail.com,OBMKG,63,2,1,172,1.6246,0.3333,0,0
+42d89bce-8879-492a-a15f-b12ca89d3c93,Pahal Mody,62,"936 Muni Road, Muzaffarpur, 490996",490996,7618637159,baljiwan995@outlook.com,QHERE,114,5,1,169,2.1182,0.4167,0,0
+5b1645bc-0661-4a26-b6c3-3bb41832d4c3,Gopal Mistry,58,"948 Saha Street, Sultan Pur Majra, 790836",790836,7944551166,chasmum527@yahoo.com,OQUXW,117,2,1,181,0.3341,0.2,0,0
+c56b059e-e7d7-46d4-a5af-33fffbaa7aa7,Bhavya Bora,54,"719 Bajwa Circle, Singrauli, 675382",675382,9232440793,anmol127@gmail.com,APDCF,106,1,1,172,1.3422,0.1,0,0
+61e0adcd-3e82-4b04-86c3-5734fa9928ca,Aahana Shetty,22,"699 Dave, Gwalior, 214845",214845,8627048281,yug901@hotmail.com,VNFJE,99,1,1,169,2.3977,0.25,0,0
+f5e409ea-5c26-4603-bcf2-71cafb542fc1,Daksh Sandal,49,"425 Desai Circle, Bellary, 216438",216438,8614978403,advaith414@rediffmail.com,BFYTT,74,4,1,158,0.9368,0.5,0,0
+7344372a-9c3c-4b9e-811b-067245e72d27,Krish Mohan,62,"756 Venkataraman Nagar, Ramagundam, 410214",410214,8889669972,jagdish521@yahoo.com,KXUSH,66,5,1,181,1.2092,0.4167,0,0
+2a4f228f-7430-4e59-a55d-436d0432721f,Oeshi Atwal,28,"711 Bali Path, Siwan, 579585",579585,8676670806,aryan100@yahoo.com,PHGND,29,2,1,181,1.4952,0.5,0,0
+8f1cbc09-9dc9-42a3-99bd-4cecd96c74df,Tarak Bhat,32,"827 Ganesh Chowk, Naihati, 216156",216156,7183745508,radha283@yahoo.com,WWPCB,34,1,1,181,2.3818,0.1667,0,0
+4657179d-b3fc-4fab-bb05-dd32ca223c79,Jeet Oza,46,"455 Dash Zila, Hyderabad, 149090",149090,9335331060,wazir24@hotmail.com,VRBYC,100,2,1,169,2.1378,0.25,0,0
+6f1c8581-c261-4308-94c9-086759ee8c9e,Forum Tella,57,"214 Das Ganj, Chennai, 316540",316540,7173936385,anthony804@hotmail.com,JNJGN,39,4,1,169,1.394,0.4,0,0
+d891ee12-1327-46fe-8294-89493c05da90,Abhiram Magar,61,"393 Narayan, Hapur, 461639",461639,8172084964,tanveer628@rediffmail.com,JAEIU,25,5,1,158,1.087,0.4167,0,0
+55d9cf68-0455-47e9-96d4-18f5d70d07c6,Tristan Sathe,26,"584 Goswami, Jaipur, 602409",602409,9263748453,charan593@rediffmail.com,YDORI,104,2,1,158,0.3149,0.5,0,0
+efa36d7f-0039-49b4-95a2-01c089782d42,Anirudh Om,48,"312 Deshmukh Marg, Bangalore, 560179",560179,6341196708,forum13@mailbox99.co,CCCRY,12,3,11,17,0.0875,0.625,3,1
+d578d4a3-36e5-45aa-82f2-2de9d9ce130f,Vamakshi Mital,52,"188 Banik Road, Secunderabad, 281145",281145,9471246335,xalak672@gmail.com,ITNAP,29,3,1,172,2.4604,0.3,0,0
+aebd4d16-6bc6-429e-b82c-ad1f2533397d,Rudra Gole,23,"702 Ray Road, Nagercoil, 462217",462217,6801963045,udarsh741@yahoo.com,APUFS,36,1,1,181,1.4067,0.25,0,0
+f3b9c821-184b-4494-8619-93e98771ab1e,Kevin Datta,35,"786 Bandi Road, Hubli–Dharwad, 721529",721529,6241904966,ekaraj974@yahoo.com,BRQCU,71,2,1,181,2.1706,0.3333,0,0
+9648cea6-c673-41c6-9f51-21fa88872298,Chaitaly Apte,66,"325 Pant Nagar, Etawah, 838758",838758,8419866524,ucchal53@hotmail.com,YCYRT,102,4,1,169,0.7708,0.3333,0,0
+1ba3e92a-cba3-4947-b39a-605431ae469d,Tarak Bawa,47,"389 Chokshi Zila, Jammu, 565064",565064,8687234309,gayathri763@rediffmail.com,BIBMX,19,1,1,158,1.4685,0.2292,0,0
+91a1bb07-9ac9-4998-be48-dc5f6b55642b,Victor Iyer,50,"153 Rama Marg, Haridwar, 780519",780519,9636580741,urvashi896@yahoo.com,SOUSO,97,4,1,181,0.5723,0.4,0,0
+bebd5ac9-9148-483e-ae0a-c95223615806,Tara Shetty,41,"731 D’Alia Chowk, Orai, 681817",681817,7171747733,edhitha157@rediffmail.com,GJEXI,54,1,1,158,2.1937,0.125,0,0
+f54bc577-e69a-47d1-824e-3fce316c7b37,Abhiram Bala,68,"890 Saxena Zila, Mira-Bhayandar, 487556",487556,8732365337,agastya510@hotmail.com,LGLEU,94,1,1,169,2.1341,0.0833,0,0
+e7d38e08-a9a5-4d09-8e0d-c805f1ba1345,Hritik Sarna,58,"971 Pathak Circle, Shimla, 741089",741089,7173420696,shaurya624@hotmail.com,DYEOA,40,1,1,169,1.4568,0.1,0,0
+1bd4f4b6-739d-4920-b347-9efa3bf75e4c,Bhavya Mangat,62,"942 Hari Circle, Muzaffarnagar, 468278",468278,7242642506,anjali834@hotmail.com,DLSOF,70,4,1,169,1.1849,0.3333,0,0
+81648fab-292f-41ce-a5d0-2c7f11f4ecb6,Raghav De,32,"297 Shankar Circle, Motihari, 795948",795948,6260422325,yadavi858@yahoo.com,TRMPG,53,2,1,181,1.2113,0.3333,0,0
+13abd621-b90b-43d8-bc6b-f733a1b0f48b,Gaurang Baral,65,"406 Narula Road, Kishanganj, 222781",222781,7669121535,fariq215@rediffmail.com,VKGLM,74,1,1,158,1.9826,0.0833,0,0
+a9359fb2-7063-476a-90af-d491f7153a57,Gaurav Setty,55,"583 Cherian Ganj, Katni, 146081",146081,6866179454,ayush609@gmail.com,TATMU,66,3,1,172,2.1544,0.3,0,0
+6969dd5e-87c1-447f-b4c9-c791456e0375,Harish More,55,"764 Narang Nagar, Madhyamgram, 819855",819855,9444313518,finn983@yahoo.com,ETHPT,56,4,1,181,1.6129,0.4,0,0
+26015670-efec-47e5-bd85-52768f1c7687,Tripti Konda,29,"765 Kannan, Malda, 489622",489622,7885160607,bina953@gmail.com,WOOSK,12,2,1,172,0.5534,0.75,0,0
+b52711b1-6978-452c-b905-44105d8ffa1d,Adya Krish,67,"504 Babu Ganj, Darbhanga, 204213",204213,8519515109,harsh164@yahoo.com,LIELX,117,1,1,181,1.8118,0.0833,0,0
+edfdf0e0-b51c-466d-bed4-c5bf9735e852,Isha Padmanabhan,24,"753 Aggarwal Ganj, Parbhani, 489904",489904,7766046558,maya884@outlook.com,KIYSO,28,1,1,169,1.3754,0.25,0,0
+2b414f81-2867-46c6-aebc-6b4ea6086546,Yashica Patla,24,"92 Saraf Zila, New Delhi, 110774",110774,9876517430,hemal319@fraudmail.in,AAAPF,5,3,12,18,0.0391,1.0,1,1
+d5f20227-ca0c-4f94-93d1-cf581cf64324,Reva Dara,64,"46 Rau Chowk, Ghaziabad, 434681",434681,8839386613,matthew228@gmail.com,JEKIK,33,2,1,172,1.3093,0.1667,0,0
+ee75e86c-9b2b-42ef-ad93-bd8ff175ae5c,Arin Ramakrishnan,42,"632 Puri Road, Rourkela, 619495",619495,9947055169,dhruv325@gmail.com,PGRZP,32,2,1,172,0.8006,0.25,0,0
+770d8fee-6ece-4e87-b69d-c5da65392b5e,Kai Krishna,56,"260 Kota Marg, Hubli–Dharwad, 602918",602918,7742049561,neelima713@yahoo.com,ZBMGK,95,1,1,181,1.938,0.1,0,0
+e56640db-3dad-423b-a51c-6b880c34c750,Zansi Deol,54,"504 Iyer Nagar, Berhampore, 860666",860666,8674916016,dayamai964@rediffmail.com,ETYUT,105,3,1,158,1.0669,0.3,0,0
+e8df24c6-cc70-4e2d-8543-88dc57216504,Samaksh Rajagopal,24,"469 Chanda Marg, New Delhi, 110803",110803,9876558690,charles695@fraudmail.in,AAAPF,4,3,12,18,0.1383,1.0,1,1
+6d11a9da-682f-40ce-a817-d6ad24714d56,Maya Subramaniam,54,"25 Suresh Road, Ramgarh, 700967",700967,6422711332,champak797@yahoo.com,ZNZPN,24,2,1,181,1.991,0.2,0,0
+2a8f93d3-1b2b-4f0a-a58e-7873d5a33bb1,Maanav Sundaram,66,"444 Reddy Ganj, Kirari Suleman Nagar, 194664",194664,6065411340,widisha837@outlook.com,OCPXP,17,4,1,169,1.9993,0.4792,0,0
+01ddac55-5577-486b-83b6-448de06ccb2b,Advaith Rau,62,"686 Bora Zila, Thrissur, 285039",285039,6514607455,timothy370@yahoo.com,HUISQ,107,4,1,181,1.9909,0.3333,0,0
+7e8d5606-9bb8-4b41-8273-9078b7f8593a,Rishi Ben,68,"349 Shankar Path, Gurgaon, 296824",296824,6176464489,pooja993@rediffmail.com,NXUTJ,98,3,1,158,1.5234,0.25,0,0
+dd021628-3168-485f-848e-3d4eca1c4100,Forum Mitra,30,"81 Hans Path, Sonipat, 119611",119611,9603108907,yashasvi131@hotmail.com,BHACD,38,1,1,169,1.6239,0.1667,0,0
+04a9b7ad-2779-4158-a2fb-3bf198b4faec,Osha Maharaj,60,"167 Saini Road, Guna, 843072",843072,9629250817,nirja752@outlook.com,XYZOY,48,4,1,169,0.4469,0.3333,0,0
+81df1f81-1e37-4907-bd22-d6ddf296e2ef,Pahal Chand,63,"511 Tiwari Street, Navi Mumbai, 864790",864790,7350615814,krishna576@rediffmail.com,WNCUL,37,3,1,158,1.4505,0.25,0,0
+f498839c-1936-4c4e-954f-a1e19552060a,Vedant Gera,36,"74 Sood Circle, Asansol, 305508",305508,8354443928,bhavika944@hotmail.com,AHVUK,24,1,1,169,1.1927,0.1667,0,0
+e17b8e1b-cbb3-4017-be7b-b3a899714ca9,Ishaan Salvi,66,"552 Narayan Street, Tiruchirappalli, 659980",659980,6678214174,harrison433@rediffmail.com,WCFIE,45,5,1,158,1.1679,0.4167,0,0
+b1f84eb5-744b-4582-9041-990fd29c52bc,Arin Sarin,59,"256 Dua Circle, Darbhanga, 878210",878210,9202170754,jhalak930@rediffmail.com,JHSKI,46,1,1,158,2.0608,0.1,0,0
+3bb4bdb0-e6a5-4421-b76b-55d766175148,Hamsini Rege,53,"938 Yogi Zila, Purnia, 265210",265210,6798213486,anya185@rediffmail.com,OTMTP,97,2,1,158,0.8145,0.2,0,0
+5e32dd50-e546-40a1-a2f1-de9bca260d47,Warhi Wali,30,"606 Master Street, Tadepalligudem, 846542",846542,9184462671,max977@hotmail.com,RYDFQ,89,1,1,169,0.8927,0.1667,0,0
+de2135de-f9ec-4af0-900d-131861f8c477,Indira Behl,49,"310 Hari Marg, Jamnagar, 202473",202473,8976461368,warda295@outlook.com,HSNJZ,77,1,1,169,1.9006,0.125,0,0
+5c77c37b-eb6d-4593-a10b-90e3ebebab36,Aarini Bhavsar,51,"764 Sur Path, Kanpur, 138636",138636,6412577711,dev571@yahoo.com,SLMHE,60,3,1,181,2.1447,0.3,0,0
+f9969d07-5213-442c-9894-303073a5ad0b,Gaurika Goel,61,"488 Dube Nagar, Hosur, 536813",536813,9500942141,hritik46@hotmail.com,EJNZS,39,4,1,169,1.4522,0.3333,0,0
+5488685a-4023-4955-8c37-9b090689abd0,Vasana Chaudhari,57,"60 Hayer Chowk, Aizawl, 724914",724914,8172444723,nisha655@yahoo.com,DQBCB,39,4,1,181,1.8058,0.4,0,0
+35bccee8-d821-4ee2-a236-071e472ce8c6,Aditya Prakash,52,"547 Sarraf Zila, Tinsukia, 296202",296202,9848557161,girindra504@outlook.com,NYUEH,109,2,1,169,2.4285,0.2,0,0
+98908634-69f9-4186-9b92-572afc83f0b2,Sachi Chaudry,38,"34 Dhillon Ganj, Ballia, 305564",305564,8023850371,omya834@rediffmail.com,XSTAZ,95,1,1,158,2.3898,0.1667,0,0
+7fa5a3cc-f83d-4f8f-9db6-64266b15c099,Owen Pall,33,"157 Pillai Road, Begusarai, 198499",198499,6877347784,yuvraj565@hotmail.com,VOATZ,60,2,1,169,2.2363,0.3333,0,0
+8c55dc46-9917-44cd-876b-810156923aaf,Champak Magar,68,"731 Mani Street, Patiala, 548465",548465,9133150983,onveer612@yahoo.com,ASBBA,100,2,1,181,1.0269,0.1667,0,0
+ef0be24c-51be-4f86-a926-1c6543116296,Brinda Sandhu,59,"779 Pandit Chowk, Kochi, 616472",616472,6235679836,omisha202@gmail.com,HEHWQ,109,3,1,172,0.624,0.3,0,0
+9937e513-24bf-468f-aa88-2e2b4cf02df2,Banjeet Sathe,30,"743 Khanna Road, Chennai, 770825",770825,6353465549,andrew311@outlook.com,WMWPY,106,2,1,169,0.4567,0.3333,0,0
+fff2b60e-da7f-4eaf-adab-1a35b824775b,Damyanti Pingle,36,"229 Nayak Road, Dibrugarh, 318379",318379,7756362050,ayush85@hotmail.com,ACHFP,12,3,1,169,1.9842,0.75,0,0
+a65e9424-a86d-4b2e-9286-2206725257f2,Ikshita Boase,61,"452 Handa, Bijapur, 421589",421589,8168740903,aryan726@rediffmail.com,AWHEK,99,2,1,158,0.4606,0.1667,0,0
+18e5e669-819c-4594-be90-3d00014e9d97,Wridesh Yohannan,33,"537 Hegde Ganj, Asansol, 734233",734233,8546156793,yashawini723@yahoo.com,HVCZQ,25,1,1,181,0.3697,0.1667,0,0
+1a5c7da4-10c8-4232-b46b-b403b0257e17,Zilmil Sane,61,"562 Kumar, Gandhinagar, 582434",582434,8527636556,george296@outlook.com,EDOFC,45,2,1,169,0.8939,0.1667,0,0
+b4a3cf46-69e4-4b59-9571-11ed5ef0dfd4,Aayush Bajwa,57,"662 Iyer Street, Bhiwandi, 434562",434562,6459908027,matthew75@gmail.com,DCESC,15,4,1,172,1.0927,0.5875,0,0
+16e0d68e-41ae-4603-bbe3-03e6fa6fce49,Thomas Pandya,26,"746 Sarraf Zila, Erode, 530979",530979,8867805555,henry852@outlook.com,DWMNE,90,2,1,169,1.1581,0.5,0,0
+cce9db0c-d63f-4c78-a57f-bed856e9ba97,Aryan Saraf,45,"43 Sood Ganj, Kharagpur, 527281",527281,8064630059,amara246@outlook.com,LJXCN,103,1,1,169,0.5904,0.125,0,0
+33d8f420-1090-4473-a2c7-339473b155c0,Charan Om,22,"100 Verma Road, Bharatpur, 484380",484380,8775965555,aadhya846@yahoo.com,YRJBJ,97,1,1,181,1.0266,0.25,0,0
+e233df26-fb3d-4dd6-8e2c-b78487e2c710,Daksha Pillai,34,"140 Majumdar Path, Muzaffarnagar, 774044",774044,7070015941,karan932@outlook.com,XRXKV,32,2,1,169,2.1541,0.3333,0,0
+22c9512b-ff75-4455-a131-799b861784f1,Jasmit Pathak,25,"643 Ramachandran Chowk, Ichalkaranji, 145810",145810,6841862030,ekalinga242@outlook.com,KJHXR,81,2,1,169,1.8109,0.5,0,0
+ca32ddaf-2835-46a0-8e70-02ae38ba93e3,Guneet Tella,32,"858 Biswas Road, Mumbai, 400006",400006,7732129877,lipika663@syntheticid.net,BBBQX,8,1,11,16,0.0834,0.5,2,1
+b0abb700-ae9b-43ad-b4c6-8f79677ef33f,Zinal Ganesh,56,"309 Ganesan, Shimoga, 532727",532727,6122777079,owen258@yahoo.com,HVKIC,36,1,1,181,2.1648,0.1,0,0
+93a45ac4-c255-4e51-8dcf-b5aafff5a45d,Kiaan Merchant,61,"197 Sabharwal Chowk, Bhusawal, 891103",891103,8131647525,zaid373@yahoo.com,RSRBQ,58,5,1,181,1.4751,0.4167,0,0
+9f5f8cfe-2a01-4eeb-beae-6b42a7e17b4b,Edhitha Mishra,31,"771 Anne Marg, Panipat, 776663",776663,9239504102,balendra485@outlook.com,MMYXG,119,2,1,169,1.8037,0.3333,0,0
+07840899-dc12-4a71-a9e5-2b3425445b3d,Harita Deo,59,"339 Ramanathan Path, Pune, 383999",383999,9320331922,divya178@outlook.com,WIXBN,94,4,1,169,1.2673,0.4,0,0
+7f21aa7b-13da-4513-a731-0996870b9d01,Aachal Kalla,24,"833 Dhaliwal Marg, Proddatur, 858662",858662,8111860089,diya951@yahoo.com,CPKVW,46,1,1,181,2.0265,0.25,0,0
+1b888368-9d03-43dc-b8a6-0d10953c5727,Hardik Ahuja,34,"634 Iyer, Shimoga, 324588",324588,9340312772,vrishti173@gmail.com,BJFGQ,27,1,1,172,2.2582,0.1667,0,0
+6a0f627d-4697-4691-891e-427e2be13f66,Qasim Zacharia,68,"711 Rastogi Path, Kolhapur, 205542",205542,9894210447,gavin755@rediffmail.com,PIXZI,43,2,1,158,2.283,0.1667,0,0
+3cf65761-6273-41db-b384-d33f99a774f5,Zaitra Bath,47,"236 Balan Ganj, Raipur, 145273",145273,7461562624,dayamai328@outlook.com,RMGYE,21,3,1,169,1.1761,0.4375,0,0
+6836c0b2-56e3-4146-87c6-a63c5f45eff2,Yashvi Dani,35,"462 Murty Circle, Ahmedabad, 289875",289875,6702042620,chaitaly82@rediffmail.com,WMDRD,87,2,1,158,0.4612,0.3333,0,0
+2f5e511a-3319-492e-9196-e03dcae9cd6f,Kevin Dhillon,68,"927 Agarwal Road, Warangal, 529485",529485,8510173973,jagvi615@outlook.com,RCUSO,105,3,1,169,2.1423,0.25,0,0
+29e7ef08-da2a-4322-8046-995997991262,Reyansh Rana,51,"765 Sundaram Path, Guntakal, 221285",221285,9115940821,gautam390@hotmail.com,ZHMUD,72,1,1,169,1.5972,0.1,0,0
+0ccb764e-c30a-4758-8c08-4f89854bb469,Maanav Sant,48,"686 Patla Street, Raebareli, 194420",194420,9542356778,aachal715@yahoo.com,ZLXOV,79,2,1,181,1.534,0.25,0,0
+d88bfdef-cebe-4c41-88cc-06ad9fca0902,Aarav Kanda,34,"322 Chana Path, Tumkur, 261911",261911,7829657724,madhavi187@rediffmail.com,VUFKE,92,2,1,158,2.2281,0.3333,0,0
+888040d4-b97c-4adc-817b-ca5049668ad7,Mitali Hegde,28,"632 Mangal Nagar, Gandhidham, 867617",867617,6789046337,omkaar574@outlook.com,CWYJU,23,1,1,169,1.3207,0.2708,0,0
+fa3b58a1-a2e5-4f12-b8b3-306270efe70a,Yagnesh Rege,27,"433 Chand Marg, Pallavaram, 864602",864602,8161394498,ekbal562@yahoo.com,SBOFY,55,2,1,181,0.9045,0.5,0,0
+edbe6d4c-fb0f-4016-a364-53196d9e94fc,Thomas Parsa,45,"542 Subramaniam Road, Varanasi, 765953",765953,8396112910,nirja610@yahoo.com,FLCYQ,107,3,1,181,0.9632,0.375,0,0
+042c0472-44b6-4df0-902a-cd194aa5044e,Simon Loke,38,"430 Gaba Marg, Bangalore, 560983",560983,6341184572,chaitaly762@mailbox99.co,CCCRY,11,3,11,17,0.1046,0.7708,3,1
+0c142a6e-0006-4941-9b15-4c07e6ed0f37,Farhan Basu,57,"143 Shukla Circle, Hosur, 855924",855924,6755366684,kevin343@rediffmail.com,AUXDY,15,3,1,158,1.0266,0.4875,0,0
+9ccfd12f-2406-4285-af0f-2e6c49aebb72,Nimrat Loyal,43,"847 Mishra Road, Bhimavaram, 145356",145356,7293946943,aishani972@hotmail.com,KAVJV,34,2,1,169,0.7169,0.25,0,0
+5ce244ca-4caa-4937-bb8b-e9ec47a837af,Omya Memon,58,"647 Behl Road, Nashik, 783582",783582,8933067458,aryan317@outlook.com,ZZBPU,83,3,1,169,0.8668,0.3,0,0
+c5b16c56-df23-4698-b373-3414639049fe,Chakradhar Tank,41,"40 Rege Nagar, Pune, 729910",729910,6326714949,madhavi866@rediffmail.com,BPDMW,54,1,1,158,0.6463,0.125,0,0
+a78e6054-6aaa-4f2d-b9c4-4e507cbe15eb,Vincent Issac,24,"573 Thakur Path, Bharatpur, 294487",294487,7855749821,rajata553@yahoo.com,LVOLU,74,2,1,181,1.4131,0.5,0,0
+fbcdca3d-9f53-4fe3-a257-da38edae7c47,Ayushman Kata,49,"233 Raghavan Road, Durg, 881913",881913,9817203136,laksh647@hotmail.com,JEUES,15,3,1,169,1.6221,0.5625,0,0
+1c7495d0-db2b-4e6c-9101-1fdea00af453,Robert Johal,28,"904 Ramachandran Zila, Kolhapur, 474456",474456,6609835841,sai405@rediffmail.com,LOVQP,67,1,1,158,0.5831,0.25,0,0
+8acca0d0-fbf7-4d7e-8504-68c5537ec79d,Orinder Bora,56,"271 Lalla Ganj, Aizawl, 723679",723679,9024629960,ikshita415@hotmail.com,RBMGJ,56,4,1,169,1.0433,0.4,0,0
+790000e0-6f33-4506-ab91-0d4c3797c4b1,Mahika Divan,38,"75 Pandey Ganj, Moradabad, 895194",895194,9072006425,laksh936@outlook.com,ONYML,25,1,1,169,2.1569,0.1667,0,0
+1ff4b763-4035-4dc3-ad58-fdc4e4c309dd,Idika Kanda,35,"280 Uppal Marg, Nagaon, 688926",688926,7265732759,aarnav965@rediffmail.com,NQACB,61,1,1,158,0.3472,0.1667,0,0
+b414f4bb-2e7b-4eaf-9cbd-76265a206714,Isaac Prabhakar,59,"184 Arya Street, Proddatur, 265551",265551,7763643159,lakshmi306@rediffmail.com,QOOIK,71,1,1,158,2.3297,0.1,0,0
+53c10f9d-fd30-4644-a617-68914c1f7728,Thomas Basu,42,"240 Handa Street, Berhampur, 856976",856976,6567164932,yash900@rediffmail.com,WUSAM,98,2,1,158,0.4916,0.25,0,0
+274bed0f-6f40-4ece-9f85-8c88eae791b9,Nihal Dasgupta,50,"43 Viswanathan Marg, Latur, 831830",831830,8405809351,edhitha89@rediffmail.com,LNGIJ,86,3,1,158,2.1099,0.3,0,0
+96c7a588-d64e-4f4b-931f-b8267f1c3783,Oliver Lall,42,"729 Dhaliwal Path, Farrukhabad, 625356",625356,6442067883,eesha106@outlook.com,CUDBU,30,1,1,169,0.789,0.125,0,0
+664dde7a-e9f3-4647-b31d-85de5645fb66,Nitesh Ratta,64,"70 Atwal Road, Tinsukia, 720767",720767,7988425995,triya608@rediffmail.com,VBATG,50,4,1,158,1.7636,0.3333,0,0
+86dc960a-c340-4fc0-94cc-9fefd1428d15,Daniel Bhagat,64,"544 Sur Ganj, Bulandshahr, 890402",890402,6557325737,jagat380@hotmail.com,FZGPY,45,5,1,169,0.6086,0.4167,0,0
+de5f5dce-9d23-427c-9870-e0f99ae1838e,Ranbir Dube,26,"354 Uppal Street, Bijapur, 391034",391034,9945964883,yuvraj89@rediffmail.com,DSHGC,56,1,1,158,2.0531,0.25,0,0
+85c56562-66bf-4af7-8699-f9377dc077d9,Qarin Gera,24,"992 Puri Marg, Shimoga, 776265",776265,9422319646,yatin235@gmail.com,BADKF,97,1,1,172,2.0588,0.25,0,0
+b755d922-2a18-45c8-bd02-6d4dae64b979,Daniel Patla,68,"211 Jani, Sikar, 763952",763952,9536749785,thomas159@hotmail.com,PGZVZ,49,2,1,169,0.3072,0.1667,0,0
+3a02c915-a3b3-436f-b516-58bea73c14f8,Balendra Sethi,68,"722 Wason Chowk, Bhiwani, 300071",300071,6671307351,faris58@hotmail.com,JNHHU,25,3,1,169,0.685,0.25,0,0
+7afa540e-0dc0-432c-9e15-5c49576d9923,Vamakshi Goda,46,"420 Sibal Marg, Bihar Sharif, 669462",669462,9923264870,kabir852@hotmail.com,VHOMA,23,1,1,169,0.3054,0.1458,0,0
+dfc6f5af-d3f6-41e8-b955-a081d9d5f6f0,Christopher Ganesan,48,"235 Behl Nagar, Munger, 830248",830248,8729893762,henry635@outlook.com,HGFTU,25,4,1,169,0.3441,0.5,0,0
+e8eaaca6-9ccf-466a-8e35-ede71e89676a,Isaiah Om,53,"637 Date Street, Khora , 397384",397384,6134808735,gagan315@yahoo.com,MROXD,66,2,1,181,0.4015,0.2,0,0
+b8f4f8dc-4489-4e72-8b4c-9ad3fc9fa583,Libni Dani,46,"331 Aurora Path, Agra, 202917",202917,7578529456,gauri216@outlook.com,QZBWF,85,2,1,169,0.8833,0.25,0,0
+ae84b1c5-8dcf-46c7-a2f9-23f7d8a0d10a,Farhan Nori,50,"761 Issac Marg, Kolhapur, 623863",623863,8066658004,nathan217@rediffmail.com,WWLFQ,25,2,1,158,1.861,0.2,0,0
+eaf07efa-36d6-4252-a38c-bb2101b61a3e,Avni Bhavsar,25,"884 Arora Nagar, New Delhi, 110740",110740,9876539251,bhavini611@fraudmail.in,AAAPF,10,1,12,18,0.146,0.5417,1,1
+b0090e54-c34e-4305-8164-4c7c456092ee,Bhavika Dubey,24,"480 Chadha Street, Kanpur, 262740",262740,8883586812,ekalinga681@yahoo.com,JSISU,57,1,1,181,0.9123,0.25,0,0
+de627de6-db34-44eb-9e25-bf0eb07bb14f,Dhruv Om,46,"46 Bains Road, Singrauli, 590053",590053,7186928972,sanya832@rediffmail.com,HYIBC,83,3,1,158,1.4306,0.375,0,0
+09bec766-4c85-47f5-857e-4f3a852dd646,Om Anne,62,"570 Bhat Path, Maheshtala, 348684",348684,6211667329,charles959@gmail.com,HRYYL,109,5,1,172,1.9593,0.4167,0,0
+14a84e18-cf67-4006-ad0d-097850dc5141,Mekhala Oommen,64,"781 Manda Street, Miryalaguda, 638391",638391,9851910883,vedant596@rediffmail.com,DINDF,117,2,1,158,1.5829,0.1667,0,0
+65cdbd82-db78-4fca-85a3-6a98d7003e4f,Hitesh Pingle,42,"482 Borde Circle, Shahjahanpur, 856309",856309,9496927711,urmi913@rediffmail.com,QDSFF,101,1,1,158,1.8284,0.125,0,0
+3c06426f-3493-4305-9e3c-dc81d66cd19d,Sai Dutta,42,"5 Bhat Circle, Gandhinagar, 829533",829533,9452577754,eshana508@rediffmail.com,CQCHV,66,1,1,158,2.2609,0.125,0,0
+61d5d31d-3711-420d-9227-ff999b869eec,Oviya Palla,32,"498 Muni Nagar, New Delhi, 110337",110337,9876591212,odika96@fraudmail.in,AAAPF,5,1,12,18,0.022,0.5625,1,1
+b1bc3338-b4f4-4204-adee-47d044616c02,Ekta Bhargava,58,"11 Dube Circle, Satna, 180260",180260,8153259479,leena357@gmail.com,LBVCL,57,1,1,172,0.7208,0.1,0,0
+be2e75da-7118-4e5e-93ac-bd092a9189e2,Nicholas Chhabra,49,"917 Bhagat, Bihar Sharif, 608652",608652,9584161692,charvi568@hotmail.com,ICRHP,63,4,1,169,1.2375,0.5,0,0
+7248b3c1-36e1-44b2-8856-32dba8bc1696,Chanchal Desai,55,"470 Sachdeva Circle, Nanded, 617191",617191,7619906234,samar277@hotmail.com,YKVIL,64,3,1,169,0.8139,0.3,0,0
+e04e2582-46d1-492b-96ed-a05676b79c50,Chakradhar Singhal,61,"174 Lad Path, Latur, 625543",625543,8807520344,hamsini469@outlook.com,IHZRR,87,4,1,169,1.0324,0.3333,0,0
+56d82cb6-f2b6-4a8a-8402-5bba65b071ba,Saksham Shere,53,"920 Chandra Nagar, Pali, 475374",475374,8384588105,oviya932@outlook.com,SQHFD,102,3,1,169,2.4471,0.3,0,0
+d23f9e36-a06a-4493-8bc0-80e183389947,Oeshi Kata,49,"220 Parmar Circle, Panipat, 556244",556244,7099934768,vinaya500@gmail.com,CJKQU,34,3,1,172,0.8481,0.375,0,0
+7a9b718e-8a0c-4736-88c1-afeb1f423361,Indali Ben,50,"798 Bajaj, Aurangabad, 800590",800590,7771670145,anay22@rediffmail.com,TOOZR,35,4,1,158,1.0443,0.4,0,0
+91fa4257-2c64-43aa-95ec-79ad4aab1dee,Edhitha Talwar,39,"902 Jaggi, Nashik, 629480",629480,7136783777,anthony821@gmail.com,CFRHP,88,3,1,172,1.3412,0.5,0,0
+33790cea-a234-4bd1-b24e-eccdb4fdf9e9,Chatura Venkatesh,50,"587 Jhaveri Nagar, Dibrugarh, 898283",898283,6995298006,azad102@hotmail.com,XTORN,64,2,1,169,1.0966,0.2,0,0
+08c7fde0-beb9-417c-aae0-c34b29f692c1,Agastya Bhatia,55,"969 Palan Ganj, Pudukkottai, 110277",110277,7843098839,nikita183@gmail.com,JRZCH,48,1,1,172,1.1788,0.1,0,0
+0176341e-76ca-4bae-8d88-155f03d6b3d0,Jai Ghose,33,"267 Tara Marg, Berhampur, 218276",218276,9075877712,chakradhar136@hotmail.com,CWEEN,16,2,1,169,0.9001,0.5,0,0
+01ba2a56-4c2f-4f65-9510-7f4ed40c66b4,Devika Salvi,51,"712 Nayar Nagar, Navi Mumbai, 283715",283715,7867673820,veer966@rediffmail.com,LJCPS,115,1,1,158,1.7601,0.1,0,0
+a279b47f-9a98-4c8e-a442-bcd7fa9a9ca2,Lipika Batta,24,"285 Nigam, Raurkela Industrial Township, 374188",374188,7163090015,geetika649@hotmail.com,HGFPT,120,1,1,169,2.3413,0.25,0,0
+fd4427f8-a8a4-4fbb-9122-4c4e5295f5f4,Yauvani Ganguly,58,"487 Chandran Street, Darbhanga, 861742",861742,7294643039,tanmayi320@yahoo.com,PGSTZ,93,3,1,181,1.1929,0.3,0,0
+f855ead0-2ba8-4207-bd08-7733670d031a,Qushi Kannan,36,"835 Choudhary, Mathura, 851264",851264,8220969029,yachana335@rediffmail.com,FOYDT,97,3,1,158,0.8236,0.5,0,0
+f19576bc-a262-474f-9ba7-c2d68f853c33,Balveer Borde,45,"560 Zacharia Circle, Madurai, 401933",401933,9212281606,hemal295@rediffmail.com,GEVAM,108,3,1,158,2.3625,0.375,0,0
+ccd33b2e-ae0d-4a5d-98e7-ae644452bb6b,Wriddhish Dasgupta,55,"501 Kalla Chowk, Jamnagar, 414015",414015,7039117182,qabil141@outlook.com,YENPZ,12,3,1,169,2.3436,0.55,0,0
+e690482a-7e62-4f78-a89e-be0ecaab508b,Damyanti Sathe,43,"562 Basak Circle, Guwahati, 784671",784671,6535237360,adya376@gmail.com,XXVXS,70,3,1,172,2.1459,0.375,0,0
+06258207-2e17-47e2-8186-da1101cf43e5,Aachal Chahal,63,"408 Hans Marg, Muzaffarnagar, 293918",293918,9264488694,krish761@outlook.com,TYWCO,103,4,1,169,2.0546,0.3333,0,0
+8fd80bb7-b4ff-4837-8aa4-b7d3b0ec6a2f,Isha Khatri,34,"243 Sem Road, Raurkela Industrial Township, 667705",667705,8782911467,aarna548@outlook.com,TVBZQ,113,1,1,169,1.2899,0.1667,0,0
+b676888e-95f6-42c1-a96a-14ba7f054697,Vanya Mishra,41,"850 Bhat Ganj, Yamunanagar, 611253",611253,9576927789,bhavya302@yahoo.com,CCAAB,13,1,1,181,0.3247,0.3542,0,0
+00087fa0-b0a1-45c6-8b9f-a9521dec26c3,Xalak Behl,45,"413 Hayre, Chennai, 897988",897988,9497677622,neelima527@yahoo.com,MLZNN,98,3,1,181,1.8278,0.375,0,0
+5cda1104-69f5-444b-8941-cb5760dbcf74,Yashoda Patel,46,"166 Tiwari, Bangalore, 560692",560692,6341199007,jackson417@mailbox99.co,CCCRY,14,3,11,17,0.0848,0.5833,3,1
+538709c3-ed0a-4616-b42c-b8f9b4d0dbba,Warinder Bali,38,"578 Hora Chowk, Kochi, 187021",187021,8869380686,daksha998@rediffmail.com,RYOGH,40,2,1,158,1.1686,0.3333,0,0
+5c28e022-f466-4ce7-a908-1ff0d71f20bf,Yagnesh Brahmbhatt,48,"616 Dugal Zila, Chandrapur, 660903",660903,8983022050,lila158@gmail.com,RVHXB,68,1,1,172,1.2173,0.125,0,0
+c4d9dd75-522b-4ec1-9613-7dc314f13332,Zaitra Garg,46,"537 Chokshi Road, Bhiwandi, 678058",678058,7583206799,nikita526@gmail.com,FHKDC,18,2,1,172,1.5572,0.375,0,0
+23d1ffc4-bc43-4b09-ba3a-b57b18b00225,Harrison Bains,54,"521 Sane Marg, Nagercoil, 201503",201503,9235137399,tanveer25@gmail.com,XFRYA,79,2,1,172,0.8289,0.2,0,0
+03fe30bf-740d-44e0-8ee0-e8d5359532c3,Finn Raval,30,"954 Prabhakar Nagar, Patiala, 759595",759595,6310064934,ronith801@gmail.com,FXDHD,71,1,1,172,0.3692,0.1667,0,0
+063090f5-5100-4ef8-86d7-b904d31f03c0,Gautam Palla,34,"160 Pal Ganj, Morena, 577127",577127,8618537474,champak882@gmail.com,CUHSP,29,1,1,172,0.773,0.1667,0,0
+b97dbc8c-c2d0-4d57-840f-28dfa40d5896,Kritika Kamdar,51,"358 Parsa Nagar, Malegaon, 465358",465358,7386003044,raksha251@outlook.com,QVWOC,78,4,1,169,0.4461,0.4,0,0
+af3cb59f-175f-473d-8df7-17d789e05536,Tarak Sagar,64,"430 Konda Circle, Bhind, 838684",838684,8504892673,damini918@rediffmail.com,QQLIV,78,3,1,158,1.7273,0.25,0,0
+8cca2ca3-ab76-4b18-8cde-5b24a4d56c70,Reyansh Mani,46,"670 Warrior Ganj, Machilipatnam, 485184",485184,7865577908,aradhana913@yahoo.com,LFNHD,58,3,1,181,0.6462,0.375,0,0
+96a58875-9281-4ea2-8f5c-abbd96b7119b,Isha Datta,45,"251 Krishna Path, Amravati, 798869",798869,7221969379,zaid156@yahoo.com,LGGAU,67,1,1,181,2.2827,0.125,0,0
+df78f2ac-c413-4a0a-8217-2d571c9c3510,Oviya Ravi,22,"20 Gulati Street, Nadiad, 537035",537035,7439587395,xiti924@rediffmail.com,DUFEA,91,1,1,158,1.6242,0.25,0,0
+f210ac4c-b36b-4b98-be64-d58325e17e59,Ranveer Krishnan,34,"182 Parmer Nagar, Bhubaneswar, 852654",852654,9935646519,oeshi214@rediffmail.com,ZETAS,73,2,1,158,2.3745,0.3333,0,0
+044714aa-3282-4d65-9de6-640d30eb2afe,Onkar Yohannan,24,"88 Bakshi Path, Dehri, 677990",677990,9005140546,kala522@yahoo.com,IKJDR,42,2,1,181,1.0289,0.5,0,0
+44119e98-dcc8-4a65-ae87-8f74fc5aaf32,Aashi Minhas,23,"821 Sen Circle, Nellore, 190975",190975,9136968164,orinder773@hotmail.com,FUBQN,53,1,1,169,0.7266,0.25,0,0
+58569786-8452-4d27-9012-9c8d3de3bc90,Anmol Guha,67,"724 Mutti Marg, Tenali, 849274",849274,6728012342,zarna909@rediffmail.com,OEDTE,75,5,1,158,2.167,0.4167,0,0
+62501ac3-771d-4fa4-83c4-345ce78c0e8e,Neha Varkey,25,"433 Ahuja Circle, Guwahati, 755533",755533,7153779599,chandran996@hotmail.com,QKELU,42,1,1,169,0.3928,0.25,0,0
+975e9f5c-8ab9-4065-87c0-d0f65679fc63,Chameli Chakrabarti,45,"732 Gola Marg, Kolhapur, 691173",691173,6637579145,panini157@gmail.com,CEWMG,109,3,1,172,0.6109,0.375,0,0
+004e7de3-ce2c-47e3-b48e-5ccb602536c6,Eta Nagar,51,"780 Khalsa Circle, Madhyamgram, 358646",358646,6708053100,anamika982@yahoo.com,FADDR,53,3,1,181,1.5407,0.3,0,0
+2449cda7-81ab-453a-84c2-437da8dc3504,Damyanti Garde,51,"341 Bhatnagar Nagar, Bhiwandi, 742069",742069,6767993593,ayaan470@hotmail.com,HQBFX,17,3,1,169,0.8591,0.4458,0,0
+09efc5d0-34be-4e5a-a34a-ccbd6f12c5be,Viraj Ratti,60,"741 Ram Ganj, Miryalaguda, 431992",431992,8027275164,amaira543@gmail.com,ZYWQQ,37,1,1,172,1.5724,0.0833,0,0
+8094bbcc-cb74-4fb3-8e37-7b0ed867d569,Janani Edwin,57,"209 Khare Chowk, Muzaffarnagar, 547110",547110,6920981960,aayush770@yahoo.com,ZQUEQ,32,3,1,181,0.7879,0.3,0,0
+e0562585-73f8-45db-85f7-8d847f947ee0,Janya Gala,52,"852 Barad Ganj, Jaipur, 198116",198116,8280988516,samaksh372@outlook.com,WSZPJ,20,1,1,169,1.5714,0.1833,0,0
+45648170-158c-4a7a-adb0-91676b22bf15,Leena Panchal,54,"311 Jani Zila, Motihari, 665344",665344,6230834024,oeshi959@yahoo.com,HUQGV,102,3,1,181,1.4761,0.3,0,0
+0f0ecdfd-594f-4487-a6ce-6e442cd39400,Kamala Tata,43,"940 Parmar Path, Shimla, 449481",449481,7692559664,rajeshri874@outlook.com,EWGLZ,119,3,1,169,0.6008,0.375,0,0
+3902a52d-dd7c-48a3-bcf8-a47f8ec11b43,Rajeshri Sangha,25,"242 Hayre Nagar, Hapur, 115682",115682,8068212235,tamanna345@yahoo.com,CKWJU,63,2,1,181,1.486,0.5,0,0
+a86657fe-b3c0-4098-80ae-be0f91f34235,Tarak Sarkar,26,"145 Shah Ganj, Haridwar, 666625",666625,7739021962,darika26@outlook.com,CAYSP,27,2,1,169,0.9242,0.5,0,0
+fbeb81e0-f1b9-4bae-a15d-c3ae228eff9a,Urmi Raj,33,"514 Yadav Street, Hazaribagh, 488905",488905,9086700900,jalsa687@hotmail.com,XJQCS,117,2,1,169,0.9052,0.3333,0,0
+5f403677-2cd8-4653-bd4e-31856287cae7,Warjas Dhawan,63,"789 Dash, Surendranagar Dudhrej, 215632",215632,6613394394,banjeet379@outlook.com,BQOWG,97,5,1,169,1.4244,0.4167,0,0
+23b64ccc-f367-4319-b332-de82b0cbd2f6,Zansi Ganesh,24,"134 Mammen Street, Motihari, 865886",865886,6505376660,omya541@gmail.com,DDUAB,101,2,1,172,0.7245,0.5,0,0
+599bdf2a-a4ca-4b92-937f-e4cdc700add9,Sachi Kade,52,"654 Dixit Circle, Mehsana, 324903",324903,7736346692,mitali967@hotmail.com,GCTHN,46,4,1,169,0.8064,0.4,0,0
+95d67800-ed77-4b05-84ab-f11f2f4edad3,Sanya Sarma,42,"303 Sengupta Path, Erode, 530823",530823,9299468044,hitesh225@outlook.com,UPILR,63,3,1,169,1.4246,0.375,0,0
+1bc1c7aa-7728-4e43-882e-2e2fd8ca516e,Neelima Palla,36,"899 Sagar Zila, Gandhidham, 638640",638640,7230958629,champak750@outlook.com,SFOVQ,85,2,1,169,2.2411,0.3333,0,0
+d0c2358d-a166-40e8-89d4-705e075253f7,Panini Rama,64,"362 Koshy Nagar, Dindigul, 496695",496695,7017537030,pahal786@hotmail.com,RSEVQ,68,1,1,169,2.0785,0.0833,0,0
+8a337e10-ea71-421c-af2e-bfac87a78937,Maanas Sekhon,30,"575 Goswami Circle, Maheshtala, 485578",485578,8278585497,lakshit206@yahoo.com,HHYZU,78,1,1,181,1.8508,0.1667,0,0
+ac46e1f1-f1ae-494a-a48a-9009ad2976d7,Nakul Parekh,66,"133 Kakar Circle, Hospet, 672914",672914,9528168505,anita326@yahoo.com,YITEZ,96,4,1,181,0.6409,0.3333,0,0
+707dec8b-fb50-4e26-b485-bbab933f8073,Manthan Wason,62,"395 Acharya Nagar, Malda, 403580",403580,9498931950,anusha537@hotmail.com,XCJQJ,12,1,1,169,0.6856,0.3333,0,0
+2c718ee0-d6de-4563-9faf-c8963d8f0281,Zashil Apte,57,"428 Garg Street, Nadiad, 234711",234711,6754527985,udarsh186@hotmail.com,AVFWD,90,1,1,169,0.7985,0.1,0,0
+089369ea-ef5e-4997-807d-71519e3ae052,Omaja Sachdeva,26,"134 Hayre Path, Guntakal, 826346",826346,9299493874,ekavir216@gmail.com,ZLVPG,61,1,1,172,1.0236,0.25,0,0
+4cb75a5e-747a-4c1f-91d0-277242fb7cbc,Yahvi Ramachandran,48,"989 Badal Marg, Bangalore, 560101",560101,6341132823,radha931@mailbox99.co,CCCRY,14,2,11,17,0.0416,0.4583,3,1
+8cc846d3-f003-4dea-a07a-d377627e4f67,Ira Mammen,30,"469 Buch Circle, Barasat, 569510",569510,6183842513,nitara388@hotmail.com,EVSPZ,97,2,1,169,1.7387,0.3333,0,0
+1b6521f8-e3ae-4e6f-b18d-f5d98efae856,Amrita Rai,34,"745 Banerjee Zila, Jaunpur, 746108",746108,6996930848,umang925@rediffmail.com,MUJFU,45,1,1,158,1.9131,0.1667,0,0
+ee14538a-531d-4d1a-911a-18d9e4e7b137,Jyoti Setty,42,"887 Anne Circle, Amroha, 770047",770047,7927742333,deepa762@gmail.com,JWCUW,108,3,1,172,1.1284,0.375,0,0
+4b59d5d1-4a9e-4ed7-8505-bdfe1b015e6e,Yauvani Mane,50,"415 Mistry Zila, Panihati, 635921",635921,7192596790,faris580@rediffmail.com,NRGQO,25,3,1,158,2.0234,0.3,0,0
+769bc8a8-f514-4429-b980-e4eb1142f53f,Azad Virk,61,"15 Ramanathan Path, Haridwar, 560514",560514,9053833884,jhalak571@outlook.com,QZSRJ,30,3,1,169,2.2933,0.25,0,0
+84a54171-c290-4cf2-a1b2-89f2d00912cb,Pranav Hans,61,"490 Buch, Jamalpur, 228793",228793,7822311649,teerth117@yahoo.com,FERIZ,97,1,1,181,1.7704,0.0833,0,0
+9bab6366-9587-447b-b5a3-2cd1e4d7614b,Jeremiah Biswas,30,"882 Vasa Path, Ahmedabad, 779733",779733,9773126881,ishani159@yahoo.com,WDTMZ,52,1,1,181,0.4597,0.1667,0,0
+b77ca592-9bd7-4923-b7d1-6aaba532bceb,Om Ghosh,47,"733 Vala Circle, Alappuzha, 714436",714436,9093170695,vasudha378@outlook.com,ALLLL,47,1,1,169,1.0661,0.125,0,0
+2dc0b48a-e3a1-4875-8bfc-0d8cca66330e,Kashish Sharaf,40,"503 Chaudry Marg, Aurangabad, 234368",234368,9911633194,imaran192@yahoo.com,TZZOJ,83,3,1,181,0.7791,0.375,0,0
+7d9ba0c6-44b9-4e56-ad30-22933a59e67e,Ganga Badal,66,"284 Gill Zila, Munger, 508809",508809,7440630624,darsh283@outlook.com,PZIFA,111,2,1,169,1.0141,0.1667,0,0
+e4c4bde1-bbc1-43bc-8436-8e50573e5cfc,Gunbir Dyal,42,"524 Vora Marg, Unnao, 811769",811769,7751758891,kashvi267@hotmail.com,YWPFY,51,2,1,169,1.0132,0.25,0,0
+826d710c-2bea-4720-acf3-fd5b72896252,Michael Patil,40,"329 Chadha Ganj, Bulandshahr, 271811",271811,6133613861,oviya774@yahoo.com,ASABE,95,1,1,181,0.8542,0.125,0,0
+35bda479-752a-4d3d-bede-896100b811f2,Hardik Suresh,27,"13 Thaker Ganj, Naihati, 889159",889159,8919457575,bimala521@hotmail.com,TIZEP,98,2,1,169,0.3939,0.5,0,0
+15186982-53aa-4f78-8054-33ee0ab38eda,Jagvi Mohan,64,"915 Ravi, Bhilai, 427665",427665,7307704611,fitan473@yahoo.com,PPGAA,21,5,1,181,2.0233,0.4792,0,0
+cab42093-a8fa-47c9-994a-f4a1d41becf3,Zaitra Dyal,66,"720 Johal Ganj, Aurangabad, 102135",102135,7058721055,anusha879@yahoo.com,HDWZX,115,2,1,181,0.8335,0.1667,0,0
+493f2f35-15b9-4779-85bd-f8722e67662e,Triya Ahuja,44,"275 Prabhakar, Darbhanga, 287155",287155,6667467621,chavvi145@gmail.com,ZVCXM,68,3,1,172,1.5517,0.375,0,0
+17d2dd4c-8b09-4b41-9265-2d8151c05708,Gabriel Batta,65,"736 Ray Ganj, Pali, 108519",108519,9240580085,panini122@hotmail.com,WGSKI,50,4,1,169,1.1421,0.3333,0,0
+d942c37a-3b2a-4a6c-a62d-3bd7a0a91c26,Avi Wagle,58,"887 Saran Nagar, Jehanabad, 725497",725497,6279970292,kevin460@gmail.com,EIRPT,54,3,1,172,2.3035,0.3,0,0
+caf0980b-3cc8-436c-84bc-3ad30bd6e197,Vrishti Din,68,"648 Ranganathan Street, Bhilai, 519635",519635,8072324728,wishi176@rediffmail.com,PXXHB,18,1,1,158,1.368,0.2083,0,0
+b50d2cd3-7188-4c9d-9b37-ededa6d5b118,Niharika De,65,"132 Goel Street, Aurangabad, 886892",886892,7680182422,wakeeta340@yahoo.com,IYXVG,78,3,1,181,1.6971,0.25,0,0
+d900a2d2-2108-4628-85f1-cf85d7f13a46,Jonathan Walla,35,"771 Bal, New Delhi, 649191",649191,7553714785,daksha621@outlook.com,PPJVQ,38,2,1,169,2.0902,0.3333,0,0
+9acf234e-1e68-4e54-a3d3-93a092d4eda3,Jai Gole,37,"658 Arya Circle, Jamnagar, 154324",154324,9424295633,vrishti289@yahoo.com,EHSGM,51,3,1,181,1.5731,0.5,0,0
+fb3f0eec-90db-4239-a6ab-c8b18c638a20,Vedant Ganguly,62,"366 Raj Circle, Aurangabad, 198874",198874,7146753612,ayush485@hotmail.com,RJKDW,62,5,1,169,2.1483,0.4167,0,0
+e175832e-e2c7-4085-8689-4c6e525bd144,Aryan Sur,36,"349 Chana Chowk, Jaipur, 506999",506999,8047735866,ikbal200@rediffmail.com,RCQUS,119,1,1,158,0.4805,0.1667,0,0
+ba1329f9-cd66-40d5-988b-ac187ae41f0f,Nitesh Kashyap,67,"941 Boase Ganj, Morbi, 788991",788991,7513412528,nathan407@outlook.com,POKMN,114,3,1,169,2.3222,0.25,0,0
+7ef0f153-04ef-48d0-ad1b-163734aef2eb,Upma Biswas,58,"288 Raval Street, Miryalaguda, 194573",194573,8415833117,ekansh71@yahoo.com,AFVEC,73,4,1,181,0.7591,0.4,0,0
+10d6c3e8-4c1d-4afc-b3f2-6c8fb295c884,Radhika Chakraborty,26,"294 Sachar Street, Bilaspur, 884622",884622,9567661825,jeevika131@yahoo.com,ZKDZV,72,1,1,181,1.9636,0.25,0,0
+10b704ff-3e94-4371-bb9e-0b3f90f173a0,Ayushman Vyas,48,"983 Jayaraman, Kavali, 585982",585982,7481310450,chaman167@hotmail.com,URKRB,119,1,1,169,2.2633,0.125,0,0
+6859d3d0-d2b2-4d44-a93b-549a4bd5de8d,Mitesh Bava,66,"684 Parmar Circle, Bahraich, 263174",263174,9841459332,indali499@yahoo.com,LZJSX,42,1,1,181,1.9662,0.0833,0,0
+eebf3721-f8e8-496e-b522-1c22dc56840b,Vedika Sharaf,56,"412 Buch Ganj, Hapur, 123907",123907,8626085641,nidhi127@gmail.com,OHETE,89,3,1,172,2.3948,0.3,0,0
+2066f004-c231-4aa2-9ad0-05ba0a4ddd8a,Agastya Sridhar,41,"418 Chanda Marg, Bangalore, 560185",560185,6341118626,simon475@mailbox99.co,CCCRY,9,2,11,17,0.0247,0.5625,3,1
+5e1244ed-4287-47d6-890b-d3f3d2b28e9b,Varenya Apte,45,"603 Viswanathan Zila, Howrah, 494142",494142,6404893326,anvi846@gmail.com,HIISB,111,3,1,172,1.5465,0.375,0,0
+6e1e2b1a-a59a-471b-9b27-cecbe012070c,Aarnav Khalsa,68,"47 Swamy Path, Gorakhpur, 682554",682554,6215164119,januja794@hotmail.com,IHORO,47,4,1,169,1.1271,0.3333,0,0
+d9e0b437-a14b-43e8-a87f-e42df1cc0f9c,Indira Subramanian,59,"104 Krish Ganj, Hyderabad, 650054",650054,8741721562,gaurika904@yahoo.com,POOLI,60,1,1,181,1.5025,0.1,0,0
+057df7ed-fffe-4431-83c4-86b07538ca43,Yatin Anand,24,"554 Ahluwalia Chowk, Sultan Pur Majra, 422515",422515,7334264335,aarna37@yahoo.com,WYDYA,111,1,1,181,2.2086,0.25,0,0
+db7f4461-8ba5-43c9-a41f-1c0345e3adac,Forum Pingle,37,"412 Andra, Belgaum, 322738",322738,6284395995,tanmayi252@hotmail.com,WZNKH,106,1,1,169,1.5248,0.1667,0,0
+a3bbb2d9-05e5-49e2-ba36-4be0c2a88329,Christopher Pall,25,"872 Thakur Nagar, Ramagundam, 169219",169219,7619399091,faris439@rediffmail.com,OIGRI,77,1,1,158,0.8844,0.25,0,0
+7e43e103-639a-480d-a84b-46959eacf3f3,Rayaan Khosla,49,"697 Khanna Zila, Bangalore, 560748",560748,6341159946,baghyawati292@mailbox99.co,CCCRY,10,3,11,17,0.0205,0.6667,3,1
+05b5f299-8f16-44da-8300-e000be1b8b69,Krishna Thakur,58,"933 Grewal Marg, Gandhidham, 894974",894974,7953394210,kala326@outlook.com,AJDXI,99,1,1,169,1.2141,0.1,0,0
+82c2b297-d11d-4ca4-846d-05464553f153,Lipika D’Alia,65,"76 Sidhu Street, Nadiad, 406759",406759,9474367136,samuel595@hotmail.com,OZHZR,81,2,1,169,0.9039,0.1667,0,0
+f48cc22c-157c-4708-baad-b911b5323e77,Anamika Kashyap,49,"750 Bajwa Zila, Hapur, 742054",742054,8101749075,ishwar251@rediffmail.com,OXQNP,76,1,1,158,1.0707,0.125,0,0
+23f5381b-91d1-4fef-befa-a35ac1b0ff03,Agastya Kapadia,54,"671 Halder Circle, Srinagar, 155755",155755,7758997571,mason109@yahoo.com,AJQUO,83,2,1,181,1.1226,0.2,0,0
+4aac742b-3f65-4a5e-bbb8-06fdf8d1d2e1,Isaac Shankar,65,"125 Srinivasan Nagar, Jalgaon, 402081",402081,7561403845,vinaya675@yahoo.com,QCNBM,73,4,1,181,1.2265,0.3333,0,0
+ad49cb59-b414-40ba-8685-68d734bdb783,Jacob Narain,25,"202 Gala Chowk, Parbhani, 185717",185717,9318939749,kashish19@rediffmail.com,LXSLQ,52,1,1,158,1.5957,0.25,0,0
+c161fe3d-e05e-462e-9c68-86d4a3642f5a,Lajita Nadig,23,"914 Chand Nagar, Berhampur, 719050",719050,7869484249,harinakshi355@rediffmail.com,NQQHL,32,1,1,158,1.5005,0.25,0,0
+3084dd03-2466-4c01-af3b-27e2ccf2bd3d,Owen Sridhar,46,"75 Yadav, Dharmavaram, 479388",479388,6342362203,upma209@hotmail.com,LEKRA,40,1,1,169,0.8104,0.125,0,0
+4cc4fa27-7030-4df0-b80c-9e29543c6be4,Om Maharaj,60,"784 Patel Chowk, Silchar, 776766",776766,6728326842,harita315@hotmail.com,YAWDB,23,3,1,169,1.56,0.2708,0,0
+2c5876a3-1b29-4838-9a10-4d3d9ca47cc4,Tanay Pillay,38,"405 Kala Street, Mango, 609318",609318,7280771130,vedika863@outlook.com,ETUGP,25,1,1,169,1.2638,0.1667,0,0
+d07f67ca-c2aa-4355-a082-29f20dbabc6a,Lavanya Sachdeva,44,"535 Saha Street, Korba, 489982",489982,6418095217,mitali379@hotmail.com,NZDMH,70,3,1,169,0.4985,0.375,0,0
+5f26c71e-ce5c-4f88-92bf-3e48f9fe2db6,Rajeshri Shah,50,"970 Mitter Path, Varanasi, 187955",187955,8122946213,oscar994@hotmail.com,HUUJZ,14,4,1,169,1.3884,0.6083,0,0
+6696b6ff-2487-4656-9c41-e443f9ddc58a,Priya Banerjee,26,"933 Munshi Path, Bhavnagar, 561466",561466,9650618091,sarthak784@rediffmail.com,BWJNH,85,1,1,158,1.8089,0.25,0,0
+e10a0c6f-a29e-4853-8d30-148d338ee7c8,Wridesh Chaudhari,57,"902 Iyengar Road, Vadodara, 487383",487383,7816432126,om643@hotmail.com,SNQRH,72,4,1,169,0.9547,0.4,0,0
+0fad6c59-af94-4ca3-8ad4-a94682280431,Praneel Anand,38,"960 Chaudhary Road, Patiala, 168884",168884,7337312552,lavanya217@hotmail.com,XKMYM,14,2,1,169,0.7508,0.5417,0,0
+b25b5b1a-1f04-431a-9165-e83cc0c7ced2,Damyanti Puri,59,"886 Sharma Street, Sirsa, 244950",244950,9480164403,charita472@yahoo.com,RVKNY,18,2,1,181,2.2911,0.325,0,0
+931321c1-480a-4958-8001-028327af731d,Tanvi Gandhi,65,"173 Bala Path, Muzaffarnagar, 778717",778717,7332116025,nirja934@outlook.com,TFGMX,82,4,1,169,0.5708,0.3333,0,0
+c79e6a98-9a77-4005-8b11-5c0b25f46364,Ekaraj Chaudry,60,"974 Sawhney, Surendranagar Dudhrej, 188911",188911,7692124471,ronith664@outlook.com,XHLXU,96,2,1,169,1.0115,0.1667,0,0
+f84e165e-4a2a-453d-b592-ca7a7b996cde,Baljiwan Doshi,22,"949 Chander Zila, Orai, 130139",130139,6882351305,christopher151@yahoo.com,CRDHF,32,1,1,181,0.5023,0.25,0,0
+00647ef5-6533-4ec2-bfc7-fec744b6dd15,Wahab Raman,57,"979 Gour Nagar, Madurai, 875989",875989,6983780182,jack995@gmail.com,HFVVP,22,2,1,172,0.4862,0.2417,0,0
+b66790f9-b476-4564-aaec-d969141813ae,Vritti D’Alia,32,"81 Singhal Zila, Durgapur, 488920",488920,6363852778,aradhana597@hotmail.com,JELXO,98,1,1,169,0.9756,0.1667,0,0
+1d92561f-ef92-4a96-b47e-b57e597af8bd,Faqid Tripathi,44,"256 Subramaniam Marg, Karnal, 516158",516158,7322602563,leena283@yahoo.com,UCWWF,38,3,1,181,2.0965,0.375,0,0
+4dfbd420-1d9e-4ff7-b840-20eeadac0573,Ethan Tandon,37,"389 Mann Nagar, Tenali, 801483",801483,8030564139,david907@hotmail.com,FMXQD,32,2,1,169,0.6072,0.3333,0,0
+22cae3a6-7c9b-4adf-9fe6-cd7724edfc9b,Niharika Tella,52,"373 Kannan, Kota, 453263",453263,6004627765,yutika470@yahoo.com,VTSRY,95,1,1,181,1.9533,0.1,0,0
+2a64ca6d-8e4f-4b60-a492-7b44ebdd1093,Sneha Gara,37,"603 Varghese Nagar, Satna, 793385",793385,7580010618,pratyush116@outlook.com,JSGAQ,105,3,1,169,0.4251,0.5,0,0
+9e8c0834-c554-4e1e-8d5c-3f9762d3db34,Damyanti Cherian,58,"856 Sood Path, Raipur, 271388",271388,7114577584,gabriel689@outlook.com,GLVHI,99,3,1,169,1.4392,0.3,0,0
+e1d9477a-4ab9-492b-b905-b25f75206d2b,Gauri Mane,36,"567 Rau Marg, Dehri, 842315",842315,7037710704,zashil294@rediffmail.com,JVCHP,51,3,1,158,1.3898,0.5,0,0
+763e6e39-f02e-4ab7-b2ea-d735309cc8ba,Nitara Rajagopal,36,"825 Sane, Gudivada, 233906",233906,7546622654,madhav65@gmail.com,KIPFB,36,3,1,172,1.8285,0.5,0,0
+d017d275-bfbe-44dc-bfde-1bbcaac4e957,Luke Anne,64,"308 Thaman Ganj, Saharanpur, 774084",774084,9297585988,rachita224@gmail.com,RBADW,12,2,1,172,0.7735,0.4167,0,0
+f5d1b15f-6748-4dc7-9091-fbd1fd9a4ca9,Pooja Suresh,64,"375 Kota Chowk, Dewas, 452535",452535,6425979270,ishita956@yahoo.com,FJTWC,64,4,1,181,0.42,0.3333,0,0
+b560fbe2-fdaf-4ba9-aa1e-a2b9171c1988,Yashica Agarwal,47,"873 Sarkar Chowk, Chandrapur, 674917",674917,8138544577,kai40@yahoo.com,QEJLZ,16,3,1,181,0.3515,0.5417,0,0
+bad60f34-59bc-46d1-a4c9-6ff24707edff,Frado Bahri,64,"496 Tata Circle, Bidhannagar, 845148",845148,6263257039,yatin768@outlook.com,JTFYQ,119,5,1,169,2.424,0.4167,0,0
+d4acbab8-b46e-41a3-99c8-886ba5f69048,Ishanvi Atwal,46,"823 Shere Circle, Gandhinagar, 376563",376563,6115950342,janaki564@gmail.com,BPTIO,33,1,1,172,1.7045,0.125,0,0
+582bde88-a999-4117-a341-8dc913539d08,Kevin Yohannan,51,"999 Varma Circle, Kulti, 900199",900199,6808121352,gagan755@hotmail.com,STMWE,119,1,1,169,1.1002,0.1,0,0
+f3948741-95c7-4d57-a218-83b4a755d9a8,Oviya Arora,63,"858 Dar Circle, Chittoor, 573523",573523,6006876164,yug914@rediffmail.com,DUQNA,26,5,1,158,1.3578,0.4167,0,0
+39e4e194-f0d0-4733-a5cb-d9d5a50c3c77,Praneel Vora,28,"195 Vala Nagar, Karawal Nagar, 532872",532872,7473178108,amaira866@gmail.com,ZYWEM,43,1,1,172,0.7702,0.25,0,0
+ecdb19f9-9706-4fb3-9a3e-b7894b513009,Elijah Kapadia,46,"217 Pradhan Path, Tiruchirappalli, 292272",292272,9562422010,hema157@outlook.com,RZDDU,67,3,1,169,2.1923,0.375,0,0
+452e7cf6-16b4-49dd-8ebc-2ace72e6f28d,Kavya Krishna,26,"339 Balan Nagar, Loni, 163876",163876,7669096705,ronith315@outlook.com,WYKTO,65,2,1,169,1.6272,0.5,0,0
+600bfe4c-2dfd-453b-bedd-800b325bb30a,Tara Dubey,24,"437 Sastry, Darbhanga, 518776",518776,8754602734,teerth670@gmail.com,JCVNQ,71,2,1,172,2.0289,0.5,0,0
+a6bca057-6048-46be-85e9-16cf9403cc28,Osha Guha,25,"269 Khanna Zila, Bhusawal, 544168",544168,7278376938,azad640@rediffmail.com,GBUIY,82,2,1,158,0.4971,0.5,0,0
+2593e3b8-da7c-4e59-8c15-f90e5fd9cacf,Balendra Srinivas,44,"902 Butala, Erode, 574756",574756,9722660256,fitan901@yahoo.com,KAURE,64,2,1,181,1.6045,0.25,0,0
+0fc099cc-d629-4841-90c9-705b31581010,Samesh Balan,65,"629 Prakash Street, Solapur, 520667",520667,6564204565,aarini511@outlook.com,IXOUI,47,5,1,169,1.0017,0.4167,0,0
+dd85dc5d-6419-442d-995f-552163fd0bf3,Ubika Balan,38,"527 Hari, Bangalore, 560318",560318,6341100366,vasana429@mailbox99.co,CCCRY,16,1,11,17,0.0129,0.3333,3,1
+cc422930-e476-4e0f-b0d3-666526faeec5,Maanas Karnik,63,"421 Tank, Mumbai, 329309",329309,7998199605,tanish634@yahoo.com,EQRYA,65,4,1,181,1.623,0.3333,0,0
+0bc2e7d5-fc04-47d7-9d4e-ba122468bde1,Lucky Gaba,40,"757 Thaman, Ranchi, 407891",407891,6612846398,unni990@hotmail.com,WYQZS,17,1,1,169,0.9006,0.2708,0,0
+3560166b-6f61-4810-ba1c-1115eca7d077,Yashawini Kara,59,"234 Chakraborty Path, Aizawl, 643224",643224,6554203403,lakshit70@gmail.com,AJXYO,14,4,1,172,1.9905,0.6083,0,0
+d6d6beb5-50d3-4848-8a59-db5604cfe490,Noah Dutta,50,"800 Prasad Zila, Kakinada, 473758",473758,6268612059,balvan274@yahoo.com,NPWLM,76,3,1,181,0.3877,0.3,0,0
+7038401c-cef4-4807-90f3-44dff4f7fe91,Oeshi Acharya,50,"766 Nanda Nagar, Solapur, 523987",523987,7202341326,aarini115@gmail.com,BWOAK,111,3,1,172,1.983,0.3,0,0
+488bef76-3d83-4c6c-a7ef-6b3f5192e4e2,Keya Venkataraman,61,"199 Nayak Ganj, Lucknow, 576010",576010,6396605583,indali21@yahoo.com,RGBHO,41,3,1,181,1.9875,0.25,0,0
+7b49953b-360a-4590-b7ec-c65a8797e10c,Daksh Kale,41,"737 Ahluwalia Nagar, Patna, 488868",488868,7375243106,panini639@gmail.com,GBPLR,71,3,1,172,2.2189,0.375,0,0
+20d37fac-fff0-408c-9f26-4b9f417c127f,Manya Lala,61,"660 Sengupta Road, Visakhapatnam, 421298",421298,8672872760,omya694@gmail.com,IIFHU,33,3,1,172,2.0364,0.25,0,0
+b5d4b54f-844f-4818-9463-a439c33ca768,Nakul Vasa,26,"381 Manne, Gandhidham, 109251",109251,8053795381,ranbir404@hotmail.com,PNCHP,39,2,1,169,2.2434,0.5,0,0
+1e4f15cf-f3a4-489e-8130-ed5a5efe479e,Rajata Sankaran,39,"644 Palan Marg, Saharanpur, 677699",677699,8167933505,qasim375@outlook.com,TNMLO,87,1,1,169,1.8174,0.1667,0,0
+514d75a6-de9a-4913-a60e-2d3e89294ab1,Dhriti Bora,28,"557 Ganesan Chowk, Nagpur, 377554",377554,8189520284,rachana391@outlook.com,KXEFN,88,1,1,169,2.1295,0.25,0,0
+5ac4906b-741a-4198-b8bb-36975fa9586f,Yashvi Wason,53,"271 Muni Zila, Baranagar, 784530",784530,7856770051,aarnav730@rediffmail.com,QHTPO,41,1,1,158,1.1287,0.1,0,0
+6dd61083-1faf-47d1-899a-e7b564c51d02,Netra Zachariah,34,"991 Chana, Noida, 491253",491253,8628055077,yauvani959@hotmail.com,SKLIC,82,2,1,169,2.414,0.3333,0,0
+3b8d4eb0-054d-415c-a189-1b4073116b76,Karan Chopra,24,"431 Tara Marg, Chandigarh, 486829",486829,7533905504,nilima928@hotmail.com,NWSQL,39,1,1,169,1.2029,0.25,0,0
+ddb6d56e-a860-4507-abd2-8b48449213d9,Falguni Randhawa,22,"867 Golla Chowk, Tumkur, 394825",394825,7183281231,rachita139@yahoo.com,PWQQQ,28,1,1,181,0.4298,0.25,0,0
+c86a02f9-544b-428f-9611-4e7bb28f7837,Amruta Gade,45,"609 Gokhale Zila, Nagercoil, 800944",800944,6715454443,hredhaan163@rediffmail.com,TXUUP,83,3,1,158,1.7532,0.375,0,0
+87ca2912-7f23-4a80-9fbb-7b2277d5730d,Tamanna Natt,57,"641 Wagle, Davanagere, 195498",195498,7992299590,banjeet855@gmail.com,CYUGF,47,2,1,172,1.5587,0.2,0,0
+a63931f7-b4c0-4d18-b718-c6450a5a812b,Hema Kamdar,31,"534 Yogi, Mumbai, 400566",400566,7732146419,devansh455@syntheticid.net,BBBQX,8,2,11,16,0.1114,0.6667,2,1
+ade7f845-47a0-4c41-bcd9-522c69d2582c,Zaitra Thaker,27,"490 Bail Nagar, Gandhidham, 567481",567481,6066615541,manya454@hotmail.com,FSQVW,114,2,1,169,0.3349,0.5,0,0
+8f264ac8-c70b-44ca-9fea-8dae82b2cef6,Jhalak Palan,42,"452 Sastry Street, Gudivada, 310452",310452,6552578284,frado134@gmail.com,KMDLI,85,1,1,172,0.3094,0.125,0,0
+2cdd0d6f-aae4-4c2d-a92d-1172568bf848,Mitesh Babu,33,"65 Sibal Marg, Uluberia, 306704",306704,6305486874,pallavi47@yahoo.com,HWBRH,115,1,1,181,2.0586,0.1667,0,0
+0f95d891-e68c-4680-b8cc-10405780f695,Kashvi Cheema,46,"892 Mander Marg, Kamarhati, 210609",210609,6911359966,gaurika745@gmail.com,JUWON,89,3,1,172,2.3684,0.375,0,0
+e2c94af9-24f3-4125-b791-2ac785200c86,Leela Manne,68,"945 Chana Path, Suryapet, 170799",170799,7662103886,harish856@yahoo.com,PEXPW,99,3,1,181,1.4691,0.25,0,0
+e87f90e0-3967-4a33-a1f1-b0639104921c,Mohammed Arya,22,"973 Ganguly Zila, Ranchi, 402325",402325,7107427990,harrison475@outlook.com,UWKUJ,100,1,1,169,1.3215,0.25,0,0
+17d99ce1-6675-4df5-98b5-2476ef61aa24,Janya Goswami,29,"575 Tailor Path, Salem, 771528",771528,7061537012,janani963@hotmail.com,EHGEL,42,2,1,169,1.9042,0.5,0,0
+340388df-9566-4827-81d3-76c3d2fe7d1f,Ijaya Lanka,55,"779 Chacko Circle, Kulti, 483256",483256,7906032020,ansh865@yahoo.com,EIOMI,78,3,1,181,1.6832,0.3,0,0
+740c04d3-3475-4dd4-9364-eb7464133460,Isaac Din,48,"713 Oak Path, Kadapa, 211390",211390,6794695489,gunbir648@hotmail.com,YPMSM,79,2,1,169,2.0776,0.25,0,0
+56b21179-6949-4564-bff8-d41f12f5dddc,Jagat Sheth,61,"847 Bumb Chowk, Katni, 188685",188685,9122753046,aarini251@outlook.com,TYHSA,93,4,1,169,1.7381,0.3333,0,0
+0ad905b4-e9af-4da0-8c2c-d028b265dedd,Onveer Sani,38,"376 Kumar Nagar, Hospet, 666421",666421,8457056820,warinder875@rediffmail.com,DVJVS,104,3,1,158,0.3397,0.5,0,0
+499c6260-1d3a-4d73-a739-42396911af1d,Ekta Jani,63,"305 Goda Ganj, Mangalore, 456074",456074,6713395962,falguni640@yahoo.com,UVUON,108,2,1,181,1.6131,0.1667,0,0
+be82edf8-22ce-419c-a0b8-2848a186f637,Ekiya Chad,26,"15 Khurana Ganj, Tiruchirappalli, 161430",161430,9848666188,yashoda640@yahoo.com,HINFV,14,1,1,181,1.4801,0.4583,0,0
+35146936-622f-4ca5-b9d6-899cb2af4f19,Raksha Dube,52,"159 Comar Path, Jaipur, 245905",245905,6876831608,rajeshri899@yahoo.com,SYQEL,29,4,1,181,0.7732,0.4,0,0
+78f38ae2-ae99-4169-a46c-6437a0128437,Chatura Ratti,40,"42 Krishnamurthy Chowk, Khandwa, 218157",218157,9479473864,aryan885@outlook.com,EBVMR,83,3,1,169,0.6945,0.375,0,0
+c0df0e40-164b-45df-b6ce-05094aa522ce,Wriddhish Yadav,29,"350 De Marg, Srikakulam, 129699",129699,7355770272,suhani652@outlook.com,XNIUK,99,2,1,169,1.9337,0.5,0,0
+2d253cb8-e8f3-4222-9025-ba1c299410bc,Chaitanya Sur,62,"760 Chaudhary Marg, Fatehpur, 242433",242433,6819600133,chasmum527@rediffmail.com,AFQOF,26,1,1,158,1.5964,0.0833,0,0
+48a327ea-c9a3-459c-a3a6-c2f7698eaaa6,Ekavir Bedi,39,"554 Varkey Marg, Bangalore, 560835",560835,6341127918,sachi498@mailbox99.co,CCCRY,7,3,11,17,0.0556,0.8542,3,1
+d3f21316-5c89-40f2-bc2c-dfd2d8421e85,Chavvi Natt,61,"597 Dhar Ganj, Mehsana, 727751",727751,6023121106,bhavini820@yahoo.com,FSKQF,21,2,1,181,2.0986,0.2292,0,0
+53958a81-0abe-48be-bf1d-fdd51a86d1bc,Chatresh Garde,29,"921 Morar Marg, New Delhi, 110024",110024,9876553012,aadhya942@fraudmail.in,AAAPF,8,1,12,18,0.0423,0.5833,1,1
+35e1fff2-9a01-4885-bbc7-c57577e5e052,Qabil Thaker,62,"732 Kulkarni, Tiruvottiyur, 719598",719598,7625660931,simon286@gmail.com,NRKIC,101,2,1,172,2.3003,0.1667,0,0
+b393be77-51af-462f-9dbe-29efec4c6ca2,Sathvik Zacharia,68,"832 Karpe Chowk, Tinsukia, 509605",509605,9611249125,jairaj432@hotmail.com,DGMGI,19,3,1,169,1.8262,0.3542,0,0
+65b65d4e-f4b0-462a-8fe3-c49961ef4bd9,Netra Banerjee,47,"782 Chauhan Ganj, Suryapet, 847146",847146,7031617990,dominic326@yahoo.com,DSSEY,87,3,1,181,1.4506,0.375,0,0
+d5b6c260-2317-44c2-8ce0-2ab82be7a624,Mohini Mane,56,"663 Radhakrishnan, Hazaribagh, 872474",872474,7975170281,lopa325@gmail.com,KVLCB,76,3,1,172,1.7109,0.3,0,0
+4ae19c2b-c395-4c21-983f-0ef32e503daa,Chavvi Iyer,23,"775 Manne Nagar, Kurnool, 541258",541258,7144170646,saumya170@hotmail.com,YJHWE,43,1,1,169,2.035,0.25,0,0
+1d31d3f5-adf4-47e7-a77d-5da68d4536a4,Yatin Sandal,36,"282 Thakur, Miryalaguda, 272384",272384,9978819148,meghana853@hotmail.com,OTTLF,49,1,1,169,1.2353,0.1667,0,0
+f1409433-1244-484f-a113-7452e6b8116b,Lakshit Singhal,62,"156 Tank Zila, Varanasi, 289312",289312,6994999393,amara246@gmail.com,JRMNP,106,3,1,172,1.8664,0.25,0,0
+ce7f718c-daa5-467d-bd79-f409395a3464,Aadi Pathak,32,"167 Bhatt Circle, Haldia, 664002",664002,7948232204,ikshita100@hotmail.com,HZRTY,104,2,1,169,2.1926,0.3333,0,0
+20223b1a-185e-4b37-9abe-625c10077288,Manya Balay,66,"509 Srinivasan Ganj, Alappuzha, 132934",132934,9527758446,farhan438@yahoo.com,UWRFL,77,1,1,181,1.8471,0.0833,0,0
+3e595852-c807-45ec-9f9f-f80256528211,Bhanumati Solanki,44,"982 Mall Street, Arrah, 249231",249231,8329212779,kamya788@rediffmail.com,LYOQQ,56,3,1,158,2.2013,0.375,0,0
+9b4502c5-2c0e-4244-b35d-ed5cb27bbf81,Zayan Mitra,54,"172 Bawa Nagar, Kharagpur, 219210",219210,6232001867,kalpit454@outlook.com,CXNQR,18,2,1,169,1.5278,0.325,0,0
+7acb1249-87ff-4e1a-90a5-6efdc3393628,Oeshi Talwar,65,"922 Handa Zila, Gangtok, 476479",476479,6371162411,manya178@hotmail.com,CDDFY,117,5,1,169,0.3499,0.4167,0,0
+3ce6b833-4dd4-4564-bb9f-d043506ccd05,Jason Ganesan,47,"617 Pillay Chowk, Panvel, 731749",731749,8641220310,eshana722@yahoo.com,WFQQL,96,3,1,181,1.6773,0.375,0,0
+222554bb-5d14-40e4-a641-a0a6a5fdafb8,Aashi Bir,63,"45 Bhandari Road, Jalna, 448423",448423,9371122299,onkar34@outlook.com,MULSX,34,4,1,169,1.1102,0.3333,0,0
+7659bccf-ef1e-4c7b-b8b7-d42af0971c21,Zaid Oommen,60,"100 Dalal Circle, Kanpur, 753032",753032,8171467741,qabil667@rediffmail.com,KJJEB,73,2,1,158,1.2674,0.1667,0,0
+7c2b0513-6d9a-4c89-b4c6-d4757d9bbb5e,Anthony Kala,61,"83 Chatterjee Chowk, Gangtok, 855491",855491,8076283976,warda652@yahoo.com,BJQHX,94,3,1,181,1.2694,0.25,0,0
+c8ba8ab1-fe48-4dc3-8898-e037117da149,Panini Menon,25,"321 Chowdhury Chowk, Thrissur, 318532",318532,8159597752,bina306@hotmail.com,COXDK,54,1,1,169,1.4711,0.25,0,0
+86bacad8-11e9-4fc0-9d7c-e87dcc7da70c,Jalsa Patla,26,"668 Aurora Ganj, Dhanbad, 525291",525291,6746902983,zayan132@gmail.com,GVTVB,99,1,1,172,1.1516,0.25,0,0
+6bdc80dc-d8ea-4706-bcd7-2b7739516d53,Ranbir Choudhury,49,"840 Oak Circle, Gopalpur, 586851",586851,7781053912,aradhana559@outlook.com,YNGOK,18,2,1,169,1.6686,0.375,0,0
+3e95866a-4c44-405b-8477-8175b6ce48bf,Elijah Bava,26,"666 Dhawan Nagar, Kalyan-Dombivli, 168950",168950,7649718924,vrinda992@gmail.com,PZSRZ,96,2,1,172,1.8262,0.5,0,0
+ba8d1889-af0e-4f26-902c-07b868c2818f,Eiravati Kant,48,"913 Naidu Road, Kulti, 699317",699317,9062397265,xavier149@outlook.com,SQZFD,37,4,1,169,1.8229,0.5,0,0
+b316e02e-32af-478d-9822-9b434eed8725,Chandani Dubey,51,"248 Bhargava, Bhilwara, 430970",430970,8873961029,oeshi893@gmail.com,YLNMS,60,3,1,172,1.154,0.3,0,0
+230ceef3-3176-42e4-aa4c-07803e894ca3,Warhi Kala,51,"122 Badami Road, Bhiwandi, 900333",900333,8476263934,omaja754@yahoo.com,KKDHG,117,4,1,181,1.6589,0.4,0,0
+f7923b6a-21da-4a88-9d77-738b4aa3aa77,Indira Pal,58,"727 Palla Circle, Avadi, 378362",378362,6862369036,gayathri198@rediffmail.com,PCSMQ,76,3,1,158,1.1912,0.3,0,0
+94ccb0ac-fa45-4774-9a98-0e2319da497a,Anamika Toor,29,"131 Sahota Chowk, Darbhanga, 540745",540745,8494856257,victor792@yahoo.com,OXQLE,52,1,1,181,0.42,0.25,0,0
+240ae494-c077-43b8-907c-6ef95c042ac6,Omkaar Sharma,31,"55 Krish Zila, Bangalore, 698428",698428,9317912868,yashvi393@outlook.com,NESNM,53,1,1,169,2.4027,0.1667,0,0
+74064bf5-8b58-4bc2-a118-dc1cf71da3ad,Daniel Dhillon,64,"430 Rege Marg, North Dumdum, 770926",770926,6796405377,krishna983@yahoo.com,WCROZ,107,5,1,181,1.0891,0.4167,0,0
+8bb972ec-32d8-4c9e-a39a-df6ffcc6d93a,Hemani Sachdev,52,"191 Dhillon Ganj, Rampur, 161320",161320,7496854982,zaid160@outlook.com,IIJAP,104,4,1,169,1.7923,0.4,0,0
+a5811bfe-6bb6-45c6-a583-d49a4f81b92f,Sai Barad,25,"511 Lad Marg, Dindigul, 484432",484432,7039752450,farhan543@outlook.com,QHAWI,29,2,1,169,0.8329,0.5,0,0
+b0baeab0-e419-48a7-b61a-f822c4db0297,Anthony Hari,46,"46 Nigam Chowk, Pudukkottai, 288336",288336,9804085095,bhavini954@hotmail.com,VPTIV,61,2,1,169,1.255,0.25,0,0
+7c5941c9-0f93-4ff5-9dab-aeda656fa0c9,Yagnesh Bassi,45,"913 Rajagopalan Marg, Pondicherry, 252728",252728,9090814415,rayaan709@yahoo.com,PECFE,85,1,1,181,1.649,0.125,0,0
+ea163b7d-379d-4a6e-afdf-55dc0984dcf0,Kamala Garg,41,"918 Barman Street, Karimnagar, 186157",186157,9320309376,kala74@rediffmail.com,QMZVZ,101,2,1,158,0.3361,0.25,0,0
+c1eb0f3c-cad5-420f-9f21-1b38cff90dde,Thomas Bhalla,54,"970 Shanker Marg, Ichalkaranji, 650184",650184,8769735779,jagvi892@gmail.com,MGJUF,49,3,1,172,1.8426,0.3,0,0
+19a76816-3087-4c1f-8f73-eba8c44ec9f5,Yadavi Atwal,41,"822 Karpe Circle, Bangalore, 560841",560841,6341167347,william541@mailbox99.co,CCCRY,18,3,11,17,0.1421,0.5,3,1
+7b65a38e-56a5-4edb-a514-988b5d96a68e,Vedika Walla,50,"915 Shanker Nagar, Singrauli, 479491",479491,9955462347,udant871@gmail.com,DVMAB,59,4,1,172,0.4307,0.4,0,0
+5a2bf60e-5cae-4502-81c8-542a3496aaee,Girindra Gade,37,"508 Sridhar Road, Gaya, 568993",568993,6240659657,neelima352@outlook.com,VWZDI,104,3,1,169,2.384,0.5,0,0
+97ffb399-168e-4f99-8674-d90cf3c0201d,Indali Sawhney,38,"45 Som Circle, Mumbai, 400498",400498,7732132112,vedhika880@syntheticid.net,BBBQX,6,1,11,16,0.0313,0.5417,2,1
+d1761fed-9247-4c31-9427-d90670ee75d7,Ayaan Raghavan,46,"568 Master Path, Howrah, 767079",767079,7597820715,vritti741@gmail.com,NEGLL,71,3,1,172,1.45,0.375,0,0
+91ec51c2-eed6-47bf-9a2d-21f4d8f8deee,Unnati Kohli,63,"807 Ramaswamy Street, Tadipatri, 461902",461902,8618444218,chasmum842@yahoo.com,POMMX,59,1,1,181,0.4685,0.0833,0,0
+00285485-15d9-4d07-93fd-81add8cab2e3,Raagini Murthy,28,"856 Bajwa Circle, Ballia, 216911",216911,9993136565,aditya133@rediffmail.com,OIZFB,70,1,1,158,0.6816,0.25,0,0
+56b6183d-9cfc-4cda-b80a-0607efaa2577,Suhani Prabhakar,38,"349 Roy Circle, Raipur, 236856",236856,9149915370,zaitra261@rediffmail.com,EZAFS,30,3,1,158,0.7817,0.5,0,0
+7ba8171c-66c1-48b2-9a29-d953d25b2302,Wazir Dhaliwal,67,"224 Chaudry, Jalna, 161875",161875,9700886008,udarsh749@hotmail.com,NHNSL,31,1,1,169,2.3674,0.0833,0,0
+34b295da-8ad7-489a-b77e-e9ac537dcc16,Harsh Lad,67,"479 Dey Marg, Gudivada, 509768",509768,7423461994,udyati179@yahoo.com,YMWLT,82,3,1,181,2.095,0.25,0,0
+776081fe-4e70-46f8-9556-b63d6482bb12,Gayathri Sathe,59,"238 Nagi Ganj, Salem, 149475",149475,9456522036,saumya541@hotmail.com,OQCHD,47,1,1,169,0.9025,0.1,0,0
+6bf68cc6-b59a-4ec7-8641-956f2d10c8f2,Reyansh Khurana,60,"303 Nagar Circle, Panihati, 616038",616038,8366044324,bakhshi35@gmail.com,QTCMX,89,1,1,172,0.6248,0.0833,0,0
+67626cb1-1fe4-46a5-a65b-7baeaaf56b02,Chanchal Brahmbhatt,41,"987 Dutta Circle, Rohtak, 102530",102530,9776255032,mugdha658@hotmail.com,VBFJG,86,3,1,169,2.2775,0.375,0,0
+a9d25c84-a2d4-4f59-b4cf-1cd5d6701c62,Yochana Walia,35,"449 Patil Ganj, Tiruppur, 445483",445483,7680648606,rajeshri468@yahoo.com,PFSGH,112,2,1,181,1.4923,0.3333,0,0
+a2d1a27f-29bd-49ba-afdc-6afcc12de23c,Lucky Bhattacharyya,22,"567 Pant Nagar, Morena, 620697",620697,7922169958,jeremiah912@outlook.com,KPSGK,79,1,1,169,1.0543,0.25,0,0
+5d8a6157-0867-446b-aa36-27b0be522b1b,Jagrati Dara,47,"970 Chauhan, Nellore, 866143",866143,8368222394,bhavya208@gmail.com,EUWWY,80,3,1,172,2.4875,0.375,0,0
+8ec6112a-26f5-4df5-9eb1-010f9a969842,Sai Anne,27,"483 Sathe Ganj, Latur, 202656",202656,7481569857,champak721@gmail.com,TQELQ,117,2,1,172,0.3068,0.5,0,0
+82f68dbb-ea9a-411b-9715-60ee220c51e1,Kavya Chaudhuri,64,"216 Chopra Circle, Rajahmundry, 116795",116795,7097002687,krishna790@outlook.com,NUQCA,53,3,1,169,2.1306,0.25,0,0
+e7a6e1ea-a455-488b-82f5-f0128e4a546c,Dev Bahl,32,"899 Bumb Ganj, Mumbai, 400048",400048,7732187899,isaac954@syntheticid.net,BBBQX,4,2,11,16,0.0563,0.75,2,1
+34e42388-399c-4522-96f8-4ac867ba60e6,Ishaan Setty,41,"864 Vala Chowk, Raebareli, 237713",237713,8754691373,jack945@outlook.com,TTWVN,51,2,1,169,0.6497,0.25,0,0
+9b9745b7-62b9-4167-8e28-190d3f596f64,Kashvi Lall,60,"766 Sabharwal Marg, Madanapalle, 345640",345640,9613791805,rehaan966@hotmail.com,DWOJR,77,2,1,169,1.978,0.1667,0,0
+7dd28976-fdef-4938-8b1f-09e10f9ce185,Lakshit Mall,54,"977 Prabhakar Circle, Gangtok, 289231",289231,7426698069,dipta726@gmail.com,ZMKDT,51,2,1,172,2.4392,0.2,0,0
+8902ec8b-0607-4728-bb5a-6be9ebb13676,Keya Apte,46,"302 Divan Path, Haridwar, 540789",540789,6183673657,jhalak418@outlook.com,SIIGY,88,3,1,169,1.811,0.375,0,0
+21520d6f-9d85-4721-8af7-0ab9364af976,Ladli Deo,45,"964 Nayar Road, Fatehpur, 828896",828896,6122338655,aachal623@outlook.com,ZGBQE,96,1,1,169,1.478,0.125,0,0
+eb9a9fe6-d5de-4069-b109-10e755698045,Ekta Chander,66,"801 Lal Circle, Shahjahanpur, 332532",332532,9618507610,om574@outlook.com,BEPUD,118,2,1,169,1.4125,0.1667,0,0
+52839f33-df83-40f2-bf73-16e7120f3677,Wakeeta Sheth,52,"167 Bobal Circle, Haldia, 401710",401710,6541152621,veda570@gmail.com,IZXSL,112,2,1,172,1.738,0.2,0,0
+91518509-2391-48c4-b886-4cce68522670,Samuel Zachariah,62,"205 Sarin Path, Gopalpur, 548347",548347,8332683190,varsha654@gmail.com,FVXJK,85,5,1,172,1.5025,0.4167,0,0
+a75a9364-e05e-49ad-9059-7c31213073cb,Mason Ramakrishnan,53,"986 Subramanian Marg, Bangalore, 591682",591682,9881609306,baghyawati729@rediffmail.com,TGTYV,115,1,1,158,2.2367,0.1,0,0
+8a8bc26d-efd7-4c9b-8612-fb621fa309e1,Ranbir Bhardwaj,29,"234 Khare Chowk, New Delhi, 110850",110850,9876522894,frederick442@fraudmail.in,AAAPF,3,1,12,18,0.0647,0.6875,1,1
+b971907f-a2f9-4d09-a51f-a6d1d437a3b1,Yutika Goda,49,"755 Deol Chowk, Nanded, 397998",397998,6767899730,peter550@gmail.com,KIBXK,65,4,1,172,1.3413,0.5,0,0
+037fff5b-9236-4f31-8e65-5370f3864311,Barkha Agarwal,32,"291 Chacko Chowk, Asansol, 195895",195895,7433200379,pranit880@gmail.com,LXOSJ,96,1,1,172,1.1792,0.1667,0,0
+75f87b77-4ebc-4a50-bb88-eed8553879a3,Naveen Gandhi,22,"580 Mangat Marg, Suryapet, 891161",891161,6863855881,gabriel757@rediffmail.com,WOMZE,99,1,1,158,1.8196,0.25,0,0
+468a2bc8-0262-4ca2-bcce-f1fbc9095c1b,Luke Manne,36,"684 Murthy Ganj, Vijayawada, 500869",500869,9101683113,michael843@rediffmail.com,IZWBB,12,1,1,158,1.4612,0.4167,0,0
+f3a1da59-eec6-4788-8d7f-dcc9ee8ccece,Charita Das,23,"532 Aggarwal Path, Jamshedpur, 432468",432468,6957443034,yatin653@rediffmail.com,DRNPY,94,1,1,158,0.549,0.25,0,0
+bcd2cfcb-37d4-4aff-9403-3d03e4581c82,Nitara Narayanan,25,"1 Oak, Bongaigaon, 392053",392053,9491624755,reva321@gmail.com,CAOWI,35,1,1,172,1.9308,0.25,0,0
+78988efb-a894-429d-aac9-dfafee57925c,Imaran Sanghvi,24,"80 Varughese, Bellary, 611158",611158,9054576947,vincent348@outlook.com,KSSZS,115,1,1,169,2.374,0.25,0,0
+3a69fcd6-fe2e-4277-bc91-cb72d448b84c,Baljiwan Sama,48,"841 Khosla Road, Nanded, 701044",701044,9278755886,dominic476@hotmail.com,WZGJW,55,3,1,169,1.2037,0.375,0,0
+20e64bca-bc6c-4f12-abc5-cf992b7ce767,Devansh Saxena,35,"575 Gour Nagar, Sambhal, 556015",556015,7993056164,yashawini563@hotmail.com,ANUNN,108,2,1,169,1.371,0.3333,0,0
+43d04e32-518b-4341-8437-7350fa93b7cb,Patrick Batra,42,"31 Mammen Path, Medininagar, 459171",459171,9724599281,hardik425@gmail.com,IQUNK,70,2,1,172,1.2096,0.25,0,0
+6b7f33e6-1c74-4685-938b-cd531541b31f,Ekantika Banik,31,"181 Kala Street, Bareilly, 123114",123114,9825095229,yashica303@outlook.com,DVPSJ,109,2,1,169,2.4289,0.3333,0,0
+2f3682eb-5203-4bf4-9bd4-0be2507e58ea,Harinakshi Sathe,33,"17 Sinha Ganj, Berhampur, 377672",377672,8307624843,luke204@outlook.com,PMLWM,39,1,1,169,1.7647,0.1667,0,0
+5699b053-9b0d-4bae-b68f-cf44f8f45446,Ekavir Madan,51,"209 Bhatnagar Zila, Gandhidham, 244614",244614,8426078197,chaitanya366@hotmail.com,QLRHM,79,3,1,169,1.1593,0.3,0,0
+14003fb8-6b0c-4282-8395-f6e9ec2cc822,Aditya Reddy,60,"60 Pandya Chowk, Bongaigaon, 813753",813753,9051171603,mohini862@rediffmail.com,NUUFI,98,2,1,158,1.2037,0.1667,0,0
+adc3ba15-7c4d-4a24-ad53-2de881b24735,Vansha Dyal,65,"672 Gulati Chowk, Sirsa, 528744",528744,9609935387,odika938@hotmail.com,NVVWE,29,1,1,169,0.5147,0.0833,0,0
+d7a0b45a-f795-49e6-958f-3cb59a2c78ab,Peter Gaba,59,"687 Chauhan Street, Hindupur, 249501",249501,8955289389,jacob79@gmail.com,VTNSZ,37,2,1,172,0.6779,0.2,0,0
+89d447c8-ac85-4a02-9610-20240ebbb0f1,Leela Kant,41,"585 Sarma Zila, Bhatpara, 296252",296252,9229258796,widisha808@hotmail.com,FGYVJ,90,1,1,169,0.9737,0.125,0,0
+d365b3aa-8937-4b47-9c7d-7f168c2200e9,Joshua Solanki,49,"447 Yohannan Path, Bardhaman, 494981",494981,7406088356,jason81@hotmail.com,QRDXN,56,3,1,169,1.7672,0.375,0,0
+48947f81-4ebf-4eed-9069-3cd82ed6eb34,Guneet Gupta,68,"381 Borra Road, Bongaigaon, 889241",889241,6564814917,upadhriti476@rediffmail.com,JMOJG,45,2,1,158,0.5264,0.1667,0,0
+b466dcb9-0cb1-4dcb-9949-a5058893c3be,Riya Ranganathan,45,"819 Das Circle, Dharmavaram, 389293",389293,6722329716,advika975@outlook.com,HFBAW,113,2,1,169,1.0855,0.25,0,0
+8dcc9029-18a2-479b-b7e0-6949d0314409,Gaurangi Raval,46,"149 Hans Chowk, Agartala, 395860",395860,9658018569,sudiksha950@hotmail.com,IGCRK,72,2,1,169,2.0009,0.25,0,0
+5cef2bbf-356d-426c-bcde-76cd8df45f48,Charles Bhatti,61,"576 Oommen Chowk, Raichur, 806874",806874,7127102676,yashoda498@yahoo.com,TPZJL,64,2,1,181,1.5582,0.1667,0,0
+7b1ac6f3-485b-4835-a92c-5ee2fd65fb6e,Vanya Gala,28,"571 Luthra Street, New Delhi, 110722",110722,9876505422,widisha125@fraudmail.in,AAAPF,6,1,12,18,0.0626,0.625,1,1
+c67b0ae3-d46b-44af-b5f8-4ceafb0060b3,Andrew Srinivasan,36,"613 Chokshi Ganj, Panchkula, 293864",293864,6098180635,bahadurjit428@hotmail.com,CLPGN,22,2,1,169,1.5423,0.375,0,0
+e9e85d48-3627-413b-ba9f-fb2b90402c75,Madhav Kumar,33,"502 Narula Road, Vadodara, 422422",422422,9905072368,balendra527@outlook.com,KMSLE,83,1,1,169,1.5439,0.1667,0,0
+32b2e0ab-97cf-4ef7-8e3e-3df1a299fabf,Chandran Shroff,55,"103 Ratta Zila, Mangalore, 194053",194053,9117768729,triveni838@gmail.com,IMXDR,33,2,1,172,1.1043,0.2,0,0
+0bbbe735-b7f9-465a-b577-5e500bbf1ec2,Bina Bhavsar,51,"298 Manda Marg, Siwan, 302141",302141,9552314913,falan335@outlook.com,LQHPO,94,1,1,169,1.1019,0.1,0,0
+b46db21a-cf67-483c-9f5f-9f3cc3f3c37d,Ekbal Mangal,37,"753 Sura Marg, Shimoga, 780818",780818,8713915596,anya835@yahoo.com,YFCFH,26,3,1,181,1.1984,0.5,0,0
+ae4c6831-641c-4c6b-8159-b995edf16587,Fitan Solanki,50,"349 Char Circle, Eluru, 195391",195391,8983074820,finn958@outlook.com,VFKIC,38,1,1,169,1.5823,0.1,0,0
+d3e1ab26-227e-46af-901c-b119c3d9e992,Aradhana Sabharwal,23,"211 Shankar Path, Thane, 450768",450768,8078967935,hiral157@gmail.com,PSJUF,81,1,1,172,0.9913,0.25,0,0
+ebb5d602-b6b9-4194-942c-1f87913603df,Raksha Karpe,56,"306 Sankaran Ganj, Sambalpur, 823227",823227,8854859655,dayamai816@rediffmail.com,HNHPD,68,3,1,158,0.4826,0.3,0,0
+e49bea37-b887-43bd-9fa1-d373e9be7e73,Zayan Seshadri,35,"902 Varty Circle, Orai, 215720",215720,6379844097,netra74@yahoo.com,FKJAL,27,1,1,181,1.3245,0.1667,0,0
+dd283179-471c-4cc5-bf2a-94dc078319a3,Lohit Bhagat,23,"713 Nadig Circle, Ludhiana, 736988",736988,9865339431,upma627@gmail.com,QJIAN,70,1,1,172,1.8952,0.25,0,0
+2a3d5526-8146-4b85-96a8-d32d75a21f46,Niharika Majumdar,56,"450 Mukhopadhyay Circle, Pali, 689979",689979,9673459576,kavya317@gmail.com,ZWTXN,35,1,1,172,1.2262,0.1,0,0
+ac659fee-90b4-4ef0-a467-e20844b8d451,Gaurav Shah,40,"64 Chacko Street, Bangalore, 560053",560053,6341128538,varenya415@mailbox99.co,CCCRY,17,1,11,17,0.0364,0.2708,3,1
+aef829fe-9942-4dc5-981f-b7f35a16109c,Akshay Kakar,59,"111 Tiwari, New Delhi, 734370",734370,8931746120,megha978@gmail.com,HMCXD,60,3,1,172,1.298,0.3,0,0
+fc343c9f-4c0d-48b5-aab0-d3f4f94da52b,Zayyan Dar,29,"998 Kade Chowk, Gandhinagar, 827599",827599,7020203042,mason234@yahoo.com,DLJYS,20,2,1,181,0.5271,0.5833,0,0
+8f9e9bae-be1b-4835-b8fb-32d5a5adadde,Fiyaz Mody,39,"591 Kota Chowk, Pune, 232271",232271,9666760083,nakul758@hotmail.com,YXTNA,38,1,1,169,0.3091,0.1667,0,0
+01848fd7-827d-4ebe-a239-ca03c5a6be80,Sanya Krishnan,49,"218 Aggarwal Marg, Nangloi Jat, 752239",752239,9913787655,lajita213@gmail.com,AEOAR,25,4,1,172,1.1196,0.5,0,0
+126e1b1c-f32f-48f3-b9ae-f897fd3774f3,Warjas Datta,64,"691 Thaman Nagar, Visakhapatnam, 113846",113846,6062003424,saumya709@hotmail.com,DBUFO,102,4,1,169,1.0891,0.3333,0,0
+4b974e6b-5d4a-48b0-b1e2-107506554045,Nitara Lata,51,"841 Dhar Chowk, Indore, 775330",775330,7654145868,gabriel349@gmail.com,CZEZG,56,3,1,172,0.5385,0.3,0,0
+e1d3c52f-9936-4dc1-9009-6c6e12d520d8,Isaiah Ranganathan,53,"768 Nadkarni Circle, Warangal, 478810",478810,6922216107,ekani662@gmail.com,IWHWR,34,4,1,172,1.9224,0.4,0,0
+f61848f1-72d8-446e-a577-a3ff3707119d,Anya Peri,22,"134 Ramachandran Circle, Belgaum, 212842",212842,6205395024,darpan63@yahoo.com,TNTMU,47,1,1,181,1.4291,0.25,0,0
+2d5bb835-bc0f-47f8-ac52-9f5501136721,Mitesh Butala,29,"884 Mohanty Circle, Mumbai, 400972",400972,7732169999,samesh294@syntheticid.net,BBBQX,2,2,11,16,0.0906,0.9583,2,1
+dcdefd29-2e7f-43a5-af7d-91cfd57fcd4a,Watika Rau,29,"603 Koshy Road, Katihar, 358771",358771,6049388194,jagrati597@gmail.com,IRSIE,18,2,1,172,0.8621,0.625,0,0
+819d3024-9ece-43c4-8366-0f5d9f5e020c,Daksha Krishna,44,"536 Varughese, Jammu, 699720",699720,9289365435,qabil726@rediffmail.com,OTGNF,110,3,1,158,0.7802,0.375,0,0
+5b5d76b8-02ad-4495-9782-2b7e37da1500,Samarth Ahuja,33,"673 Parmar Street, Tirunelveli, 836144",836144,9340433700,ekaja904@rediffmail.com,VLYMG,13,1,1,158,2.1666,0.3958,0,0
+6502e444-8b01-485f-9bad-f203d60e9571,Oscar Basu,49,"827 Sandal Circle, Morena, 838186",838186,8876998426,ojas488@yahoo.com,DAUYC,112,1,1,181,0.8499,0.125,0,0
+f161cafa-4660-4193-b225-3902aacf4cc4,Jatin Varkey,54,"866 Chhabra Nagar, Gurgaon, 159429",159429,7572520456,inaya661@hotmail.com,BHQBF,105,1,1,169,1.6817,0.1,0,0
+2d62e137-e057-41e5-bb37-cec89cd3e3ec,Vanya Gaba,51,"384 Kuruvilla Nagar, Varanasi, 244436",244436,9187496033,devansh355@rediffmail.com,XRYLY,82,4,1,158,0.3524,0.4,0,0
+0f8de9e8-b4fd-43e5-acdc-30aae58605d6,Charan Mody,56,"204 Sarma Road, Karnal, 829878",829878,6038457620,mohini365@hotmail.com,JHZZH,23,2,1,169,0.4364,0.2208,0,0
+5d3580e6-d800-4ed4-b340-16c7d11f3026,Qushi Wagle,60,"816 Chaudhuri Street, Solapur, 645905",645905,9518506716,pratyush993@hotmail.com,QVSLT,115,1,1,169,2.424,0.0833,0,0
+178d52a2-7da6-4abd-ab0e-4e64e250e482,Luke Ghose,25,"370 Soni Zila, Patiala, 190669",190669,6627153123,balendra270@hotmail.com,JVNEO,78,1,1,169,1.3678,0.25,0,0
+f77b114b-1868-4a1a-95f1-33ba3a5482d9,Ojasvi Mitter,63,"8 Karnik Nagar, Hubli–Dharwad, 390538",390538,8446306000,devansh167@hotmail.com,VNTIE,102,4,1,169,1.5588,0.3333,0,0
+f1423524-6bb2-4769-9e5a-b9694d7d9ab7,Atharv Ramakrishnan,26,"748 Keer Chowk, New Delhi, 110233",110233,9876528293,jackson19@fraudmail.in,AAAPF,10,2,12,18,0.0291,0.7917,1,1
+78fbb2b5-0506-40cc-a6c6-d9024585b889,Dominic Amble,37,"904 Mani Street, Navi Mumbai, 814841",814841,7768151185,wazir429@outlook.com,EFBAQ,32,2,1,169,1.7864,0.3333,0,0
+f2e7dad9-0115-4432-bd2c-31518819f847,Yashvi Vasa,45,"504 Balan, Avadi, 297722",297722,7060463331,wazir191@outlook.com,WMILG,35,2,1,169,1.1907,0.25,0,0
+1d661f4c-c125-44dd-817e-e8f88cf0e12d,Riya Bava,27,"473 Badami Nagar, Vellore, 833127",833127,8846773782,adweta402@yahoo.com,XNWWH,40,1,1,181,2.038,0.25,0,0
+7dd6f2dc-ec6b-4675-9869-4a143b2ca90e,Umang Dutt,30,"831 Khalsa Road, New Delhi, 110496",110496,9876533083,nikita217@fraudmail.in,AAAPF,8,3,12,18,0.1467,0.8333,1,1
+edba4a0b-a352-44dd-bc57-6b69de8cdcb9,Lohit Khanna,52,"438 Sankaran Marg, Nadiad, 650149",650149,7824674746,nihal585@rediffmail.com,MISFX,14,4,1,158,0.3092,0.6083,0,0
+98f6fd79-7573-47ff-b65a-ea5f51037381,Noah Koshy,53,"332 Bir Ganj, Ratlam, 278331",278331,9610941017,vritti791@hotmail.com,PVYIS,98,4,1,169,1.1308,0.4,0,0
+0ffc9403-e597-44cd-a359-28b19f3f6f77,Ekalinga Setty,32,"824 Wason Ganj, Mumbai, 400205",400205,7732196851,lucky636@syntheticid.net,BBBQX,5,1,11,16,0.1173,0.5625,2,1
+b953e4ae-81b9-4cc5-95e3-626fa4bc96a7,Sanaya Choudhary,50,"575 Shroff, Karimnagar, 245516",245516,7593648820,manya524@rediffmail.com,YUGKS,13,2,1,158,0.8015,0.4292,0,0
+391acf46-78c4-469b-9b01-c961f433b74c,Lajita Arya,31,"865 Deo Nagar, Arrah, 256337",256337,6885666954,veer93@yahoo.com,EMYBI,83,1,1,181,2.2565,0.1667,0,0
+e9175cb8-09eb-4dde-80a9-15e161d6cb2b,Oscar Singhal,64,"601 Raj Nagar, Ghaziabad, 854380",854380,6184895543,michael630@yahoo.com,LKAEN,62,4,1,181,1.529,0.3333,0,0
+3ece949f-f939-437e-8220-a60f9119523e,Ishwar Sinha,60,"841 Bail Path, Bally, 338361",338361,7760523045,darika579@rediffmail.com,CIVAE,93,2,1,158,2.2941,0.1667,0,0
+aa076f4e-f620-4ef5-87d0-9c9cc6c97776,Chandran Pandya,36,"232 Dhaliwal Ganj, Bokaro, 646100",646100,6785221158,vedika467@gmail.com,XOIFV,96,2,1,172,1.7475,0.3333,0,0
+84147e1c-ed53-4d77-b1c3-0896a58d2587,Abha Narain,37,"726 Subramanian Road, Singrauli, 857788",857788,6161620281,ira180@yahoo.com,LZBLE,53,2,1,181,2.0669,0.3333,0,0
+3c8bc8bb-9ce6-4b41-bbcf-f8a0addbabaa,Upma Virk,33,"275 Singhal Zila, Mumbai, 400277",400277,7732175225,tanvi590@syntheticid.net,BBBQX,5,1,11,16,0.0315,0.5625,2,1
+82744fb1-9f1d-4485-9a50-6e92f63adb91,Chameli Ghose,28,"613 Thakkar Circle, New Delhi, 110517",110517,9876512227,ekta978@fraudmail.in,AAAPF,8,1,12,18,0.0643,0.5833,1,1
+9f9239d5-a262-4497-9c65-2026215a833c,Jyoti Nagarajan,25,"98 Wali Nagar, Bhagalpur, 112208",112208,6564099512,ranbir203@rediffmail.com,MNZCR,99,2,1,158,0.6403,0.5,0,0
+3bc04f88-428b-40a8-abc4-c177ef9306ce,Anjali Sule,33,"459 Singh Circle, Mumbai, 400749",400749,7732126632,nilima980@syntheticid.net,BBBQX,3,3,11,16,0.1329,0.9375,2,1
+18d1b33a-aae7-462e-8495-aff787cdf0e0,Lucky Mutti,54,"927 Ranganathan Zila, Gurgaon, 403437",403437,8701204556,nikita766@gmail.com,CTBWR,21,1,1,172,0.6751,0.1625,0,0
+0859f5b9-ea24-468e-a129-84beec0db9e6,Amol Bhatt,62,"614 Chaudhary Nagar, Nagercoil, 891847",891847,6690618120,darsh388@hotmail.com,KMUXH,32,2,1,169,1.4776,0.1667,0,0
+4c265415-a7cf-45e0-80d6-110d20a0e557,Charles Bhargava,65,"934 Minhas Marg, Bhind, 108229",108229,7494466574,reyansh233@outlook.com,HNQPA,13,4,1,169,2.4987,0.5625,0,0
+ac81e83c-2614-4cef-ab1a-e0a0a3995fd3,Kamya Karnik,59,"407 Chana Circle, Ahmednagar, 107328",107328,8485862394,chandani352@yahoo.com,IGDHA,59,2,1,181,1.6274,0.2,0,0
+cd4b3070-744a-4ec2-b576-a565b77af1a6,Hemal Thaman,32,"860 Ravel Path, Phusro, 516534",516534,6605603567,urvi630@yahoo.com,TDPUX,43,2,1,181,1.7213,0.3333,0,0
+c6e142a3-180c-4d9d-a93a-18d8fa9fe78c,Ladli Kapadia,32,"449 Garde Zila, Burhanpur, 760203",760203,9638821458,ira270@gmail.com,HRUTA,73,1,1,172,1.5477,0.1667,0,0
+01e728e8-f3c7-4714-a28e-c112ac9053d1,Ekanta Kaul,51,"354 Pandey Street, Kamarhati, 402071",402071,9112545738,vamakshi504@hotmail.com,MLSIH,110,2,1,169,2.0824,0.2,0,0
+4acbdbbf-8499-4251-944b-8454d77549ea,Yatin Agrawal,38,"967 Bhattacharyya Nagar, Medininagar, 255843",255843,8621689363,amrita596@yahoo.com,LIPLD,61,1,1,181,1.7354,0.1667,0,0
+d83cff11-4377-48af-af64-5086459e6973,Yutika Samra,25,"91 Jayaraman, Durgapur, 583957",583957,7558825562,ishita604@outlook.com,JZTDR,48,2,1,169,2.2567,0.5,0,0
+297b35cf-a1b1-4389-a9fa-5d0da23f9bb7,Tanmayi Prabhakar,24,"17 Goyal Chowk, Ambala, 870392",870392,9142939685,charvi403@yahoo.com,URCTI,34,2,1,181,0.5149,0.5,0,0
+f2a7da4f-022e-409b-8191-0cb10da43a40,Tanveer Sathe,36,"142 Prabhakar Nagar, Madanapalle, 850126",850126,6650191792,arya40@yahoo.com,JCCOV,19,3,1,181,0.6294,0.6042,0,0
+526676fb-58be-47cd-990d-05d70e2f523d,Qushi Chahal,30,"362 Ravel Street, Khammam, 592576",592576,9952366878,jalsa556@outlook.com,NVKPK,35,2,1,169,1.5713,0.3333,0,0
+71790e60-2540-43c9-b636-1ca4267ea4c9,Gabriel Dugal,53,"642 Ramesh Chowk, Khammam, 231607",231607,7111271285,charvi181@hotmail.com,YSSHH,44,1,1,169,2.1821,0.1,0,0
+a37f1e94-ea2c-4852-9435-6e997bffb8a3,Yashodhara Doctor,50,"413 Sabharwal Circle, Bidar, 565845",565845,9590175186,deepa233@outlook.com,VMIHO,21,1,1,169,0.5873,0.1625,0,0
+2bc0e79b-489b-41d8-ba3a-514c4ed91b74,Samaksh Khanna,31,"72 Rastogi Street, Bhind, 864201",864201,7667525459,bhavna620@gmail.com,WETBC,84,2,1,172,1.2748,0.3333,0,0
+7ff84e6c-0e36-465d-ad03-6204f6773984,Kamya Sagar,60,"984 Sunder Road, Ranchi, 458798",458798,8241406029,tristan808@yahoo.com,WQRGK,69,2,1,181,0.3441,0.1667,0,0
+69237966-66e5-4f7b-a080-d314780c6989,Damini Dhawan,50,"363 Rastogi Nagar, Jhansi, 826605",826605,7134026650,hemang174@yahoo.com,YYZDM,32,2,1,181,1.3902,0.2,0,0
+b4699e93-7264-4ad4-b075-cd8609ebdefd,Ria Balakrishnan,51,"886 Boase, Farrukhabad, 501589",501589,7595708619,indrajit634@yahoo.com,YGJHG,54,4,1,181,1.02,0.4,0,0
+79617b72-45a4-49a9-b6cb-a1840bed143e,Zehaan Sampath,62,"783 Dugar Circle, Thanjavur, 764944",764944,8631224179,priya473@hotmail.com,SMIDZ,42,5,1,169,0.3487,0.4167,0,0
+ccb85bc3-884a-4b60-a901-d43ba965f91c,Michael Minhas,38,"869 Mody Nagar, Tiruchirappalli, 578203",578203,6878211602,qasim686@gmail.com,QRGWX,33,2,1,172,1.5006,0.3333,0,0
+1a69579e-ff4e-448c-aad7-c84f56caad0e,Samar Contractor,26,"588 Gara Marg, New Delhi, 110133",110133,9876503033,omisha269@fraudmail.in,AAAPF,8,2,12,18,0.0672,0.8333,1,1
+ca5c4b53-8e9a-4103-a871-b4a410a3bdb8,Gunbir Om,54,"686 Mammen Nagar, Asansol, 235738",235738,9376311656,umang430@outlook.com,WBQQB,42,3,1,169,1.9021,0.3,0,0
+02b4f644-43c1-4f6e-b373-1490889e935f,Lajita Saini,27,"701 Banik Circle, Hosur, 709998",709998,9211708894,lila960@rediffmail.com,AVBOK,42,2,1,158,0.8721,0.5,0,0
+22c811d5-b92f-46ee-8128-a58a976217ea,Aryan Wagle,51,"193 Sarkar Ganj, Giridih, 874859",874859,9703482477,matthew134@gmail.com,ZPGEO,64,1,1,172,1.515,0.1,0,0
+6b608421-fe60-480b-953d-dc2dd0335dab,Damini Chander,28,"247 Doctor Street, Bhilai, 373072",373072,6787541815,vasana451@yahoo.com,DNNBH,107,1,1,181,0.5152,0.25,0,0
+5d28a7e7-acdb-4887-b73b-003ce8ad1944,Adya Cheema,39,"631 Nori Road, Gandhinagar, 114444",114444,6929275243,bhavika506@yahoo.com,UWICD,44,1,1,181,2.3547,0.1667,0,0
+fa2c07a7-aaf8-4080-bc0d-107a64e07878,Harrison Ranganathan,38,"317 Iyengar Chowk, Adoni, 342518",342518,9606441343,quincy890@yahoo.com,XQWTK,82,2,1,181,0.3745,0.3333,0,0
+eb2b3b0b-2d18-49ba-831c-860c6c75dfc8,Bhanumati Kuruvilla,41,"301 Iyengar, Shimla, 407010",407010,7462456185,chasmum86@outlook.com,IHAZI,80,2,1,169,1.866,0.25,0,0
+9a49353d-60b8-43dd-9c40-b3724962213d,Leela Venkatesh,44,"918 Prabhakar Chowk, Hubli–Dharwad, 430522",430522,6139488488,hritik192@outlook.com,QBCSX,55,2,1,169,1.759,0.25,0,0
+7064725a-5a70-436e-8742-72483493ae21,Sara Rama,65,"369 Sekhon Circle, Madurai, 359619",359619,7557782058,leela950@yahoo.com,POVEU,81,4,1,181,0.6069,0.3333,0,0
+9c515075-8f2f-44fe-9d2b-40dd34d8611b,Quincy Date,60,"248 Sant Nagar, Dibrugarh, 447881",447881,6445822067,chakradhar880@yahoo.com,DUSCD,81,1,1,181,1.2732,0.0833,0,0
+1b649941-40b7-4f2b-a4c9-0b0ccdda50d6,Azad Buch,53,"221 Kalita Ganj, Bhilai, 704627",704627,7463203747,adya418@outlook.com,SJFDY,37,1,1,169,0.8398,0.1,0,0
+ea06a006-0353-4e15-8563-d581e3b5fbf1,Yug Dugar,43,"807 Manda Road, Hapur, 316061",316061,9829310270,caleb492@rediffmail.com,BSDEB,19,2,1,158,0.9761,0.3542,0,0
+c5fb135e-37bc-40c9-81ae-8b2ddafcd23d,Triveni Yadav,34,"729 Kumer Marg, Medininagar, 585250",585250,7305597824,urvashi989@hotmail.com,MIWFV,113,2,1,169,0.714,0.3333,0,0
+0ce666d6-0a1b-4000-890f-eedb8f7e53a5,Anirudh Bail,41,"824 Contractor Zila, Dewas, 834391",834391,6954198763,hredhaan365@gmail.com,QHULO,85,2,1,172,0.7402,0.25,0,0
+3fbffc51-c36f-48f2-848c-73f0e441e066,Vaishnavi Thaker,34,"966 Shukla Marg, Akola, 417240",417240,7269312163,teerth475@outlook.com,CNSVP,84,2,1,169,1.1313,0.3333,0,0
+33174345-f566-48d3-9f9f-4db91c9f81e6,Christopher Gour,41,"414 Mannan Ganj, Dibrugarh, 129289",129289,7330307053,warhi290@hotmail.com,VNQDA,102,3,1,169,1.1194,0.375,0,0
+b76bfc24-79de-4f25-ace5-588a8a146656,Leela Issac,64,"924 Nagarajan Chowk, Ahmedabad, 449996",449996,6826958264,ridhi105@rediffmail.com,JJKBV,27,2,1,158,0.3329,0.1667,0,0
+04963937-7307-4995-b861-51d028dcc226,Ishwar Basak,38,"89 Manne Road, Nagpur, 675894",675894,8432987698,vasana596@yahoo.com,WKDGY,101,3,1,181,1.9852,0.5,0,0
+55ee70e5-373c-4005-8dc1-beb10b6cf257,Chavvi Ray,54,"588 Toor Marg, Nangloi Jat, 869793",869793,6647725129,jalsa357@outlook.com,NSVLA,120,1,1,169,1.5644,0.1,0,0
+fb7bf485-bcd0-4c86-9350-183db58996cb,Bhavini Modi,29,"784 Patel Street, Dehradun, 229871",229871,6602128866,hema372@yahoo.com,KOSDX,65,2,1,181,2.2764,0.5,0,0
+e8304ee8-a6cd-465b-9aaf-bf48ecc54b71,Anika Ben,26,"570 Wadhwa Street, Hindupur, 382685",382685,9099861622,kritika590@rediffmail.com,PZCCU,23,2,1,158,2.0286,0.5208,0,0
+e5e3d0b2-58fa-4de3-9309-91f2cef1175a,Isha Kaur,67,"585 Sani, Kulti, 250899",250899,6722332061,ishita709@outlook.com,FVDPI,16,5,1,169,1.8996,0.5833,0,0
+3e4424e3-52ea-4cb2-9e1b-f972d4d76ecf,Nathan Shere,31,"303 Dixit Marg, Tezpur, 576505",576505,9619458870,zashil966@outlook.com,BIINA,93,1,1,169,0.5229,0.1667,0,0
+80fbf750-939a-4211-89c5-bf5a33583358,Vedhika Jaggi,58,"183 Deshpande Ganj, Narasaraopet, 486560",486560,7953506373,pavani78@gmail.com,NHRMC,31,2,1,172,0.8199,0.2,0,0
+69192a68-bd32-48b8-979b-3c9ede5c85cc,Hemang Ravi,38,"235 Pandya Road, Adoni, 344037",344037,9060148860,ikshita523@hotmail.com,TRMPN,12,3,1,169,1.5152,0.75,0,0
+02cdef40-fd5a-41d4-93f3-528b9b25652b,Ubika Dara,51,"815 Bassi Circle, Vadodara, 203699",203699,8078593110,bhanumati619@gmail.com,PVXDN,61,4,1,172,1.0819,0.4,0,0
+f3ca4ca5-a630-454a-8463-437a9301456a,Tara Savant,58,"774 Chad Street, Rampur, 786626",786626,6787010415,aashi618@gmail.com,VORWD,49,1,1,172,1.5862,0.1,0,0
+ace1c22f-60f7-4938-b211-ba2014d84faa,Dakshesh Sarraf,30,"450 Atwal Ganj, Visakhapatnam, 585603",585603,8482145653,chaitaly165@rediffmail.com,KFUKK,27,1,1,158,1.3093,0.1667,0,0
+4821c420-3ee1-4f86-a09a-41d6b388ebb8,Nimrat Varghese,60,"677 Mammen Path, Munger, 837365",837365,6777392603,vivaan54@yahoo.com,OEQBO,103,1,1,181,0.423,0.0833,0,0
+0acedc1f-739b-4eb6-8e4f-ff761952fc99,Omkaar Srivastava,35,"144 Singh Circle, Nadiad, 459196",459196,9523413899,ekalinga748@rediffmail.com,HYAWW,23,1,1,158,0.752,0.1875,0,0
+c6869939-b065-465f-ab6f-5e394dac8a85,Hamsini Divan,24,"265 Khare Zila, Arrah, 870672",870672,9991609114,aarush85@yahoo.com,ZCXZG,67,1,1,181,1.7546,0.25,0,0
+abd9972f-4103-4859-b91f-1df8d36a7760,Guneet Pandey,66,"579 Ravel Nagar, Sikar, 557710",557710,8633535748,keya358@rediffmail.com,USXZU,28,3,1,158,1.559,0.25,0,0
+36bb413a-b073-4bdd-a380-5c8f9a9ab6fd,Utkarsh Dugal,60,"55 Jaggi Ganj, Sri Ganganagar, 294153",294153,9884443106,girik595@rediffmail.com,VDJLH,67,2,1,158,1.7564,0.1667,0,0
+9ad4b003-5ec1-4061-87a2-e1e47dda3d11,Krisha Sarma,26,"396 Sachar Circle, New Delhi, 110583",110583,9876587272,umang357@fraudmail.in,AAAPF,7,1,12,18,0.0808,0.6042,1,1
+b7388588-4cab-44fc-b846-6cef929b1df3,Daksha Acharya,37,"235 Bhasin Zila, Secunderabad, 464339",464339,7111790807,reyansh390@rediffmail.com,IXWOH,45,1,1,158,0.7023,0.1667,0,0
+250e7203-7d7b-400d-a00d-943c54816230,Nandini Sehgal,36,"625 Choudhry Chowk, Srinagar, 676337",676337,9058162951,yashoda551@outlook.com,MXYSB,102,3,1,169,1.1571,0.5,0,0
+67058a35-bcc1-4157-91db-7f8df0faf2a3,Anirudh Shankar,59,"801 Bassi Street, Kadapa, 185430",185430,9186375998,aarna976@gmail.com,XJDWJ,79,2,1,172,1.1202,0.2,0,0
+32c83e9d-0409-440b-b88a-6d947e9c3be8,Dhruv Bansal,29,"323 Chander Marg, Gurgaon, 136677",136677,6284276246,januja509@gmail.com,OMOOM,61,2,1,172,1.537,0.5,0,0
+8f188359-114c-40a4-a8aa-458f756f8a87,Yashvi Lad,55,"622 Dewan Chowk, Miryalaguda, 330728",330728,7152850676,gavin184@hotmail.com,ZIRVW,99,1,1,169,2.1872,0.1,0,0
+fd8e20c9-a0f7-46bb-b65d-384659e8fe4d,Rushil Seshadri,26,"92 Sant Circle, Bhubaneswar, 476115",476115,8262218909,azaan675@yahoo.com,LSQDK,41,2,1,181,1.8104,0.5,0,0
+051ecb06-14fe-49b4-9328-a8842528fd5f,Dipta Patel,40,"514 Bobal Chowk, Chinsurah, 472816",472816,6392827229,irya981@rediffmail.com,RZTMJ,29,2,1,158,0.7814,0.25,0,0
+9a0d9ea7-580f-49c0-ac99-66cd8df58020,Sanaya Ghose,53,"911 Ramesh, Khammam, 393169",393169,9225699611,indali175@hotmail.com,FIHGQ,111,4,1,169,0.8967,0.4,0,0
+f0d39c8b-7046-4fd1-b5f5-eb7a8990b39d,Hemal Barad,49,"198 Karnik Path, Kumbakonam, 691960",691960,9262658263,sai111@yahoo.com,NQUVQ,42,4,1,181,0.8725,0.5,0,0
+f5a2741e-edb5-44e8-89c4-e9372ee7b36a,Anjali Savant,61,"163 Chhabra Circle, Aurangabad, 448761",448761,7966958321,aayush767@rediffmail.com,VCPIC,43,5,1,158,1.2795,0.4167,0,0
+8786e259-15c0-4d4b-99f5-97e4115a26f7,Eshana Babu,23,"782 Brar Road, Thrissur, 888023",888023,6429001851,manan217@yahoo.com,MOLEI,26,1,1,181,0.6399,0.25,0,0
+7a88c7f4-9d34-4c4a-a8cc-d074c9c56b06,Anjali Subramaniam,22,"865 Batra, Hazaribagh, 422711",422711,7610537092,nirja214@gmail.com,ABLIA,90,1,1,172,2.4054,0.25,0,0
+c07ca95e-53cf-4f65-8976-b3245fa9775e,Yochana Bhatti,65,"229 Krishnan Circle, Gurgaon, 170806",170806,9445187053,eiravati308@rediffmail.com,UTGJZ,18,2,1,158,2.4951,0.2917,0,0
+e6075d93-da93-4d13-9d37-6a4f44087d58,Devansh Wagle,37,"357 Dhar Zila, Gandhidham, 630435",630435,9449639243,varenya713@hotmail.com,SOFMN,84,1,1,169,0.5579,0.1667,0,0
+034b998f-36cc-43be-a249-7039160914d2,Ojasvi Banik,22,"504 Desai Nagar, Anand, 626318",626318,7617024376,raagini393@hotmail.com,JXNHZ,24,1,1,169,1.7438,0.25,0,0
+f3159679-0cc7-44c3-ac22-f20e7bbe5d96,Charan Karnik,36,"630 Ravel Nagar, Pallavaram, 783101",783101,8709085991,ganga832@hotmail.com,HEAZZ,94,2,1,169,1.5824,0.3333,0,0
+97037d62-ea98-45f8-9d61-f8115f70c3df,Siya Johal,61,"633 Grewal Marg, Thoothukudi, 897509",897509,7210401648,yashodhara137@rediffmail.com,XTGTZ,83,4,1,158,1.7163,0.3333,0,0
+12636f14-e99e-4794-95c6-eb1047871d12,Bhavani Dara,32,"821 Vyas Zila, Malegaon, 598316",598316,6805685667,zinal986@gmail.com,JSYCN,31,1,1,172,1.1662,0.1667,0,0
+e8630493-8cb5-4e73-a43a-6c55982b7bec,Oni Swaminathan,42,"178 Sem Street, Pimpri-Chinchwad, 709791",709791,8096105566,mitesh962@gmail.com,WFQPA,113,2,1,172,2.0103,0.25,0,0
+d0f7f7c7-7501-436c-b844-c2bce3c5b41a,Hema Dass,44,"156 Bava Circle, Machilipatnam, 424089",424089,7263890219,harsh768@rediffmail.com,ZHMCV,119,1,1,158,0.7861,0.125,0,0
+79f6a6b0-4f52-49de-84fc-b4d6ee37ed76,Faqid Parekh,30,"91 Prakash Marg, Ajmer, 321424",321424,9258542188,ishwar661@gmail.com,NMZYQ,67,1,1,172,1.9278,0.1667,0,0
+a774a423-5db3-4da7-8434-36e33a1a87a3,Edhitha Kale,33,"991 Ramachandran Road, Srinagar, 336320",336320,7016234190,nikita677@yahoo.com,SVACF,116,1,1,181,0.6176,0.1667,0,0
+8b192b52-c212-43c1-bd32-685a1bf1ba0f,Ijaya Setty,62,"370 Badami Street, Khora , 677365",677365,9466986163,sathvik937@hotmail.com,DEHAS,54,2,1,169,0.3174,0.1667,0,0
+1afb90bd-43ad-4522-8f98-30c8eae384c8,Arya Anand,35,"84 Gupta Nagar, Phusro, 657618",657618,6819048235,luke510@gmail.com,IVJYN,117,2,1,172,2.1026,0.3333,0,0
+92fd0681-87c7-4d6e-af74-248be643286f,Krish Varghese,67,"18 Bhakta Road, Ghaziabad, 457962",457962,8766947031,ojasvi584@gmail.com,IZUUP,37,1,1,172,0.6445,0.0833,0,0
+c85599f4-c3b7-48a4-9ff0-3977b4defc62,Ekbal Ahluwalia,58,"438 Deep Path, Rajahmundry, 669557",669557,7019043223,anusha765@gmail.com,TFFDL,47,1,1,172,1.7557,0.1,0,0
+9f1aba60-810a-43dd-9467-3b0a168d7e8c,Januja Purohit,65,"616 Ganesh Chowk, Aizawl, 713420",713420,8481497374,ekavir731@outlook.com,BVDSW,70,2,1,169,2.3558,0.1667,0,0
+0e3529a6-c974-4488-a16c-84885ec3bf81,Fitan Purohit,30,"120 Mukherjee, Mumbai, 400156",400156,7732130295,william333@syntheticid.net,BBBQX,6,2,11,16,0.116,0.7083,2,1
+5480257f-f04a-4545-adbb-baf12a6933a7,Yahvi Sahni,57,"712 Bava Road, Bally, 545418",545418,8205756398,xiti907@yahoo.com,JETAL,68,4,1,181,1.4572,0.4,0,0
+14bf1a73-1baa-4a93-9c9f-e4bb712aca4c,Tristan Rajan,51,"759 Sanghvi Zila, Rourkela, 261082",261082,6781137995,fiyaz439@yahoo.com,TXFCF,17,1,1,181,0.8217,0.2458,0,0
+5463ed3e-1b78-4842-b30b-158af6b5772d,Brijesh Sinha,50,"911 Bala Street, Gaya, 180662",180662,8918327000,theodore282@outlook.com,KCZQA,44,4,1,169,0.4492,0.4,0,0
+1c105788-2f8d-4f33-bc98-a911ae569657,Yahvi Kumar,28,"424 Sengupta, Allahabad, 315171",315171,9657224029,leena656@rediffmail.com,WDIJZ,74,1,1,158,1.62,0.25,0,0
+88cf1418-eacf-4192-9175-419f23ac57f0,Amaira Patla,53,"704 Savant Zila, Bhind, 374304",374304,7608545667,raagini445@outlook.com,GBMFQ,88,4,1,169,0.4004,0.4,0,0
+4f028266-4cbd-4248-880f-34e2e5253f05,Ishaan Ray,29,"664 Ramanathan Nagar, Karimnagar, 628123",628123,7825867362,indali200@outlook.com,KTWLL,14,2,1,169,0.3098,0.7083,0,0
+a1caf29e-c49e-4d9d-bcad-a9eda00504ea,Tristan Mann,34,"257 Bandi Chowk, Danapur, 193521",193521,6751868926,daksha573@outlook.com,BEIWW,70,1,1,169,0.6567,0.1667,0,0
+c9d58b19-ce62-44f3-b2dc-791505f4bcde,Yug Naidu,31,"339 Deshmukh Road, Mathura, 136340",136340,6816778481,nathan872@outlook.com,IEGXY,46,1,1,169,0.8756,0.1667,0,0
+7100d31f-a7d5-4f0c-a877-5d46db26a2e5,Jeevika Tiwari,44,"976 Dhingra Ganj, Kakinada, 396579",396579,7387367042,nathaniel356@hotmail.com,RLDDH,25,1,1,169,1.8945,0.125,0,0
+947f3d68-a87d-4cf3-87f0-3ac5e97f9111,Janya Varty,43,"858 Pillai Circle, Sangli-Miraj & Kupwad, 187057",187057,7198819277,yuvraj576@rediffmail.com,SIQAV,65,3,1,158,0.9975,0.375,0,0
+f2bca743-30fd-4e47-b1ad-55b0a4f25afa,Jalsa Anand,49,"319 Hora Path, Kollam, 534233",534233,7934497347,reyansh91@hotmail.com,KELNT,104,4,1,169,1.9727,0.5,0,0
+cd6966ff-8a20-4912-8b5e-08e083eee23d,Timothy Swamy,29,"168 Shah, Mumbai, 400948",400948,7732131478,pushti949@syntheticid.net,BBBQX,2,2,11,16,0.1332,0.9583,2,1
+2cff1fbb-c692-42ae-8f06-bc57b05c29c3,Gayathri Chacko,28,"497 Taneja Chowk, Bhiwandi, 591407",591407,8332562389,harini619@hotmail.com,PXZLA,31,1,1,169,1.8653,0.25,0,0
+ac641760-8a42-4d8c-85bb-a0246e77b11c,Zaitra Sibal,31,"430 Choudhary Marg, Giridih, 395447",395447,7123094077,bachittar885@outlook.com,OAWGP,34,1,1,169,1.3466,0.1667,0,0
+bc77dfad-5841-46b6-8f19-9c7ca72c3a4a,Onkar Mand,32,"786 Munshi Zila, Munger, 899996",899996,8899718428,falak812@hotmail.com,PQODO,63,2,1,169,0.9477,0.3333,0,0
+c2b2879d-0ec4-4703-9a95-19a4df46e4de,Gautami Chana,49,"198 Sharaf Chowk, Gopalpur, 239845",239845,9969443916,eesha271@rediffmail.com,MZKEG,39,4,1,158,0.582,0.5,0,0
+6bd240f0-0d63-4c03-bd27-f240a6d6ab66,Simon Balasubramanian,24,"898 Gaba, Kharagpur, 841459",841459,9794523219,darsh275@gmail.com,LAKAR,22,2,1,172,1.3124,0.5417,0,0
+df78d3e2-0f48-4564-ba51-85cda3f28042,Tanay Pandey,37,"588 Sawhney Street, Amaravati, 565473",565473,7132901620,vyanjana304@outlook.com,NMTOS,89,2,1,169,2.2553,0.3333,0,0
+d2c529a6-3e18-47e7-a5af-9d9031748c03,Aashi Kant,40,"63 Bhagat Marg, Khora , 801367",801367,6278686694,charan221@yahoo.com,AOPAY,17,3,1,181,1.4282,0.5208,0,0
+9c0c4d0a-cdcc-4811-a488-a830ce92f392,Pushti Pal,37,"447 Jha Chowk, Mumbai, 400372",400372,7732162942,avi53@syntheticid.net,BBBQX,5,1,11,16,0.0704,0.5625,2,1
+d9d99824-2882-4788-a069-baed7f3364ab,Bahadurjit Chana,59,"484 Koshy Path, Saharsa, 333826",333826,7373898775,nilima820@gmail.com,IEUSF,108,1,1,172,1.2899,0.1,0,0
+fbf483ef-84b4-4a81-b4bb-eb70124c4d87,Jagdish Karan,32,"284 Madan, Tinsukia, 440066",440066,6442717396,urvi192@outlook.com,COLPC,111,1,1,169,1.2715,0.1667,0,0
+1a613a26-ad1f-4649-8e31-fbfe8128f787,Dev Bandi,24,"360 Ghose Circle, Haldia, 492047",492047,6699570607,sachi787@gmail.com,MOCSS,75,2,1,172,2.3291,0.5,0,0
+b23c2292-1541-4a14-9646-da87f6048e83,Sai Patla,45,"490 Parmer, Nagercoil, 523129",523129,6803324260,maya390@gmail.com,NANGN,83,2,1,172,0.9674,0.25,0,0
+a8735e70-748f-4b71-8719-9aaf05cf314d,Veer Gole,38,"855 Rai, Tirupati, 527714",527714,7730147195,nathaniel605@outlook.com,OWQMS,50,3,1,169,0.5631,0.5,0,0
+9eae927d-6505-4a02-8f50-7fc32e36cc1e,Teerth Palan,67,"714 Rao Circle, Raurkela Industrial Township, 853066",853066,7370502497,chaaya976@yahoo.com,GPYVA,74,3,1,181,1.9961,0.25,0,0
+03d13c60-1395-4931-bc02-9c99df26ef04,Ridhi Sastry,30,"93 Das Marg, Morena, 884539",884539,6566863341,yash307@gmail.com,CIPEY,80,2,1,172,1.5602,0.3333,0,0
+5bbd6418-8924-495b-b621-7079fd41e31b,Arya Bhat,55,"175 Thakur Zila, Rourkela, 813043",813043,8070164510,aishani309@outlook.com,GJZCI,17,3,1,169,2.2069,0.4458,0,0
+935e8c42-5c71-497c-ad7c-483666ccd487,Bhanumati Sahota,31,"709 Sampath, New Delhi, 110167",110167,9876550762,urvashi804@fraudmail.in,AAAPF,4,3,12,18,0.077,0.9167,1,1
+d953b0bd-ae16-44f0-8cbf-ed0ed1a0a8b8,Ishita Anand,22,"426 Gola Zila, Aizawl, 308472",308472,9508276817,lajita191@yahoo.com,XMITJ,23,1,1,181,1.681,0.2708,0,0
+7bf4c476-c32b-475b-971d-a2255018c369,Girik Choudhary,25,"24 Pillay Path, Mehsana, 499344",499344,8124189389,lipika522@hotmail.com,KBSCM,88,2,1,169,2.3183,0.5,0,0
+07626dbd-02f2-4c4f-a385-4388def92015,Yatan Sharma,24,"912 Varma Nagar, Kozhikode, 552120",552120,6496110804,janaki880@outlook.com,KQKWU,60,2,1,169,1.6728,0.5,0,0
+489f15d1-2102-4df6-b65a-b63eda642bd7,Vasudha Batra,43,"873 Varma Street, Mangalore, 832228",832228,9056227104,zashil728@yahoo.com,FCLCQ,107,3,1,181,1.6078,0.375,0,0
+19e8fab7-4b1b-470f-82c4-7a90be48e4ff,Anita Dutta,34,"951 Mangal Zila, Kolhapur, 697778",697778,8896340679,azad120@outlook.com,LIDDT,115,2,1,169,2.4872,0.3333,0,0
+f9cd476d-2980-4ae6-ad7b-3f4fb8abfdd6,Aarna Sachdev,48,"775 Chahal, Bangalore, 560633",560633,6341128389,ayaan924@mailbox99.co,CCCRY,8,2,11,17,0.064,0.5833,3,1
+d900e611-3b2f-40ec-b318-3e26efff3772,Indali Mohanty,31,"517 Chaudhuri Marg, New Delhi, 110680",110680,9876508529,reva891@fraudmail.in,AAAPF,12,2,12,18,0.0493,0.5833,1,1
+f6563891-dffc-4174-a668-b4b789ccc477,Chavvi Dass,66,"2 Puri Circle, Dehradun, 452711",452711,7380236219,vamakshi752@yahoo.com,BXNDO,88,2,1,181,1.3754,0.1667,0,0
+2e3d2804-b610-4143-a741-59d74679464e,Devika Borah,39,"456 Sheth Street, Durg, 199692",199692,6533651460,dominic314@gmail.com,XHGYX,12,2,1,172,2.0612,0.5833,0,0
+a8f96639-80d7-49b7-9d52-be3248bd54cc,Hritik Nagar,39,"508 Char Road, Bhimavaram, 731241",731241,6650344096,dipta421@gmail.com,MTXYB,108,2,1,172,1.4347,0.3333,0,0
+43164eb5-6325-42ae-8042-c87728592faa,Gauri Sandal,39,"491 Karpe Nagar, Mathura, 699223",699223,7065031219,ojas722@rediffmail.com,BCYLH,58,2,1,158,2.1887,0.3333,0,0
+56fb2de5-3aa9-46cd-bdbb-4b2a21307bd3,Girindra Oak,56,"777 Kota Nagar, Kavali, 634175",634175,7978570820,bakhshi841@gmail.com,GBMMC,29,2,1,172,2.1537,0.2,0,0
+6388ba2c-bb92-45d5-823d-417c2f6303fa,Yamini Sehgal,55,"374 Dey Circle, Tadipatri, 609120",609120,7465495005,kai39@outlook.com,AWXBJ,31,2,1,169,1.6167,0.2,0,0
+bda750cd-f934-4912-b96a-2916a03499fb,Tripti Chokshi,30,"905 Swaminathan, New Delhi, 110871",110871,9876577546,falak118@fraudmail.in,AAAPF,7,3,12,18,0.0971,0.8542,1,1
+1ec707d8-0790-4dc2-9a68-48bee264637c,Owen Chadha,61,"602 Ganesh Street, Ambarnath, 165119",165119,9233922071,anita349@gmail.com,CKSRU,18,3,1,172,1.1388,0.375,0,0
+505b7a22-5e93-448c-ae5d-59e2f37191e4,Zehaan D’Alia,56,"141 Karpe Ganj, Bihar Sharif, 345199",345199,7083301657,geetika112@yahoo.com,AOYKY,46,3,1,181,2.2325,0.3,0,0
+8e972623-21ec-41b6-8b6b-cef3dded5857,Anmol Grewal,62,"206 Chaudry Chowk, Gandhinagar, 645344",645344,8714224109,victor583@rediffmail.com,COOHY,38,3,1,158,2.0688,0.25,0,0
+4075d5b1-ba89-4af6-8584-76fdbbe30165,Madhavi Rajagopalan,54,"851 Ghose Zila, Bangalore, 576452",576452,6504043333,ijaya793@hotmail.com,FNPWD,78,2,1,169,1.9026,0.2,0,0
+da947ec5-6bbf-4c1e-8638-820d9b9af7dd,Ranbir Solanki,44,"169 Dash Ganj, Akola, 329603",329603,7309821506,advaith907@hotmail.com,UQPBC,108,1,1,169,2.1395,0.125,0,0
+c922f8e4-c911-46dc-972f-05e9f83c98a3,Deepa Saha,53,"52 Ratta Road, Munger, 535954",535954,8408424560,chaitanya467@hotmail.com,HACTN,70,3,1,169,1.1717,0.3,0,0
+784993f8-41f8-48bb-aef6-2187407e618d,Kamala Mammen,27,"419 Madan Path, Dindigul, 264551",264551,8674680715,mohammed268@hotmail.com,DUWVA,72,2,1,169,2.2126,0.5,0,0
+5e0472df-f2e6-458b-bba3-aae446473f53,Alexander Kashyap,37,"188 Nayar Path, Tirunelveli, 281337",281337,6948413128,ayaan320@gmail.com,FGTMC,44,3,1,172,2.2396,0.5,0,0
+3c5241df-2bdf-4bc0-9e0b-d5c2f66cad54,Turvi Bansal,40,"142 Sastry Chowk, Agra, 406698",406698,8833394522,kala525@rediffmail.com,SIDJM,69,1,1,158,1.5554,0.125,0,0
+8ea477ac-77c2-47e6-adc5-4335c37b2afa,Manan D’Alia,31,"939 Thaker Ganj, Salem, 267301",267301,6471372711,bhavya695@outlook.com,VISJM,66,2,1,169,2.4044,0.3333,0,0
+9f1a77a1-d4f0-4c1f-82c5-c640b25ee38c,Indira Kakar,34,"107 Sem Chowk, Mumbai, 400918",400918,7732154880,lucky408@syntheticid.net,BBBQX,4,1,11,16,0.0533,0.5833,2,1
+d7dcd74e-937f-4d25-a3de-2f022ace252f,Krish Arora,34,"307 Lall Path, Kharagpur, 882961",882961,6287942968,oviya935@rediffmail.com,DSKYR,60,1,1,158,2.1655,0.1667,0,0
+227d0a17-9257-43e4-99b8-53e148099be2,Bakhshi More,30,"39 Mahajan Road, Sultan Pur Majra, 409300",409300,8964612939,ranveer65@gmail.com,DTJDC,111,1,1,172,1.9144,0.1667,0,0
+8ed56aa4-982c-470b-bf97-16ea3af3450a,Bina Subramanian,66,"27 Chakraborty Nagar, Rohtak, 143200",143200,7453931321,aditya828@hotmail.com,WBAIA,66,3,1,169,0.749,0.25,0,0
+ac43cd12-d825-4090-82fa-8025f862ac79,Hamsini Mody,59,"642 Memon Zila, Ramgarh, 148687",148687,8685662462,mohini782@rediffmail.com,MWHSU,106,2,1,158,2.3124,0.2,0,0
+88ba812a-0b6d-4142-9da4-b3736c7e19bc,Charan Gandhi,67,"965 Raval Circle, Dhanbad, 385963",385963,6646867752,hemangini748@hotmail.com,AGOIX,31,5,1,169,1.6489,0.4167,0,0
+8e3a0fa9-efb5-45a5-90c9-c61757b9eb8b,Garima Shetty,24,"89 Anne Zila, Cuttack, 562735",562735,8384215031,tanveer464@rediffmail.com,AMNEY,46,2,1,158,1.9114,0.5,0,0
+82b2bf05-c6fc-4135-9b71-9d6e5540d573,Ronith Krishna,67,"823 Doctor Zila, Amravati, 473465",473465,7585125389,mugdha141@gmail.com,ZUNMI,113,3,1,172,2.076,0.25,0,0
+482028a5-6c03-46be-b180-c7f51bb015d8,Nisha Shroff,49,"756 Raghavan, Jaipur, 797572",797572,8500000015,bachittar178@rediffmail.com,CRMUL,104,1,1,158,2.2674,0.125,0,0
+6426a8e2-264e-41ba-a0d9-a41812409ec7,Brijesh Raman,22,"142 Sani Circle, Mumbai, 781548",781548,7142369143,devika42@outlook.com,YGRKK,18,1,1,169,2.2892,0.375,0,0
+737c8d9b-db45-4827-a138-606ca665ff85,Farhan Talwar,35,"458 Sankar Circle, Panvel, 310763",310763,9911289812,yahvi784@yahoo.com,DMPTI,60,1,1,181,0.7202,0.1667,0,0
+3b8bad3d-7bb1-44a0-83b2-b5c1f534b0d2,Gautami Bobal,57,"200 Sood Marg, Pudukkottai, 702546",702546,8100307620,turvi388@hotmail.com,YYPLB,94,2,1,169,0.343,0.2,0,0
+c9319409-e6d4-484f-9f90-1bc7d9f86055,Kashvi Goel,22,"970 Borah Path, Bhiwandi, 884740",884740,9493085368,gopal457@outlook.com,GSQVF,100,1,1,169,0.4743,0.25,0,0
+f33fbea7-caea-4bc7-a7fa-26b590315a91,Simon Roy,64,"883 Sarin Zila, Miryalaguda, 668920",668920,9510293218,vansha272@gmail.com,CDHZE,27,2,1,172,2.4496,0.1667,0,0
+39a44935-5af8-4309-aed8-b341f475ad15,Deepa Puri,46,"826 Chahal Chowk, Sasaram, 512889",512889,9924082226,yashasvi591@hotmail.com,BSZSG,35,2,1,169,1.6391,0.25,0,0
+b2290de6-d6f4-4dea-9713-0c7b680c1739,Hemangini Rege,64,"274 Purohit Circle, Jabalpur, 334095",334095,6419615607,jhalak931@rediffmail.com,QEHXR,93,1,1,158,1.528,0.0833,0,0
+4c86e27e-d8fa-413d-9b58-8211204d8368,Ubika Balakrishnan,62,"624 Biswas Road, Bhavnagar, 319398",319398,9845776004,gaurang620@gmail.com,NZHHF,67,3,1,172,2.1826,0.25,0,0
+400c5b90-ac74-4401-9aee-68e5687d6185,Caleb Halder,57,"765 Kunda Ganj, Siliguri, 508969",508969,8328710122,dominic821@outlook.com,PKPMG,80,3,1,169,1.5171,0.3,0,0
+a6437e87-89c2-4e6d-982b-a0c186403b4b,Kiaan Bhagat,51,"914 Malhotra Circle, Rohtak, 209234",209234,6346996733,deepa112@gmail.com,KLDXW,90,2,1,172,1.9515,0.2,0,0
+2ea8c639-016a-454c-b987-ce56fa698ed8,Turvi Sachdeva,35,"519 Bhatti Zila, Dewas, 173941",173941,8913599285,mohini364@yahoo.com,XRIBK,66,1,1,181,0.3732,0.1667,0,0
+d0f1855f-dd90-4f31-b77d-d5b77e376a8b,Urmi Pai,62,"161 Chander Zila, Saharsa, 210975",210975,8743974292,imaran340@gmail.com,DWOJI,60,5,1,172,1.8851,0.4167,0,0
+91613669-3138-4ac3-a88d-e408137576e5,Zashil Batra,50,"949 Raman Nagar, Amritsar, 129992",129992,8222999362,ekani988@gmail.com,TURPQ,112,2,1,172,0.8198,0.2,0,0
+1ea610ae-0a7b-4f2d-ba6a-d9dd3a401dc6,Aashi Balan,42,"757 Nayak Chowk, Suryapet, 615339",615339,9411325797,tanish984@gmail.com,UKYSG,83,3,1,172,2.4712,0.375,0,0
+eec18617-e4c6-4a26-ad63-12344b796342,Wridesh Maharaj,37,"713 Jaggi Nagar, Etawah, 873405",873405,9695790012,devika296@rediffmail.com,ETWGE,59,1,1,158,1.4519,0.1667,0,0
+3dafdeb7-aacb-490f-9e78-4eaac8f802c9,Unni Raghavan,28,"237 Dua Chowk, Guna, 578603",578603,9811872333,urvi389@gmail.com,AAPDH,84,1,1,172,1.595,0.25,0,0
+a48ff9af-6033-4b38-aef8-1adf9bef71f9,Wyatt Sampath,28,"780 Soni Road, Bathinda, 420535",420535,9093204899,aachal747@outlook.com,HFFOG,114,2,1,169,1.5114,0.5,0,0
+836b661e-aeb8-4e08-8c18-cc0a3b8e380b,Ekavir Kashyap,56,"740 Balasubramanian Nagar, Karimnagar, 498725",498725,7926933589,alka810@hotmail.com,CWYCS,109,3,1,169,1.1123,0.3,0,0
+371c2c77-9ff4-46b7-bca3-25669eb2bb2c,Anita Hayre,36,"832 Grover Nagar, Bidhannagar, 403320",403320,7097768893,pavani432@yahoo.com,WPQXZ,68,3,1,181,1.9429,0.5,0,0
+fb7fa1d1-9fb8-4a2b-ab5d-218f66ad4af9,Ekansh Bhandari,31,"632 Sharaf Chowk, Amravati, 489310",489310,9843356708,karan447@gmail.com,HHHJK,66,1,1,172,1.0036,0.1667,0,0
+5eb1ecb2-4e12-46a4-adf7-883ad25eb534,Nachiket Soni,61,"536 Bhalla, Kolkata, 885930",885930,9464520599,jyoti426@gmail.com,GFOMM,119,4,1,172,2.4108,0.3333,0,0
+f4e1d096-6d16-4880-894a-031573be6fc9,Januja Sarraf,47,"992 Randhawa Path, Bharatpur, 778171",778171,7900532931,jhalak859@rediffmail.com,FFWID,47,1,1,158,2.2812,0.125,0,0
+0242abd8-e110-48c1-9340-2d6bbee8f14e,Ishani Sastry,49,"625 Mohanty Marg, Tirupati, 370133",370133,6232812067,ubika715@rediffmail.com,MAHHW,51,1,1,158,0.4566,0.125,0,0
+e729adde-c60e-4323-bead-d129931bc0c8,Watika Mammen,37,"877 Sengupta Nagar, Phusro, 856632",856632,7702672885,yochana814@outlook.com,HOOKR,83,2,1,169,0.4321,0.3333,0,0
+e219b6f4-cc32-45c5-8edd-39cba432f006,Eta Chakraborty,34,"382 Lad Chowk, Aurangabad, 365199",365199,6013721510,jagrati974@outlook.com,BYLSM,117,2,1,169,1.142,0.3333,0,0
+8a6e666c-4fd8-4eae-b618-b3d1b36629ec,Upasna Reddy,39,"794 Bali Marg, Ongole, 848776",848776,8531473799,deepa694@outlook.com,IMIMJ,90,3,1,169,0.8684,0.5,0,0
+d77af0be-17f4-4635-8639-7d2e53a8aacc,Ekbal Pathak,52,"377 Oza Path, Munger, 529836",529836,7482689996,gayathri173@outlook.com,PUNOO,17,1,1,169,1.4441,0.2458,0,0
+a9092478-8a31-415d-ae8d-8e6774cf04a7,Wyatt Magar,24,"738 Bedi Nagar, Noida, 860569",860569,6817703886,suhani762@gmail.com,ONQBH,89,2,1,172,1.1757,0.5,0,0
+b187a644-c1e0-401f-81ba-b00940dcdc53,Charles Kar,59,"740 Barad, Rourkela, 559015",559015,9764722981,shaurya165@gmail.com,PJQJL,89,1,1,172,1.4191,0.1,0,0
+0b0925aa-0228-4725-a928-4f6d832671d4,Anthony Mannan,31,"953 Yohannan, Purnia, 272640",272640,9011686462,neelima190@hotmail.com,EDMNC,46,1,1,169,1.5476,0.1667,0,0
+0ae368a7-44f2-449e-9ade-848a1404eed5,Jonathan Sami,56,"947 Chhabra Street, Jammu, 475387",475387,7712566383,hemal427@gmail.com,TIMNM,12,1,1,172,1.0948,0.35,0,0
+764cae1d-5037-4d8d-afa9-2d8a24bdbe74,Dominic Patla,61,"357 Raj Street, Mira-Bhayandar, 777147",777147,8410225267,aachal748@outlook.com,VCLSD,116,3,1,169,1.0107,0.25,0,0
+96070eec-b289-4b34-a640-c9063224e25b,Maya Goswami,58,"929 Gopal Chowk, Jamalpur, 513841",513841,6461540211,triveni981@rediffmail.com,AXBVK,100,3,1,158,0.5352,0.3,0,0
+6ed47e67-b749-4195-850e-5e269f78ea59,Bimala Dugal,52,"306 Master Nagar, Miryalaguda, 433921",433921,6826068887,gaurang75@rediffmail.com,VOVQT,94,4,1,158,0.7564,0.4,0,0
+9d06ca31-2282-4ccc-901c-bf922f058297,Barkha Chahal,62,"965 Minhas Circle, Mysore, 571666",571666,9767555628,yashoda220@yahoo.com,FEFWR,57,2,1,181,1.6615,0.1667,0,0
+740e576b-2191-45ad-9129-93c396c3d853,Aarnav Vora,34,"881 Kalita Path, Coimbatore, 482342",482342,8638300081,yashasvi523@outlook.com,UBHAQ,32,2,1,169,1.8138,0.3333,0,0
+545fc6c1-d99a-4f05-af6f-a4a7f7611061,Janya Kaul,34,"556 Dara Path, Chapra, 138427",138427,6039308705,neel949@rediffmail.com,FDSXV,119,2,1,158,1.0119,0.3333,0,0
+93a2bbd1-8e58-4374-86e6-8987c769c459,Warhi Kara,40,"520 Krish, Dindigul, 777880",777880,8929622292,atharv748@outlook.com,BJSZP,120,1,1,169,1.9553,0.125,0,0
+0e33f484-69a0-4b68-b39b-c545aca620c7,Ekiya Batra,26,"699 Chanda, Thane, 312873",312873,9855982176,wridesh650@outlook.com,WODNC,55,1,1,169,1.3972,0.25,0,0
+0dda1dac-e424-4d0e-83e9-ee59ff10117d,Hritik Sachdeva,33,"798 Malhotra Zila, Thiruvananthapuram, 840785",840785,7282305248,teerth842@gmail.com,NXKEM,80,1,1,172,2.1624,0.1667,0,0
+10cc6430-02c2-4341-ad78-c8486fde093a,Kashvi Grover,58,"234 Chanda Marg, Bhilai, 112800",112800,7075622086,samuel239@hotmail.com,GXIVO,98,1,1,169,0.5627,0.1,0,0
+28dc7fa3-260b-44e3-a72b-de0e09676fef,Abhimanyu Shan,30,"382 Dhaliwal Street, Mumbai, 400481",400481,7732158268,urvi437@syntheticid.net,BBBQX,8,1,11,16,0.085,0.5,2,1
+d404703b-6f1b-4620-9435-18e4ef35959b,Nimrat Nadkarni,28,"326 Virk Chowk, Ballia, 389265",389265,9968157903,qasim916@rediffmail.com,EGJNA,61,1,1,158,1.6182,0.25,0,0
+62a7f303-2b9a-4570-9ee7-f819d58f8c0e,Osha Som,29,"782 Kulkarni, Bongaigaon, 625247",625247,7613750606,triya524@hotmail.com,GZJAY,48,1,1,169,2.1462,0.25,0,0
+e06a33a4-aa51-4c91-9cb5-07c3030b8ea4,Ishani Bhandari,43,"653 Kara Circle, Kalyan-Dombivli, 664427",664427,9801128059,samaksh575@yahoo.com,LBJYZ,110,1,1,181,0.3878,0.125,0,0
+9bba4fab-b278-4750-84cd-fbe6852bd3e1,Nidhi Kari,34,"889 Ahuja Road, Noida, 523684",523684,6223569725,darpan893@yahoo.com,UMQEQ,76,1,1,181,0.3104,0.1667,0,0
+c8be504a-6c45-417d-ae98-c631aa7b5095,Hemang Vig,66,"873 Rao, Ramagundam, 424586",424586,9809134316,alka110@gmail.com,LSXBU,62,1,1,172,0.9454,0.0833,0,0
+2cc6af4b-faf6-4173-90d4-fd239ee1f8fd,Tanay Wable,58,"534 Sengupta, Haldia, 212274",212274,6767412415,kala832@gmail.com,TFBEI,66,4,1,172,1.2976,0.4,0,0
+bc70384d-df5b-4d2c-8c00-d46e6df90711,Sudiksha Hegde,35,"61 Bawa Marg, Jammu, 518234",518234,9912141614,chandran75@hotmail.com,AGMTA,35,1,1,169,0.8854,0.1667,0,0
+f770097c-ba1e-4e5e-8c0f-744ab773b243,Chaitaly Sathe,38,"982 Salvi Street, Bhimavaram, 752699",752699,6413797723,ekanta860@outlook.com,PUVER,35,3,1,169,0.8819,0.5,0,0
+e62f976c-1cce-40b6-b414-e3b78d0d3d97,Jacob Sawhney,43,"363 Hans Circle, Sonipat, 774179",774179,9240964966,aadhya569@yahoo.com,SYLGN,104,2,1,181,0.6337,0.25,0,0
+5d49d4e8-d2de-44d7-9e3c-496eaf851583,Balveer Raja,57,"785 Buch Marg, Maheshtala, 819957",819957,9122868528,zaid624@outlook.com,YXOZV,65,1,1,169,1.2072,0.1,0,0
+55993a26-adc1-43d3-a95d-20e096265ef7,Samesh Yohannan,30,"395 Upadhyay Nagar, Ahmedabad, 198921",198921,7419962642,janaki176@yahoo.com,PMNBB,74,2,1,181,1.8557,0.3333,0,0
+1f42f160-e20f-4e8e-806d-b00ced3b2ca4,Rayaan Gaba,35,"230 Kala Nagar, Aizawl, 476158",476158,6493689980,harita633@hotmail.com,AHTXJ,31,2,1,169,0.6991,0.3333,0,0
+08e67846-ed9f-4b00-b2e4-784b9df0f19b,Megha Zachariah,65,"630 Yogi Road, Jaunpur, 830520",830520,6461526546,vritti974@gmail.com,BGPGN,33,1,1,172,1.4097,0.0833,0,0
+e7ee1759-5f3e-4859-8968-cd5aec418d3b,Harini Batra,35,"266 Mukherjee Ganj, Jorhat, 244120",244120,9061592738,yoshita516@hotmail.com,BPBSZ,120,1,1,169,1.2487,0.1667,0,0
+883d09ca-364f-4cfb-aaa4-32262dc1b96d,Jonathan Bahri,49,"896 Saha Path, Bareilly, 627831",627831,7856053970,manthan514@rediffmail.com,OQKYD,117,2,1,158,1.3523,0.25,0,0
+2f317550-0564-47de-bc6c-6a905a5bcffe,Lakshmi Sur,51,"394 Khanna Road, Chennai, 688829",688829,9872258937,sai777@gmail.com,UNRAQ,75,4,1,172,1.8011,0.4,0,0
+123a318f-e1c1-4fd6-b037-41ccee30ba55,Wakeeta Krish,44,"251 Raghavan Zila, Nadiad, 706334",706334,6141520850,lakshmi481@outlook.com,OXGSP,19,3,1,169,2.4687,0.4792,0,0
+9c328103-72d9-4b11-8aea-9e3995cc2591,Zaid Minhas,46,"653 Pal Ganj, Silchar, 710744",710744,6609365952,yatan917@gmail.com,BPVWQ,54,2,1,172,1.5651,0.25,0,0
+42f1b67d-0b2d-406f-a091-4c252b89096f,Varenya Prabhakar,52,"116 Sarkar Ganj, Tirunelveli, 245971",245971,8781891371,ojasvi710@rediffmail.com,UIBIU,102,3,1,158,1.3315,0.3,0,0
+3b9b14c1-c255-4e5d-9086-4d6c0205dd3a,Pranav Sahni,51,"201 Koshy Road, Jammu, 401259",401259,7328946338,gaurang993@rediffmail.com,YIECR,87,4,1,158,1.0213,0.4,0,0
+2c5c3540-269c-43e3-8ee4-1c639f2c03bb,Wriddhish Malhotra,38,"319 Varughese Chowk, Madhyamgram, 795296",795296,8923426834,zinal322@gmail.com,HYLEU,50,3,1,172,2.1345,0.5,0,0
+6152b7c0-3900-4e65-b0f6-694e950f36cf,Jasmit Magar,42,"171 Bora Zila, Machilipatnam, 245257",245257,6765024120,arjun618@hotmail.com,ZPMGC,99,1,1,169,2.1016,0.125,0,0
+0cf993be-cc42-4c60-bf44-efa62c5b3c6b,Bahadurjit Shenoy,48,"10 Kibe Marg, Bangalore, 560742",560742,6341199074,turvi652@mailbox99.co,CCCRY,16,3,11,17,0.0765,0.5417,3,1
+a4766e36-281d-42f5-a3cb-2dc660795f2e,Radhika Ahuja,25,"114 Nori Chowk, Tezpur, 275776",275776,8349292983,yatin98@outlook.com,WMZPV,47,1,1,169,0.9142,0.25,0,0
+ab4ee970-63b2-48e2-a2d9-8a489af4a695,Aadi Badal,38,"99 Bose Chowk, Anantapur, 469754",469754,8884506159,jeet213@rediffmail.com,OQEUJ,72,3,1,158,1.781,0.5,0,0
+9c4235f8-98d1-4ea7-a1a5-291600cf2fea,Hemal Bansal,28,"624 Iyengar Marg, Rajahmundry, 306348",306348,8642087375,raagini250@gmail.com,ACCOM,75,1,1,172,2.3888,0.25,0,0
+0409734a-92d0-4e22-af70-920018a8a5eb,Ekbal Kaur,39,"919 Anne Chowk, Kozhikode, 354502",354502,7902822700,harita620@yahoo.com,WRJKE,105,3,1,181,0.6793,0.5,0,0
+8e0b8449-558a-4907-ac10-2f4bb7196c87,Abhimanyu Grewal,52,"169 Kunda, Proddatur, 821038",821038,8934015364,niharika100@hotmail.com,HCVFF,88,4,1,169,0.6817,0.4,0,0
+cf85426f-7d53-4673-b9c7-a150d17c5f1c,Jacob Dhaliwal,40,"301 Kota Street, Chittoor, 855430",855430,9348079705,fitan16@rediffmail.com,LHCJS,50,2,1,158,1.1845,0.25,0,0
+c92fe7b2-2594-4fe6-9553-cced38c0cf7a,Arin Dhawan,28,"232 Rai Path, Shivpuri, 588368",588368,8092632239,anmol626@rediffmail.com,DGHIB,81,2,1,158,0.8613,0.5,0,0
+38bedfe4-2996-483f-86f4-503810b2fb01,Peter Yohannan,48,"822 Master Chowk, Ajmer, 178030",178030,6272405593,dhriti309@yahoo.com,PMDBG,107,1,1,181,1.496,0.125,0,0
+3018d48f-2193-460c-bf16-10642a016d69,Aarini Mohanty,67,"103 Kalita Zila, Ambala, 435894",435894,8906700099,upasna318@yahoo.com,HZGBX,94,2,1,181,2.497,0.1667,0,0
+8c1ce271-ad53-4f85-9d37-57d9e539028a,Ekalinga Chandran,31,"758 Munshi Street, Giridih, 209655",209655,6047541212,ishita451@outlook.com,ONCCO,60,1,1,169,1.6132,0.1667,0,0
+63addb80-ba56-48c2-94c9-98630a152a78,Dominic Chhabra,31,"779 Ghose Chowk, Guwahati, 633501",633501,8819737418,dev770@rediffmail.com,LBZXI,98,2,1,158,0.8986,0.3333,0,0
+8f24177b-13ca-4a08-9e01-a37965988155,Dev Balan,49,"949 Setty Ganj, Silchar, 585015",585015,7018596263,onkar44@gmail.com,GMRYQ,98,2,1,172,1.1258,0.25,0,0
+7156a71f-1067-4bc9-aa7c-4ebaee876f5c,Jacob Wali,22,"715 Chaudhuri Road, Dewas, 259654",259654,7511615594,dalbir836@gmail.com,SNZJO,109,1,1,172,2.1247,0.25,0,0
+77bb0754-3145-4800-a52b-1946db48f10d,Tanish Bawa,59,"187 Rai Street, Mehsana, 146312",146312,7191505764,samuel299@rediffmail.com,QUHAB,93,3,1,158,0.6086,0.3,0,0
+2ae028e9-77d6-4806-9b97-282116b85c5b,Harish Padmanabhan,49,"988 Nadkarni Circle, Mango, 332821",332821,9118425476,saanvi576@gmail.com,ZZEVX,94,1,1,172,1.424,0.125,0,0
+4d2c2212-3833-4c08-8a68-73246da7af70,Samar Walia,28,"814 Chada Street, Adoni, 873585",873585,7398680002,harita740@hotmail.com,UNDXD,62,2,1,169,2.349,0.5,0,0
+91855f91-ae84-4856-8066-29fcef3bdf76,Odika Ranganathan,50,"606 Ganguly Nagar, Bhatpara, 545979",545979,8578317456,saksham276@yahoo.com,HAVWI,29,2,1,181,1.3322,0.2,0,0
+853be463-62c3-4319-b1ca-1513baedf3e9,Pavani Wali,50,"911 Goyal Street, Gulbarga, 356659",356659,6139904902,ethan491@rediffmail.com,QXEPQ,22,1,1,158,1.3818,0.1417,0,0
+c962ab4e-a335-4c0b-b69f-cf31c3e3ed60,Lavanya Setty,54,"547 Singh Street, Vijayanagaram, 106860",106860,6179867782,kavya210@gmail.com,EPYLU,116,3,1,172,0.33,0.3,0,0
+0d517db4-f554-4eb7-b65d-2cee6657a76e,Fitan Goyal,64,"310 Kulkarni, Hyderabad, 673813",673813,9667548581,dayamai914@rediffmail.com,VYYVS,72,3,1,158,2.1477,0.25,0,0
+cc0e0a3d-31e8-4a94-b682-c93405b6c227,Abhimanyu Dhaliwal,50,"348 Chaudhry Path, Raiganj, 541459",541459,6633991297,sanya109@gmail.com,DWOZU,112,2,1,172,0.4918,0.2,0,0
+a47d5287-d693-4f3e-a04e-64f08f5277c0,Devansh Khare,61,"402 Bassi Chowk, Amroha, 851613",851613,8732354940,jai106@yahoo.com,NSMHX,101,4,1,181,0.825,0.3333,0,0
+692ef544-c44f-48f9-bd04-cb9e828242fe,Gabriel Shenoy,60,"302 Pradhan Circle, Noida, 272186",272186,6042752308,imaran231@outlook.com,SVVQS,24,2,1,169,2.2734,0.1667,0,0
+fa723517-bee4-45cc-be30-3e764bdd3f7e,Wridesh Gopal,27,"829 Dave Ganj, Kottayam, 625072",625072,9790874064,ria846@gmail.com,TPBIB,77,2,1,172,2.4871,0.5,0,0
+a69fc23c-ed99-4670-9b7d-3c9ecc291ffa,Owen Bal,31,"801 Lal Street, Nizamabad, 668386",668386,9007942007,lakshmi289@rediffmail.com,GRZVF,59,1,1,158,2.1495,0.1667,0,0
+95601028-431a-4bbd-ba6f-1b513579279c,Imaran Trivedi,26,"144 Contractor Road, Siliguri, 882272",882272,7626693351,qabil241@hotmail.com,DKSPR,19,2,1,169,0.7528,0.6042,0,0
+c8d5d3f9-a950-4002-ae65-88efa68b0037,Ekiya Barad,53,"906 Dara Road, Jhansi, 530304",530304,9506351903,oni716@outlook.com,YXFIB,58,1,1,169,1.6756,0.1,0,0
+547e1657-5d13-4176-994a-c35874e52c96,Kala Soni,39,"736 Mistry Path, Kirari Suleman Nagar, 753642",753642,9121203843,max763@outlook.com,ILSSW,69,1,1,169,1.471,0.1667,0,0
+548889dd-90b3-4ddc-9d8c-a93dea164fa3,Fariq Pillai,55,"147 Behl Path, Mau, 310182",310182,6768104091,hritik351@outlook.com,XCTTA,51,3,1,169,1.9687,0.3,0,0
+da2ca9ba-b7db-45e2-ab54-b457a87232d0,Wriddhish Shukla,22,"955 Krishnan Ganj, Jabalpur, 218124",218124,6824493534,maanav527@outlook.com,GXBQV,97,1,1,169,0.397,0.25,0,0
+d6c540cb-8209-4865-968a-e2a6969ae7d9,Aarush Gala,45,"445 Dalal Circle, Nadiad, 625610",625610,8732788147,daksh457@gmail.com,XMDDX,90,1,1,172,2.1514,0.125,0,0
+2d46f26d-4531-4d71-be1e-1e7e87250fbf,Rachana Basu,39,"941 Behl Ganj, Ahmedabad, 216158",216158,6213125129,urvi830@yahoo.com,UWAAU,22,2,1,181,2.2144,0.375,0,0
+f21c715a-dee7-4a9c-927d-b44731c63cf3,Qushi Patel,36,"54 Gour Circle, Kadapa, 406276",406276,7086567566,samesh83@rediffmail.com,SHXSO,101,3,1,158,0.5141,0.5,0,0
+af7caf5b-3d67-47c4-b61b-47e01173d4cf,Neel Bhagat,57,"575 Roy Circle, Kota, 344325",344325,6793355486,bimala293@gmail.com,BIMND,102,1,1,172,1.8616,0.1,0,0
+18b56108-119b-48c7-a268-f026c7acd5d8,Lekha Sood,63,"837 Bansal Path, Jamalpur, 554317",554317,9177517016,charita432@gmail.com,OACPQ,60,4,1,172,0.9701,0.3333,0,0
+69203a95-f6bf-4c9b-8d8f-fd499a00f847,Ethan Mahal,57,"314 Cheema Marg, Davanagere, 608486",608486,9497974163,urmi404@hotmail.com,LZGIA,71,4,1,169,0.8374,0.4,0,0
+47e63b57-ea88-4f4c-a1da-c1c6797e9106,Pranav Sengupta,38,"254 Mital Path, Bangalore, 560192",560192,6341179761,vedant481@mailbox99.co,CCCRY,16,2,11,17,0.1386,0.5,3,1
+918ac703-0fdd-4b01-a9ce-1edd4fac0df3,Vaishnavi Prakash,39,"420 Murthy Marg, Saharsa, 168428",168428,7190924876,anay926@yahoo.com,GVFSB,35,1,1,181,0.5233,0.1667,0,0
+5937e462-9183-4da7-8548-04b5d52a960a,Teerth Johal,45,"596 Agarwal Nagar, Surendranagar Dudhrej, 771444",771444,6766349339,zayan436@hotmail.com,AQJLD,19,2,1,169,0.6717,0.3542,0,0
+ecc976ac-2993-46bc-b30b-80113d8a9c81,Ikshita Kulkarni,48,"897 Aggarwal Ganj, Kavali, 434420",434420,8565749025,fiyaz55@hotmail.com,YXAPV,21,4,1,169,1.4238,0.5625,0,0
+ce7c53c7-03a9-43d8-8072-77b97286a21d,Zilmil Ahluwalia,31,"185 Saran Marg, Mumbai, 400192",400192,7732162213,janani197@syntheticid.net,BBBQX,4,3,11,16,0.0124,0.9167,2,1
+c2ad12c6-4a16-43b2-8009-245e07e754c3,Krisha Bail,53,"409 Chana Street, Kirari Suleman Nagar, 545041",545041,8485959224,vasatika545@yahoo.com,UYJPM,29,4,1,181,0.7634,0.4,0,0
+eb74bd08-76c4-4e63-a17c-7b219c90ca71,Triya Gopal,32,"391 Gade Marg, Bhind, 603010",603010,6261583882,ranveer733@gmail.com,ZMUQX,118,1,1,172,1.9765,0.1667,0,0
+d0efd62d-c0e7-4b96-adce-a6dd0770b04f,Dalaja Issac,58,"73 Baral Circle, Bally, 653495",653495,9020701601,nirja446@outlook.com,EPPVS,43,2,1,169,1.6559,0.2,0,0
+713d5f27-473d-4ba1-afef-47f4ecddc702,Guneet Raman,24,"116 Narain Marg, Ozhukarai, 272769",272769,9438119953,chanchal900@outlook.com,VZKQW,60,2,1,169,0.9164,0.5,0,0
+2e333d08-97d1-4d17-8bf2-d763bcf834f9,Karan Pillay,31,"795 Hegde Road, Navi Mumbai, 638035",638035,7988085838,ishanvi180@hotmail.com,ERQWF,119,1,1,169,2.3474,0.1667,0,0
+2e31d824-87c3-49c0-b180-6a9c05e30673,Ekaja Balan,36,"33 Bath Nagar, Jamalpur, 742135",742135,8621276025,tanay45@rediffmail.com,EVKCE,91,1,1,158,0.4611,0.1667,0,0
+b1cda9d0-3eb7-489e-b12f-ddbcc330461d,Ucchal Khalsa,29,"676 Goel Ganj, Bhilai, 101298",101298,9865086376,harita368@rediffmail.com,UXVOL,23,2,1,158,0.8599,0.5208,0,0
+a93f32f6-961b-4478-bdc0-3e34db110b7a,Champak Saini,59,"907 Pillai Ganj, Tumkur, 422904",422904,9927147246,chakradhar248@gmail.com,VWZOZ,66,2,1,172,1.863,0.2,0,0
+62426b89-084d-40c9-92be-7fec0d78af0f,Shravya Hegde,31,"93 Cheema Path, Kharagpur, 638197",638197,9180933913,david514@yahoo.com,DQZBK,115,1,1,181,0.3765,0.1667,0,0
+7a85385c-e5ef-49d7-bda1-ef23665979da,Sara Kara,65,"566 Madan Circle, Thrissur, 884706",884706,9266821719,jhalak935@hotmail.com,JIXGC,99,1,1,169,0.3221,0.0833,0,0
+73306888-d7e5-4116-b6f9-f27be5dc878f,Amara Gole,28,"259 Dayal, Hosur, 688389",688389,7780205869,wakeeta359@gmail.com,METSL,42,2,1,172,1.8313,0.5,0,0
+2dbb40f8-40e2-44c3-8c5b-77ca437a5e81,Upasna Basu,22,"337 Tak Nagar, Aurangabad, 614154",614154,6940476044,pranav650@gmail.com,ZVWYZ,87,1,1,172,1.6909,0.25,0,0
+952f565e-bfd0-4cf6-a67d-071562235576,Vincent Hans,62,"451 Mani Ganj, Chittoor, 746177",746177,8490581477,om48@gmail.com,JHQZC,52,2,1,172,1.607,0.1667,0,0
+3799e29d-539a-4826-be78-7eff5fb15ea0,Siddharth Chowdhury,60,"952 Pandya Circle, Agra, 232187",232187,8010783567,warda320@yahoo.com,ABUVN,106,5,1,181,2.1926,0.4167,0,0
+b6648196-71c3-4ee1-9d26-84282f9acf6e,Alexander Gill,58,"220 Toor Street, Meerut, 658794",658794,9148552457,megha800@rediffmail.com,LCWTG,63,4,1,158,2.0203,0.4,0,0
+921c7c0f-99fa-4ede-9d45-ce8b4a78b153,Qadim Sachar,32,"175 Chad, New Delhi, 110303",110303,9876542028,bhavika313@fraudmail.in,AAAPF,7,2,12,18,0.0742,0.6875,1,1
+443f4c4f-7ac1-4821-aecb-c7908243fe54,Unnati Saxena,68,"830 Yadav Marg, Kalyan-Dombivli, 710039",710039,8297013712,yoshita292@yahoo.com,LJIJH,60,1,1,181,2.3328,0.0833,0,0
+98df4698-6871-4847-aaa0-4ab6d4249e24,Samarth Sarna,54,"432 Puri Ganj, Mathura, 271544",271544,6949407929,bachittar62@hotmail.com,VQHCN,72,3,1,169,2.1732,0.3,0,0
+a2648638-4be2-488d-bfba-7206daad0f8b,Ansh Badami,57,"762 Halder Street, Tumkur, 869774",869774,7487347143,gayathri288@hotmail.com,IODGS,69,2,1,169,1.8541,0.2,0,0
+8924424e-d14e-40d0-b9f9-74cf5686d53f,Atharv Wable,52,"609 Mahal Road, Asansol, 771050",771050,9592304501,jagdish570@rediffmail.com,JKEZW,70,3,1,158,0.4962,0.3,0,0
+18712125-38b4-4ae4-a20b-da23c4433497,Udarsh Bedi,29,"950 Mistry, Belgaum, 635272",635272,8982474140,indira474@gmail.com,FVDMA,13,2,1,172,1.075,0.7292,0,0
+78591c20-cf99-4345-993b-abe25934db7b,Upasna Mukhopadhyay,25,"427 Parekh Nagar, Bhind, 660761",660761,8723046184,yamini647@rediffmail.com,SKXNQ,100,1,1,158,0.922,0.25,0,0
+f5177ccc-f7f6-4f8f-8235-f286a000e5bc,Kritika Raja,41,"233 Sheth, Ramagundam, 888754",888754,6254729284,manbir196@yahoo.com,VSRDG,33,2,1,181,0.3905,0.25,0,0
+0f5b2e46-fce9-4f62-b5e7-1bf2fa35eff4,Jason Prashad,61,"774 Mangal, Bangalore, 670368",670368,9258874495,siddharth802@outlook.com,TWRTL,47,4,1,169,1.8385,0.3333,0,0
+e3aa1b16-728f-4a1c-ac72-38aebd11dc4f,Manbir Saha,30,"591 Basu Ganj, Arrah, 704040",704040,7665528993,vincent119@outlook.com,AWIVH,52,2,1,169,0.7816,0.3333,0,0
+6b54ba49-d535-4740-bc0b-aebcd6b89988,Hredhaan Rout,48,"660 Agrawal Zila, Proddatur, 538069",538069,6186774037,akshay522@hotmail.com,SDXFF,74,1,1,169,2.1662,0.125,0,0
+48674972-89e8-4d08-b838-123c2f4e325e,Naveen Rajagopalan,28,"969 Shroff Marg, Arrah, 311498",311498,9354396273,mohini757@outlook.com,JXCEE,104,2,1,169,2.1972,0.5,0,0
+a0529c21-5ce7-4fa0-845f-e0809b0c25eb,Januja Deep,50,"296 Nadkarni Circle, Kakinada, 337491",337491,8213882090,oscar992@rediffmail.com,NFMVJ,40,2,1,158,0.92,0.2,0,0
+9c50b6a4-901f-4f33-abd4-b83bdb302dc6,Caleb Gole,36,"991 Badami Path, Chinsurah, 604504",604504,7036149872,mekhala575@yahoo.com,ROROB,41,2,1,181,0.5821,0.3333,0,0
+8ee06927-ca9a-43d4-9909-e3535e54773c,Victor Borde,46,"433 Raval, Ludhiana, 354989",354989,9987486941,yachana345@hotmail.com,PZUBD,45,3,1,169,0.5965,0.375,0,0
+e503c6c4-cade-4d5a-beb7-2e83fc4d770e,Hredhaan Naidu,37,"701 Kumar Path, Muzaffarpur, 580710",580710,7563669411,avni580@gmail.com,BYMJP,59,3,1,172,1.7757,0.5,0,0
+3ca1a52d-e345-416b-86f2-7eeba0ddacc2,Ganga Joshi,24,"602 Balakrishnan Path, Proddatur, 559121",559121,7214559376,anirudh429@gmail.com,YRRSH,22,1,1,172,1.86,0.2917,0,0
+05511da2-244b-44df-a615-f38f863f58de,Amruta Sarin,34,"155 Kaul, Berhampore, 338060",338060,8050641383,farhan439@outlook.com,YZDHB,105,1,1,169,0.8092,0.1667,0,0
+c68e2a3b-9b39-4db4-96a4-7b6f0e327c22,Ekani Taneja,66,"891 Mitter Chowk, Hapur, 195246",195246,9520238974,joshua939@yahoo.com,SKUQS,35,1,1,181,2.0605,0.0833,0,0
+f6d1f8e6-e32d-4dd3-b641-9faf193acfe5,Oeshi Morar,34,"358 Halder Nagar, Mumbai, 400812",400812,7732192059,mitali752@syntheticid.net,BBBQX,2,2,11,16,0.1398,0.7917,2,1
+6ccd4a97-2e1b-4f80-be0c-b2f44a267399,Azaan Ganguly,65,"782 Narang, Naihati, 272777",272777,8228728080,adya869@gmail.com,YRTKV,55,3,1,172,0.8092,0.25,0,0
+c7cef010-5b4a-4431-b5ab-c7a570e58f07,Omaja Borra,56,"821 Mitter Zila, Serampore, 633396",633396,8270171302,praneel970@yahoo.com,DEOUF,18,2,1,181,1.4163,0.325,0,0
+cfdce162-e1fa-45df-a1af-de70d88991d9,Zayyan Lall,41,"110 Kara Nagar, Ajmer, 756547",756547,9287431527,samarth673@hotmail.com,SAIHR,84,3,1,169,0.725,0.375,0,0
+dfb60ab8-22d1-4bce-b3e1-6508af4c63ce,Dayita Pathak,62,"921 Pal Ganj, Ichalkaranji, 371782",371782,8569644309,leena542@hotmail.com,VDUOU,98,5,1,169,1.0634,0.4167,0,0
+3f190483-7da8-4104-bf9d-0590e2767adb,Naksh Tak,40,"587 Patla Nagar, Guntur, 855268",855268,7158935712,sara738@outlook.com,VCBXM,97,3,1,169,1.2816,0.375,0,0
+a00ed9a5-cd33-49c7-a79c-5f1447e000c2,Vrishti Bhardwaj,24,"498 Varma Zila, Yamunanagar, 684310",684310,9789940539,rachit745@gmail.com,AXRYV,37,1,1,172,1.3297,0.25,0,0
+13c7220a-96d0-477f-a453-ea22dbd535f5,Devika Mall,52,"297 Nagy Road, Jalgaon, 476197",476197,8661766204,yashasvi478@gmail.com,OAHQX,73,3,1,172,1.6637,0.3,0,0
+a1192a83-26e4-44d4-a858-e7a17d7dd801,Adya Thaman,63,"406 Din Circle, Nagercoil, 771436",771436,6103712938,radha706@outlook.com,ASVZK,33,1,1,169,0.5908,0.0833,0,0
+faeb6f84-5931-49e2-a0e3-244cfb20677d,Anthony Pandey,44,"423 Batta, Meerut, 510517",510517,6866281372,oscar128@hotmail.com,FBRAQ,55,1,1,169,1.834,0.125,0,0
+40410455-b588-480f-880f-3278a2989398,Jairaj Raghavan,31,"915 Srivastava Street, Haldia, 280163",280163,9083172788,thomas619@hotmail.com,YXPSN,95,1,1,169,2.1273,0.1667,0,0
+9ec5d1c8-e676-49e1-a793-0a812eff1fbd,Tamanna Nagarajan,26,"777 Mane Nagar, Belgaum, 572561",572561,9880023009,devika119@hotmail.com,UCDPY,22,2,1,169,0.8376,0.5417,0,0
+2080cf42-a196-4ea4-9f4c-c550727a3fc6,Oscar Jhaveri,60,"972 Merchant Chowk, Ichalkaranji, 881557",881557,6928565431,gavin36@yahoo.com,MKOGG,31,4,1,181,1.2818,0.3333,0,0
+dc1c3f35-f667-47a7-9c49-4289aad6fe84,Avni Lanka,42,"299 Divan Street, Visakhapatnam, 842661",842661,7982622444,yashawini514@yahoo.com,BLKMB,61,1,1,181,0.8537,0.125,0,0
+9d8e8e07-7120-4613-93e7-f4adfe12bbf6,Bakhshi Goswami,68,"254 Dua Ganj, Rewa, 327569",327569,7906007806,sara553@outlook.com,MUVLG,66,2,1,169,1.5287,0.1667,0,0
+db74ecc0-5a59-4da4-992e-f09aaf0e65ee,Farhan Gill,25,"325 Doshi Zila, New Delhi, 110909",110909,9876556684,yatin739@fraudmail.in,AAAPF,5,1,12,18,0.0457,0.6458,1,1
+e44a4537-a5d1-4968-8056-c51025d6ca2e,Upma Patil,44,"437 Ravi Circle, Guntakal, 280851",280851,9652892866,eta301@outlook.com,QSYXC,118,3,1,169,0.4928,0.375,0,0
+5b3b9b8f-f544-40c4-8c50-0444cb52bd80,Naveen Trivedi,47,"566 Sama Chowk, Saharanpur, 819700",819700,7176591803,bhanumati226@rediffmail.com,MBBYX,60,2,1,158,1.5397,0.25,0,0
