@@ -257,6 +257,21 @@ a:hover { opacity: 0.8; }
   border-bottom-color: var(--primary-container);
 }
 
+.top-nav-locked {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  background: rgba(239, 68, 68, 0.08);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: 4px;
+  font-family: var(--font-code);
+  font-size: 11px;
+  color: var(--risk-high);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 /* Header search */
 .header-search-wrap {
   display: flex;

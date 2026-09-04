@@ -64,8 +64,9 @@ export default function AuthPage({ initialMode = 'login' }: AuthPageProps) {
 
     try {
       await login({ email: loginEmail, password: loginPassword })
+      const from = (location.state as any)?.from?.pathname || '/dashboard'
       setSuccessMessage('Credentials validated. Enclave session established.')
-      setTimeout(() => navigate('/dashboard'), 400)
+      setTimeout(() => navigate(from), 400)
     } catch (err: any) {
       setError(err.message || 'Authentication failed. Please verify credentials.')
     } finally {
@@ -89,8 +90,9 @@ export default function AuthPage({ initialMode = 'login' }: AuthPageProps) {
         clearance: signupClearance,
         department: signupDept,
       })
+      const from = (location.state as any)?.from?.pathname || '/dashboard'
       setSuccessMessage('Operator credentials provisioned. Redirecting to terminal...')
-      setTimeout(() => navigate('/dashboard'), 500)
+      setTimeout(() => navigate(from), 500)
     } catch (err: any) {
       setError(err.message || 'Failed to enlist operator.')
     } finally {
@@ -104,8 +106,9 @@ export default function AuthPage({ initialMode = 'login' }: AuthPageProps) {
     setSubmitting(true)
     try {
       await demoLogin(preset)
+      const from = (location.state as any)?.from?.pathname || '/dashboard'
       setSuccessMessage(`Demo session authorized as ${preset === 'lead' ? 'Lead Investigator OP-8842' : 'Analyst OP-4109'}.`)
-      setTimeout(() => navigate('/dashboard'), 400)
+      setTimeout(() => navigate(from), 400)
     } catch (err: any) {
       setError(err.message || 'Quick demo login failed.')
     } finally {

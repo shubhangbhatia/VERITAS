@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
-import { BrowserRouter, Routes, Route, NavLink, useNavigate } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, NavLink, useNavigate, Navigate, useLocation } from 'react-router-dom'
 import UploadPage from './pages/Upload'
 import DashboardPage from './pages/Dashboard'
 import IdentityDetailPage from './pages/IdentityDetail'
@@ -159,7 +159,12 @@ function TopHeader() {
     <header className="top-header">
       <div className="top-header-inner">
         {/* Logo */}
-        <div className="header-logo" onClick={() => navigate('/')} style={{ cursor: 'pointer' }}>
+        <div 
+          className="header-logo" 
+          onClick={() => navigate(isAuthenticated ? '/' : '/login')} 
+          style={{ cursor: 'pointer' }}
+          title={isAuthenticated ? 'Veritas Operation Deck' : 'Veritas Security Gate'}
+        >
           <div className="header-logo-info">
             <span className="header-logo-title">
               VERITAS{' '}
@@ -181,30 +186,38 @@ function TopHeader() {
         </div>
 
         {/* Nav links */}
-        <nav className="top-nav">
-          <NavLink
-            to="/"
-            end
-            className={({ isActive }) => `top-nav-link${isActive ? ' active' : ''}`}
-          >
-            Analyst Dashboard
-          </NavLink>
-          <NavLink
-            to="/dashboard"
-            className={({ isActive }) => `top-nav-link${isActive ? ' active' : ''}`}
-          >
-            Triage Queue
-          </NavLink>
-          <NavLink
-            to="/rings"
-            className={({ isActive }) => `top-nav-link${isActive ? ' active' : ''}`}
-          >
-            Fraud Ring Investigation
-          </NavLink>
-        </nav>
+        {isAuthenticated ? (
+          <nav className="top-nav">
+            <NavLink
+              to="/"
+              end
+              className={({ isActive }) => `top-nav-link${isActive ? ' active' : ''}`}
+            >
+              Upload
+            </NavLink>
+            <NavLink
+              to="/dashboard"
+              className={({ isActive }) => `top-nav-link${isActive ? ' active' : ''}`}
+            >
+              Triage Queue
+            </NavLink>
+            <NavLink
+              to="/rings"
+              className={({ isActive }) => `top-nav-link${isActive ? ' active' : ''}`}
+            >
+              Fraud Ring Investigation
+            </NavLink>
+          </nav>
+        ) : (
+          <div className="top-nav-locked">
+            <span className="mat-icon" style={{ fontSize: 14, color: 'var(--risk-high)' }}>lock</span>
+            <span className="top-nav-locked-text">ENCLAVE ACCESS LOCKED // AUTHENTICATION REQUIRED</span>
+          </div>
+        )}
 
         {/* Live Search */}
-        <div className="header-search-wrap" ref={searchWrapRef}>
+        {isAuthenticated && (
+          <div className="header-search-wrap" ref={searchWrapRef}>
           <div className="header-search">
             <span 
               className="mat-icon search-icon" 
@@ -282,6 +295,7 @@ function TopHeader() {
             </div>
           )}
         </div>
+        )}
 
         {/* Right meta */}
         <div className="header-right">
@@ -416,21 +430,110 @@ function PipelineRibbon() {
   )
 }
 
+/* ── Protected Route Guard ───────────────────────────────────────────────── */
+function ProtectedRoute({ children }: { children: React.ReactNode }) {
+  const { isAuthenticated, isLoading } = useAuth()
+  const location = useLocation()
+
+  if (isLoading) {
+    return (
+      <div
+        className="auth-loading-screen"
+        style={{
+          minHeight: '65vh',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: '1.25rem',
+        }}
+      >
+        <div style={{ position: 'relative', width: 40, height: 40 }}>
+          <span
+            className="mat-icon spinning"
+            style={{
+              fontSize: 40,
+              color: 'var(--primary-container)',
+            }}
+          >
+            progress_activity
+          </span>
+        </div>
+        <div
+          style={{
+            fontFamily: 'var(--font-code)',
+            fontSize: '11px',
+            color: 'var(--color-text-muted)',
+            letterSpacing: '0.12em',
+            textTransform: 'uppercase',
+          }}
+        >
+          Verifying Operator Clearance // Veritas Enclave
+        </div>
+      </div>
+    )
+  }
+
+  if (!isAuthenticated) {
+    return <Navigate to="/login" state={{ from: location }} replace />
+  }
+
+  return <>{children}</>
+}
+
 /* ── App Shell ───────────────────────────────────────────────────────────── */
 function AppContent() {
+  const { isAuthenticated } = useAuth()
+
   return (
     <div className="app-layout">
       <TopHeader />
       <main className="main-content">
         <PipelineRibbon />
         <Routes>
-          <Route path="/" element={<UploadPage />} />
-          <Route path="/dashboard" element={<DashboardPage />} />
-          <Route path="/identities" element={<DashboardPage />} />
-          <Route path="/identity/:id" element={<IdentityDetailPage />} />
-          <Route path="/rings" element={<FraudRingsPage />} />
+          <Route
+            path="/"
+            element={
+              <ProtectedRoute>
+                <UploadPage />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/dashboard"
+            element={
+              <ProtectedRoute>
+                <DashboardPage />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/identities"
+            element={
+              <ProtectedRoute>
+                <DashboardPage />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/identity/:id"
+            element={
+              <ProtectedRoute>
+                <IdentityDetailPage />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/rings"
+            element={
+              <ProtectedRoute>
+                <FraudRingsPage />
+              </ProtectedRoute>
+            }
+          />
           <Route path="/login" element={<AuthPage initialMode="login" />} />
           <Route path="/signup" element={<AuthPage initialMode="signup" />} />
+          <Route path="*" element={<Navigate to={isAuthenticated ? "/" : "/login"} replace />} />
         </Routes>
       </main>
     </div>
